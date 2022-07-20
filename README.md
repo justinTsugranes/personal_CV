@@ -61,7 +61,7 @@ Helped produce several television commercials for international brands that were
 - Agencies: DLA, Weber Shandwick, BBDO, XO
 
 [Dolby Atmos: Experience The Weeknd's Take My Breath Like Never Before](https://www.youtube.com/watch?v=Qd1ZFLsVtgo)<br>
-[Chevy: Walter the Cat](https://www.youtube.com/watch?v=bfuhFvZsgkc)br>
+[Chevy: Walter the Cat](https://www.youtube.com/watch?v=bfuhFvZsgkc)<br>
 [Fedex: Make a World of Difference](https://www.youtube.com/watch?v=Ugu225pTIm0)<br>
 
 **Guitarist | Senior Supply Operations NCO**<br>
