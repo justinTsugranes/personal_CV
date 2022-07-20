@@ -9,6 +9,14 @@ Having been involved in the music industry for over 22 years, I've witnessed mul
 
 I'm currently spending my time coding smart contracts. I'm deep into the tokenization of real estate and the possibilities for flash loan arbitrage opportunities within the global rental markets as well as the applicability of interactive reality NFTs, decentralized lending/borrowing, and flash loans as pertain to the future of real estate sales for agents.
 
+## Formal Education
+
+**Master of Music** in Jazz Studies<br>
+[University of South Carolina]() - Columbia, SC _(Aug 2011 - May 2013)_ <br>
+
+**Bachelor of Arts** in Music Performance<br>
+[Winthrop University]() - Rock Hill, SC _(Aug 2006 - May 2010)_ <br>
+
 ## Blockchain and IT Experience
 
 
@@ -23,9 +31,8 @@ Currently learning Smart Contract Development
  - This require extreme focus while I maintain a sharp analytical mind to identify non-obvious opportunities for the deployment of capital while interacting daily with Web 3.0 protocols built on Layer 1 and Layer 2 Enterprise Smart Contract Platforms such as Bitcoin, Ethereum, Polygon, Lightning, Solana, Cosmos, Fantom, Avalanche, Binance Smart Chain, and the Internet Computer.
 
  - Often times, this includes utilizing multiple on-ramps, off-ramps, and bridges to transfer assets cross-chain in order to synchronize financial strategies between exchanges, hard wallets, and cold wallets to strategically take advantage of the benefits of TradFi, CeFi, and DeFi.
-<br><br>
 
-## Tech Relateds Certificates and Bootcamps
+### Tech Relateds Certificates and Bootcamps
 
 **Chainlink Smart Contract Developer Bootcamp** focused on full-stack JavaScript<br>
 [Google](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
@@ -41,11 +48,13 @@ Currently learning Smart Contract Development
 
 **IT Support Fundamentals Certificate** focused on full-stack JavaScript<br>
 [Google](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
-    
+
+---
     
 ## Other Professional Experience
 
-**Production Assistant** @ Freelance _(May 2020 - Nov 2021)_ <br>
+**Production Assistant**
+@ Freelance _(May 2020 - Nov 2021)_ <br>
 Helped produce several television commercials for international brands that were aired during Super Bowl LV on February 7, 2021
 - Production Clients: Dolby Atmos, Chevy, Fedex, Lowes
 - Production Companies Worked With: Moxie Pictures, Backyard Productions, Somesuch Productions, Golden Productions
@@ -55,7 +64,8 @@ Helped produce several television commercials for international brands that were
 <a href="https://www.youtube.com/watch?v=bfuhFvZsgkc"> Chevy: Walter the Cat</a><br>
 <a href="https://www.youtube.com/watch?v=Ugu225pTIm0"> Fedex: Make a World of Difference</a><br>
 
-**Guitarist | Senior Supply Operations NCO** @ US Army National Guard _(2009 - 2021)_ <br>
+**Guitarist | Senior Supply Operations NCO**
+@ US Army National Guard _(2009 - 2021)_ <br>
 - Worked with a team of thirty-five Army musicians to load, unload, setup, operate live sound systems and perform on guitar and percussion in major performance halls across South Carolina and California for crowds in excess of 100,000 people
 
 - Chosen by senior leaders to fill the role of Senior Logistics and Resource Management NCO from 2012-2018, a position above my pay grade, taking on the responsibility of leading a five-person team to maintain a property book worth over $500,000 and coordinate supply operations to ensure that any logistical problems were resolved
@@ -75,7 +85,8 @@ Notable Performances:
  
  <br>
 
-**Founder, CEO** @ Ridgeline Records _(2006 - 2020)_ <br>
+**Founder, CEO**
+@ Ridgeline Records _(2006 - 2020)_ <br>
 Cultivated effective working relationships with potential clients in order to coordinate and book performance events in over 500 public, private and corporate events as a privately contracted musician for clients including, but not limited to:
 
 - BMW
@@ -91,7 +102,8 @@ Cultivated effective working relationships with potential clients in order to co
 
 <br>
 
-**Operations Manager** @ Keller Williams Professionals Realty - Columbia, SC _(2017-2019)_ <br>
+**Operations Manager**
+@ Keller Williams Professionals Realty - Columbia, SC _(2017-2019)_ <br>
 - Worked with clients, attorneys, contractors, builders, city/county registrars, and lending institutions to ensure that our team delivered consistent, high-quality client experiences while successfully closing over $9M in sales in 2018
 
 - Built, implemented, and managed a new client care system in a cutting edge Real Estate CRM for a database of 7,500+ leads while providing back-office support for a top producing real estate team with the primary goal of increasing yearly gross commission income for the team.
@@ -102,20 +114,23 @@ Cultivated effective working relationships with potential clients in order to co
 
 <br>
 
-**Electric Guitar, Bass Guitar, Vocals** @ Emma’s Lounge, Asheville, NC _(2016-2017)_ <br>
+**Electric Guitar, Bass Guitar, Vocals**
+@ Emma’s Lounge, Asheville, NC _(2016-2017)_ <br>
 Folk Rock, Americana, Jam Band
 - Performed across North Carolina, South Carolina, Georgia and Virginia
 - French Broad River Festival, 2017
 
 <br>
 
-**Electric Guitarist, Composer** @ Calvin Get Down, Asheville, NC _(2014-2015)_ <br>
+**Electric Guitarist, Composer**
+@ Calvin Get Down, Asheville, NC _(2014-2015)_ <br>
 Funk, Rock, Blues
 - Performed in local venues, breweries and festivals
 
 <br>
   
-**Microsoft Consultant** @ Best Buy, Inc. Asheville, NC _(2013 - 2014)_ <br>
+**Microsoft Consultant**
+@ Best Buy, Inc. Asheville, NC _(2013 - 2014)_ <br>
 - Demonstrated the functinality and usefulness of the Microsoft Surface Pro product line as well as introduced users to the newly developed Chrome OS
 
 <br>
@@ -127,17 +142,21 @@ Funk, Rock, Blues
 
 <br>
 
-**Adjunct Faculty Member** @ Winthrop University, Rock Hill, SC _(2008 - 2010)_ <br>
+**Adjunct Faculty Member**
+@ Winthrop University, Rock Hill, SC _(2008 - 2010)_ <br>
 - Selected by Winthrop University Faculty members as an accompanist for major musical theatre productions and dance classes (modern and ballet) on electric and acoustic guitar
 - Responsible for several hours of unscripted improvisations on guitar that were specifically tailored for the needs of various dance instructors in every style, meter and tempo
 - Served as a substitute instructor for guitar ensembles, Jazz history classes and music appreciation classes
 
 <br>
   
-**Senior Sales Associate** @ Radioshack _(2006 - 2008)_ <br>
+**Senior Sales Associate**
+@ Radioshack _(2006 - 2008)_ <br>
 - It was the best job I've ever had. I got to play with remote control cars all day, install surround sound in the store, learn about resistors and stuff, and make sure everyone had plenty of batteries.
 
 <br>
+
+---
 
 ## MUSICAL THEATRE PRODUCTIONS
 
@@ -148,10 +167,9 @@ Anything Goes, Winthrop University, Rock Hill, SC — Guitar (2009)
 
 <br>
 
+---
+
 ## PUBLIC SPEAKING
-  
-- **single-threaded Podcast** _(released on Mar 31, 2021)_
-[Crying at work](https://anchor.fm/single-threaded/episodes/Carolyn-Stransky-on-Crying-at-Work-etu7hj)<br>
 
 - **The Soundcheck Radioshow 103.7** _(live-broadcast, 2017)_ <br>
 
@@ -159,6 +177,8 @@ Anything Goes, Winthrop University, Rock Hill, SC — Guitar (2009)
 <br>[Send Me An Email]() for more information.
 
 <br>
+
+---
   
 ## Awards and Accomplishments
 
@@ -171,15 +191,9 @@ Anything Goes, Winthrop University, Rock Hill, SC — Guitar (2009)
 
 <br>
 
-## Formal Education
+---
 
-**Master of Music** in Jazz Studies<br>
-[University of South Carolina]() - Columbia, SC _(Aug 2011 - May 2013)_ <br>
-
-**Bachelor of Arts** in Music Performance<br>
-[Winthrop University]() - Rock Hill, SC _(Aug 2006 - May 2010)_ <br>
-
-## Other Certificates, Courses, Seminars, and Conventions<br>
+## Certificates, Courses, Seminars, and Conventions<br>
 
 2022 - Blockchain and Smart Contract Security (LinkedIn Learning)
 2022 - Create and Manage Cloud Resources (Google)
@@ -214,6 +228,8 @@ Anything Goes, Winthrop University, Rock Hill, SC — Guitar (2009)
 2005-2006 - Fine Arts Center, Greenville, SC - Certificate - Certificate, Jazz Studies and Guitar Performance with Steve Watson
 2005 - Berklee College of Music, Boston, MA - Certificate - Summer Performance Intensive Program, Guitar
 
+---
+
 <br>
 
 ## Exhaustive Full List of Technical Literacies In Alphabetical Order<br>
@@ -231,6 +247,8 @@ Social Media: Facebook, Youtube, Pinterest, LinkedIn, Instagram, Twitter
 Distribution: CDBaby, Soundcloud, Bandcamp
 Syndication: Buffer, BandsInTown, Songkick
 Web Design: Squarespace, Wix
+
+---
 
 <br>
 
