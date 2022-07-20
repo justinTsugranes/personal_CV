@@ -25,29 +25,44 @@ Currently learning Smart Contract Development
   - **_Technologies and Languages used:_** Solidity, Hardhat, ethers.js, React, IPFS, MetaMask, Visual Studio Code.
 <br><br>
 
-**Web 3.0 Investment Analyst** _(Dec 2020 - Present)_ <br>
+**Web 3.0 Investment Analyst** _(Dec 2020 - Present)_
   - I focused on sourcing early stage investment opportunities in emergent companies and protocols within the blockchain technology space, specializing in the music, art, and entertainment industries in addition to global financial markets.
 
  - This require extreme focus while I maintain a sharp analytical mind to identify non-obvious opportunities for the deployment of capital while interacting daily with Web 3.0 protocols built on Layer 1 and Layer 2 Enterprise Smart Contract Platforms such as Bitcoin, Ethereum, Polygon, Lightning, Solana, Cosmos, Fantom, Avalanche, Binance Smart Chain, and the Internet Computer.
 
  - Often times, this includes utilizing multiple on-ramps, off-ramps, and bridges to transfer assets cross-chain in order to synchronize financial strategies between exchanges, hard wallets, and cold wallets to strategically take advantage of the benefits of TradFi, CeFi, and DeFi.
 
-### Tech Relateds Certificates and Bootcamps
+### Tech Relateds Certificates, Courses and Bootcamps
 
-**Chainlink Smart Contract Developer Bootcamp** focused on full-stack JavaScript<br>
-[Google](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+**Chainlink Smart Contract Developer Bootcamp**<br>
+[Google](https://chain.link/bootcamp/bootcamp-2021-on-demand#:~:text=Smart%20Contract%20Developer%20Bootcamp%202021&text=Session%20two%20focuses%20on%20using,Brownie)%20for%20the%20second%20one.) - _(2022)_ <br>
+
+**Blockchain and Smart Contract Security**<br>
+[LinkedIn](https://www.linkedin.com/learning/certificates/396199478e892db785773b04cacabcb2c5d66fad6b7e955c5eef166660da3c10?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsRdSfJeCSo2mALo3JAoD4A%3D%3D) _(2022)_ <br>
 
 **Responsive Web Design** focused on full-stack JavaScript<br>
-[freeCodeCamp](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+[freeCodeCamp](https://freecodecamp.org/certification/jtsugranes/responsive-web-design) - _(2022)_ <br>
 
-**Managing Cloud Resources** focused on full-stack JavaScript<br>
-[Google](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+**Creating and Managing Cloud Resources**<br>
+[Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2469699?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - Berlin, Germany _(2022_ <br>
 
-**IT Support Professional Certificate** focused on full-stack JavaScript<br>
-[Google](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+**Infrastructure and Application Modernization with Google Cloud**<br>
+[Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2463513?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022_ <br>
 
-**IT Support Fundamentals Certificate** focused on full-stack JavaScript<br>
-[Google](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+**Innovating with Data and Google Cloud**<br>
+[Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2462976?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022_ <br>
+
+**Understanding Google Cloud Security and Operations**<br>
+[Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2463816?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022_ <br>
+
+**Introduction to Digital Transformation with Google Cloud**<br>
+[Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2461375?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022_ <br>
+
+**IT Support Professional Certificate**<br>
+[Google]() - _(2022)_ <br>
+
+**Technical Support Fundamentals Certificate**<br>
+[Google](https://www.coursera.org/account/accomplishments/certificate/Y3GXSZJNQVTH) - _(2022)_ <br>
 
 ---
     
@@ -159,10 +174,33 @@ Funk, Rock, Blues
 
 ## MUSICAL THEATRE PRODUCTIONS
 
-Legally Blonde, Workshop Theatre, Columbia, SC — Guitar (2012)
-Grease, Town Theatre, Columbia, SC — Guitar (2012)
-Godspell, Winthrop University, Rock Hill, SC — Guitar (2010)
-Anything Goes, Winthrop University, Rock Hill, SC — Guitar (2009)
+Legally Blonde, Workshop Theatre, Columbia, SC — Guitar (2012)<br>
+Grease, Town Theatre, Columbia, SC — Guitar (2012)<br>
+Godspell, Winthrop University, Rock Hill, SC — Guitar (2010)<br>
+Anything Goes, Winthrop University, Rock Hill, SC — Guitar (2009)<br>
+
+<br>
+
+---
+
+<br>
+
+## VOLUNTEER EXPERIENCE
+
+**[Sync Con](https://synccon.com/)** - Los Angeles, CA _(2019)_
+Volunteered for the annual Sync Con Music Syncronization conference in Hollywood, CA
+Helped with VIP Guest registration and guest artist relations.
+
+**[RiverLink](https://riverlink.org/)** - Asheville, NC _(2018)_
+RiverLink is a non-profit that focuses on cleaning up the French Broad River in Asheville, NC
+As a member of Keller Williams' "Red Day," I worked in two and three person teams to paddle the French Broad River to collect trash and debris as part of their revitalization project
+
+**[South Carolina Music Educator's Conference](https://www.scmea.net/)** - Charleston, SC _(2011-2019)_
+As a liaison for the South Carolina National Guard, I was responsible for designing a booth display seen by over 5,000 students and music professionals as well as giving masterclasses on Jazz Guitar to attract potential candidates to the Army Band
+
+**[Spartan](https://www.spartan.com/)** - South Carolina _(2013)_
+Helped to raise money on behalf of Home For Our Troops to help injured veterans.
+Worked in a two-man team to navigate 13 miles of unmarked terrain to design a half-marathon obstacle course that was used by 7,500 people
 
 <br>
 
@@ -192,40 +230,32 @@ Anything Goes, Winthrop University, Rock Hill, SC — Guitar (2009)
 
 ---
 
-## Certificates, Courses, Seminars, and Conventions<br>
+## Awards, Certificates, Courses, Seminars, and Conventions Not Listed Above<br>
 
-2022 - Blockchain and Smart Contract Security (LinkedIn Learning)
-2022 - Create and Manage Cloud Resources (Google)
-2022 - Infrastructure and Application Modernization with Google Cloud (Google)
-2022 - Innovating with Data and Google Cloud (Google)
-2022 - Responsive Web Design (freecodeCamp)
-2022 - Introduction to Digital Transformation with Google Cloud (Google)
-2022 - Understanding Google Cloud Security and Operations (Google)
-2022 - Technical Support Fundamentals (Google)
-2022 - Strategic Planning Foundations (LinkedIn Learning)
-2022 - WordPress 5 Essential Training
-2010-2022, Secret Security Clearance Holder
-2021 - Chainlink Smart Contract Summit
-2019 - Sync Con Hollywood - Annual Sync Con Music Synchronization conference in Hollywood, CA. Helped with VIP Guest registration and guest artist relations.
-2011-2019 - South Carolina Music Educators Association Conference, Columbia, SC - As a liaison for the South Carolina National Guard, I was responsible for designing a booth display seen by over 5,000 students and music professionals as well as giving masterclasses on Jazz Guitar to attract potential candidates to the Army Band
-2019 - Leading with Intelligent Disobedience
-2019 - Guy Kawasaki on Entrepreneurship
-2019 - Managing Your Personal Investments (LinkedIn Learning)
-2019 - The Science of Logo Design (LinkedIn Learning)
-2018 - Commissions Inc Live Sales and Lead Generation Summit, Atlanta, GA
-2018 - Online Presence vs. Presence Online, Full Day Training Seminar led by the Best Selling Author of The Social Agent, Tony Giordano, that focused on the modern-day language of sales and social media marketing tactics
-2018 - Personal Branding Mastery, Full Day Marketing and Sales Training Seminar led by Tim Davis
-2017 - Army Structured Self-Development Course Level 2 - Military Training Course designed around developing advanced team leadership skills
-2016, CPR Certification
-2015 - Army Warrior Leader Course, Columbia, SC - Two week intensive leadership course that prepares military soldiers to advance to the rank of Sergeant. Made the Commandant’s List and nominated by my peers and cadre to compete for Honor Graduate for finishing in the top 10% of my class
-2014 - Structured Self-Development Course Level 1 - Military Training Course focused on developing effective leadership skills.
-2010 - Army School of Music,  Little Creek Naval Base, Norfolk, VA - 5-week music performance course at the Army School of Music on Little Creek Naval Base. Received a “Charlie 1” Designation for scoring 32 out of 40 on the Army Music Proficiency Assessment, earning me a commendation from the Commandant of the School of Music
-2010, Combat Lifesaver Certification
-2010 - Army Basic Combat Training,  Fort Jackson, Columbia, SC - 10-Week military training course that teaches basic tactical survival skills, military customs and instills the 7 Core Army Values: Loyalty, Duty, Respect, Selfless Service, Honor, Integrity, Personal Courage
-2009, Roy T Will Music Theory Scholarship
-2008, SCUBA Certified
-2005-2006 - Fine Arts Center, Greenville, SC - Certificate - Certificate, Jazz Studies and Guitar Performance with Steve Watson
-2005 - Berklee College of Music, Boston, MA - Certificate - Summer Performance Intensive Program, Guitar
+2022 - Strategic Planning Foundations (LinkedIn Learning)<br>
+2022 - WordPress 5 Essential Training<br>
+2010-2022, Secret Security Clearance Holder<br>
+2021 - Chainlink Smart Contract Summit<br>
+2019 - Sync Con Hollywood - Annual Sync Con Music Synchronization conference in Hollywood, CA. Helped with VIP Guest registration and guest artist relations.<br>
+2011-2019 - South Carolina Music Educators Association Conference, Columbia, SC - As a liaison for the South Carolina National Guard, I was responsible for designing a booth display seen by over 5,000 students and music professionals as well as giving masterclasses on Jazz Guitar to attract potential candidates to the Army Band<br>
+2019 - Leading with Intelligent Disobedience<br>
+2019 - Guy Kawasaki on Entrepreneurship<br>
+2019 - Managing Your Personal Investments (LinkedIn Learning)<br>
+2019 - The Science of Logo Design (LinkedIn Learning)<br>
+2018 - Commissions Inc Live Sales and Lead Generation Summit, Atlanta, GA<br>
+2018 - Online Presence vs. Presence Online, Full Day Training Seminar led by the Best Selling Author of The Social Agent, Tony Giordano, that focused on the modern-day language of sales and social media marketing tactics<br>
+2018 - Personal Branding Mastery, Full Day Marketing and Sales Training Seminar led by Tim Davis<br>
+2017 - Army Structured Self-Development Course Level 2 - Military Training Course designed around developing advanced team leadership skills<br>
+2016, CPR Certification<br>
+2015 - Army Warrior Leader Course, Columbia, SC - Two week intensive leadership course that prepares military soldiers to advance to the rank of Sergeant. Made the Commandant’s List and nominated by my peers and cadre to compete for Honor Graduate for finishing in the top 10% of my class<br>
+2014 - Structured Self-Development Course Level 1 - Military Training Course focused on developing effective leadership skills.<br>
+2010 - Army School of Music,  Little Creek Naval Base, Norfolk, VA - 5-week music performance course at the Army School of Music on Little Creek Naval Base. Received a “Charlie 1” Designation for scoring 32 out of 40 on the Army Music Proficiency Assessment, earning me a commendation from the Commandant of the School of Music<br>
+2010, Combat Lifesaver Certification<br>
+2010 - Army Basic Combat Training,  Fort Jackson, Columbia, SC - 10-Week military training course that teaches basic tactical survival skills, military customs and instills the 7 Core Army Values: Loyalty, Duty, Respect, Selfless Service, Honor, Integrity, Personal Courage<br>
+2009, Roy T Will Music Theory Scholarship<br>
+2008, SCUBA Certified<br>
+2005-2006 - Fine Arts Center, Greenville, SC - Certificate - Certificate, Jazz Studies and Guitar Performance with Steve Watson<br>
+2005 - Berklee College of Music, Boston, MA - Certificate - Summer Performance Intensive Program, Guitar<br>
 
 ---
 
@@ -233,74 +263,76 @@ Anything Goes, Winthrop University, Rock Hill, SC — Guitar (2009)
 
 ## Exhaustive Full List of Technical Literacies In Alphabetical Order<br>
 
-Media Design, Adobe Photoshop CC, Illustrator CC, Lightroom Classic CC, Canva,
-Operating Systems: Apple, Windows
-Audio Production: Logic Pro X, PreSonus Studio One, Finale 2014, Band in a Box
-Video Production: Adobe Premiere Pro CC, Final Cut Pro X, Google Hangouts, Skype
-CRM: Commission’s Inc, e-Edge, HubSpot
-Organizational: Microsoft Office Suite, Google Drive, Docs, Sheets, Calendar, Forms, Adobe Acrobat CC, Dropbox, Evernote, Trello, DotLoop Matrix, Proxio
-Analytics: Google Search Console, Squarespace Analytics
-Marketing/Advertising: Google Adwords, Facebook Ads, Mailchimp
-Financial Management: Quickbooks, Turbotax
-Social Media: Facebook, Youtube, Pinterest, LinkedIn, Instagram, Twitter
-Distribution: CDBaby, Soundcloud, Bandcamp
-Syndication: Buffer, BandsInTown, Songkick
-Web Design: Squarespace, Wix
+Media Design, Adobe Photoshop CC, Illustrator CC, Lightroom Classic CC, Canva, Giphy<br>
+Operating Systems: Apple, Windows<br>
+Audio Production: Logic Pro X, PreSonus Studio One, Finale 2014, Band in a Box<br>
+Video Production: Adobe Premiere Pro CC, Final Cut Pro X<br>
+Video Communication: Zoom, Skype, Google Hangouts, Facetime, WhatsApp<br>
+CRM: Commission’s Inc, e-Edge<br>
+Workplace: Microsoft Office Suite, Google Workplace, NotionAdobe Acrobat CC, Dropbox, Evernote, Trello, DotLoop Matrix, Proxio<br>
+Analytics: Google Search Console, Squarespace Analytics<br>
+Marketing/Advertising: Google Adwords, Facebook Ads, Mailchimp<br>
+Financial Management: Quickbooks, Turbotax<br>
+Social Media: Facebook, Youtube, Pinterest, LinkedIn, Instagram, Twitter<br>
+Distribution: CDBaby, Soundcloud, Bandcamp<br>
+Syndication: Buffer, BandsInTown, Songkick<br>
+Web Design: Squarespace, Wix<br>
 
 ---
 
 <br>
 
-## Exhaustive Full List Of Skills<br>
+## Exhaustive, Kinda Ridculous Full List Of Skills, Technical Literacies, and Rando Stuff I Know About<br>
 
-Analytics
-Band Promotion
-Bass Guitar
-Blogging
-Brand Development
-Business Process Improvement
-Communication
-Content Marketing
-Copywriting
-Customer Relationship Management
-Dance Class Accompaniment
-Digital Music Recording
-Electric Guitar Instruction
-Event-based Marketing
-Hospitality Industry
-Jazz Education
-Jazz Improvisation
-Live Performance
-Live Sound
-Marketing Material Creation
-Marketing Strategy
-Musical Theatre
-Music Education
-Music History
-Music Marketing
-Music Performance
-Music Production
-Office Management
-Operations Management
-Operations Process Improvement
-Original Music
-Photography
-Private Event Planning
-Process Improvement
-Project Management
-Real Estate Transactions
-Research
-Sales
-Sales Process Improvement
-Sales Process Implementation
-Search Engine Optimization (SEO)
-Sight-Reading
-Small Business Management
-Social Media Management
-Social Media Marketing
-Task Management
-Team Building
-Team Leadership
-Training Management
-Videography
-Web and Media Design
+Analytics<br>
+Band Promotion<br>
+Bass Guitar<br>
+Blogging<br>
+Brand Development<br>
+Business Process Improvement<br>
+Communication<br>
+Content Marketing<br>
+Copywriting<br>
+Customer Relationship Management<br>
+Dance Class Accompaniment<br>
+Digital Music Recording<br>
+Electric Guitar Instruction<br>
+Event-based Marketing<br>
+Hospitality Industry<br>
+Jazz Education<br>
+Jazz Improvisation<br>
+Live Performance<br>
+Live Sound<br>
+Marketing Material Creation<br>
+Marketing Strategy<br>
+Musical Theatre<br>
+Music Education<br>
+Music History<br>
+Music Marketing<br>
+Music Performance<br>
+Music Production<br>
+Office Management<br>
+Operations Management<br>
+Operations Process Improvement<br>
+Original Music<br>
+Photography<br>
+Private Event Planning<br>
+Process Improvement<br>
+Project Management<br>
+Real Estate Transactions<br>
+Research Methods<br>
+Sales<br>
+Sales Process Improvement<br>
+Sales Process Implementation<br>
+Scrum<br>
+Search Engine Optimization (SEO)<br>
+Sight-Reading Musical Notation<br>
+Small Business Management<br>
+Social Media Management<br>
+Social Media Marketing<br>
+Task Management<br>
+Team Building<br>
+Team Leadership<br>
+Training Management<br>
+Videography<br>
+Web and Media Design<br>
