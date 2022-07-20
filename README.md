@@ -64,8 +64,6 @@ Helped produce several television commercials for international brands that were
 [Chevy: Walter the Cat](https://www.youtube.com/watch?v=bfuhFvZsgkc)<br>
 [Fedex: Make a World of Difference](https://www.youtube.com/watch?v=Ugu225pTIm0)<br>
 
----
-
 **Guitarist | Senior Supply Operations NCO**<br>
 @ US Army National Guard _(2009 - 2021)_ <br>
 - Worked with a team of thirty-five Army musicians to load, unload, setup, operate live sound systems and perform on guitar and percussion in major performance halls across South Carolina and California for crowds in excess of 100,000 people
@@ -86,7 +84,6 @@ Notable Performances:
  - 2011 The S.C. Gubernatorial Inauguration of Nikki Haley
  
  <br>
- ---
 
 **Founder, CEO**<br>
 @ Ridgeline Records _(2006 - 2020)_ <br>
@@ -104,7 +101,6 @@ Cultivated effective working relationships with potential clients in order to co
 - Employer Support For the Guard And Reserve
 
 <br>
----
 
 **Operations Manager**<br>
 @ Keller Williams Professionals Realty - Columbia, SC _(2017-2019)_ <br>
@@ -117,7 +113,6 @@ Cultivated effective working relationships with potential clients in order to co
 - Created real estate marketing videos, digital, and print marketing materials for multi-million dollar properties in Final Cut Pro X and the Adobe Creative Cloud
 
 <br>
----
 
 **Electric Guitar, Bass Guitar, Vocals**<br>
 @ Emma’s Lounge, Asheville, NC _(2016-2017)_ <br>
@@ -126,7 +121,6 @@ Folk Rock, Americana, Jam Band
 - French Broad River Festival, 2017
 
 <br>
----
 
 **Electric Guitarist, Composer**<br>
 @ Calvin Get Down, Asheville, NC _(2014-2015)_ <br>
@@ -134,14 +128,12 @@ Funk, Rock, Blues
 - Performed in local venues, breweries and festivals
 
 <br>
----
   
 **Microsoft Consultant**<br>
 @ Best Buy, Inc. Asheville, NC _(2013 - 2014)_ <br>
 - Demonstrated the functinality and usefulness of the Microsoft Surface Pro product line as well as introduced users to the newly developed Chrome OS
 
 <br>
----
 
 **Principal Guitarist for Weekly Services**<br>
 @ First Baptist Church, Charlotte, NC _(2009-2011)_ <br>
@@ -150,7 +142,6 @@ Funk, Rock, Blues
 - Assisted in training, rehearsing and conducting music for the choir and orchestra
 
 <br>
----
 
 **Adjunct Faculty Member**<br>
 @ Winthrop University, Rock Hill, SC _(2008 - 2010)_ <br>
@@ -159,14 +150,12 @@ Funk, Rock, Blues
 - Served as a substitute instructor for guitar ensembles, Jazz history classes and music appreciation classes
 
 <br>
----
   
 **Senior Sales Associate**<br>
 @ Radioshack _(2006 - 2008)_ <br>
 - It was the best job I've ever had. I got to play with remote control cars all day, install surround sound in the store, learn about resistors and stuff, and make sure everyone had plenty of batteries.
 
 <br>
----
 
 ## MUSICAL THEATRE PRODUCTIONS
 
