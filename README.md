@@ -2,7 +2,7 @@
 
 _Blockchain Developer and Content Creator based in Los Angeles, California_ <br>
 
-[Email](mailto:justintsugranes@proton.me) / [LinkedIn](https://www.linkedin.com/in/justintsugranes/) / [GitHub](https://github.com/justintsugranes/) / [Twitter](https://twitter.com/justintsugranes/) / [Instagram]() / [Adobe Stock Portfolio]() / [Medium]() / [Discord]() / [Telegram]() / [Audius]() / [Theta.Tv] / [Twitch]() / [TikTok]() / [YouTube]() / [StackOverFlow]()
+[Email](mailto:justintsugranes@proton.me) / [LinkedIn](https://www.linkedin.com/in/justintsugranes/) / [GitHub](https://github.com/justintsugranes/) / [Twitter](https://twitter.com/justintsugranes/) / [Instagram]() / [Adobe Stock Portfolio]() / [Medium]() / [Discord]() / [Telegram]() / [Audius]() / [Theta.Tv]() / [Twitch]() / [TikTok]() / [YouTube]() / [StackOverFlow]()
 
 ## Summary
 Having been involved in the music industry for over 22 years, I've witnessed multiple technological paradigm shifts firsthand. The barriers of entry into worldwide music distribution have never been lower for musicians producing world class music in their own home studios and bedrooms, or better yet, from their smartphones and iPads. Yet, the monetization of that effort has continued to be plagued by middlemen and a massive race to the bottom. I believe the integration of blockchain tech with the legacy royalty collection system is going to bring about a massive industry disruption that will soon lead to another paradigm shift. My goal and passion is to be part of the team that brings about this shift.
