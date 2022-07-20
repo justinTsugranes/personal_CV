@@ -35,7 +35,7 @@ Currently learning Smart Contract Development
 ### Tech Relateds Certificates, Courses and Bootcamps
 
 **Chainlink Smart Contract Developer Bootcamp**<br>
-[Google](https://chain.link/bootcamp/bootcamp-2021-on-demand#:~:text=Smart%20Contract%20Developer%20Bootcamp%202021&text=Session%20two%20focuses%20on%20using,Brownie)%20for%20the%20second%20one.) - _(2022)_ <br>
+[Chainlink](https://chain.link/bootcamp/bootcamp-2021-on-demand#:~:text=Smart%20Contract%20Developer%20Bootcamp%202021&text=Session%20two%20focuses%20on%20using,Brownie)%20for%20the%20second%20one.) - _(2022)_ <br>
 
 **Blockchain and Smart Contract Security**<br>
 [LinkedIn](https://www.linkedin.com/learning/certificates/396199478e892db785773b04cacabcb2c5d66fad6b7e955c5eef166660da3c10?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsRdSfJeCSo2mALo3JAoD4A%3D%3D) _(2022)_ <br>
@@ -77,10 +77,11 @@ Helped produce several television commercials for international brands that were
 
 [Dolby Atmos: Experience The Weeknd's Take My Breath Like Never Before](https://www.youtube.com/watch?v=Qd1ZFLsVtgo)<br>
 [Chevy: Walter the Cat](https://www.youtube.com/watch?v=bfuhFvZsgkc)<br>
-[Fedex: Make a World of Difference](https://www.youtube.com/watch?v=Ugu225pTIm0)<br>
+[Fedex: Make a World of Difference](https://www.youtube.com/watch?v=Ugu225pTIm0)
 
-**Guitarist | Senior Supply Operations NCO**<br>
-@ US Army National Guard _(2009 - 2021)_ <br>
+<br>
+
+**Guitarist | Senior Supply Operations NCO** @ US Army National Guard _(2009 - 2021)_ <br>
 - Worked with a team of thirty-five Army musicians to load, unload, setup, operate live sound systems and perform on guitar and percussion in major performance halls across South Carolina and California for crowds in excess of 100,000 people
 
 - Chosen by senior leaders to fill the role of Senior Logistics and Resource Management NCO from 2012-2018, a position above my pay grade, taking on the responsibility of leading a five-person team to maintain a property book worth over $500,000 and coordinate supply operations to ensure that any logistical problems were resolved
@@ -100,8 +101,7 @@ Notable Performances:
  
  <br>
 
-**Founder, CEO**<br>
-@ Ridgeline Records _(2006 - 2020)_ <br>
+**Founder, CEO** @ Ridgeline Records, LLC. _(2006 - 2020)_ <br>
 Cultivated effective working relationships with potential clients in order to coordinate and book performance events in over 500 public, private and corporate events as a privately contracted musician for clients including, but not limited to:
 
 - BMW
@@ -117,8 +117,7 @@ Cultivated effective working relationships with potential clients in order to co
 
 <br>
 
-**Operations Manager**<br>
-@ Keller Williams Professionals Realty - Columbia, SC _(2017-2019)_ <br>
+**Operations Manager** @ Keller Williams Professionals Realty - Columbia, SC _(2017-2019)_ <br>
 - Worked with clients, attorneys, contractors, builders, city/county registrars, and lending institutions to ensure that our team delivered consistent, high-quality client experiences while successfully closing over $9M in sales in 2018
 
 - Built, implemented, and managed a new client care system in a cutting edge Real Estate CRM for a database of 7,500+ leads while providing back-office support for a top producing real estate team with the primary goal of increasing yearly gross commission income for the team.
@@ -129,91 +128,79 @@ Cultivated effective working relationships with potential clients in order to co
 
 <br>
 
-**Electric Guitar, Bass Guitar, Vocals**<br>
-@ Emma’s Lounge, Asheville, NC _(2016-2017)_ <br>
+**Electric Guitar, Bass Guitar, Vocals** @ Emma’s Lounge - Asheville, NC _(2016-2017)_ <br>
 Folk Rock, Americana, Jam Band
 - Performed across North Carolina, South Carolina, Georgia and Virginia
 - French Broad River Festival, 2017
 
 <br>
 
-**Electric Guitarist, Composer**<br>
-@ Calvin Get Down, Asheville, NC _(2014-2015)_ <br>
+**Electric Guitarist, Composer** @ Calvin Get Down - Asheville, NC _(2014-2015)_ <br>
 Funk, Rock, Blues
 - Performed in local venues, breweries and festivals
 
 <br>
   
-**Microsoft Consultant**<br>
-@ Best Buy, Inc. Asheville, NC _(2013 - 2014)_ <br>
+**Microsoft Consultant** @ Best Buy, Inc. - Asheville, NC _(2013 - 2014)_ <br>
 - Demonstrated the functinality and usefulness of the Microsoft Surface Pro product line as well as introduced users to the newly developed Chrome OS
 
 <br>
 
-**Principal Guitarist for Weekly Services**<br>
-@ First Baptist Church, Charlotte, NC _(2009-2011)_ <br>
+**Principal Guitarist for Weekly Services** @ First Baptist Church - Charlotte, NC _(2009-2011)_ <br>
 - Quickly prepared and performed a large variety of music as directed for worship services
 - Utilized Aviom monitor systems and in ear monitors to create personalized stage mixes
 - Assisted in training, rehearsing and conducting music for the choir and orchestra
 
 <br>
 
-**Adjunct Faculty Member**<br>
-@ Winthrop University, Rock Hill, SC _(2008 - 2010)_ <br>
+**Adjunct Faculty Member** @ Winthrop University - Rock Hill, SC _(2008 - 2010)_ <br>
 - Selected by Winthrop University Faculty members as an accompanist for major musical theatre productions and dance classes (modern and ballet) on electric and acoustic guitar
 - Responsible for several hours of unscripted improvisations on guitar that were specifically tailored for the needs of various dance instructors in every style, meter and tempo
 - Served as a substitute instructor for guitar ensembles, Jazz history classes and music appreciation classes
 
 <br>
   
-**Senior Sales Associate**<br>
-@ Radioshack _(2006 - 2008)_ <br>
+**Senior Sales Associate** @ Radioshack - Rock Hill, SC _(2006 - 2008)_ <br>
 - It was the best job I've ever had. I got to play with remote control cars all day, install surround sound in the store, learn about resistors and stuff, and make sure everyone had plenty of batteries.
 
 <br>
 
 ## MUSICAL THEATRE PRODUCTIONS
 
-Legally Blonde, Workshop Theatre, Columbia, SC — Guitar (2012)<br>
+Legally Blonde, Workshop Theatre - Columbia, SC — Guitar (2012)<br>
 Grease, Town Theatre, Columbia, SC — Guitar (2012)<br>
 Godspell, Winthrop University, Rock Hill, SC — Guitar (2010)<br>
 Anything Goes, Winthrop University, Rock Hill, SC — Guitar (2009)<br>
 
-<br>
-
 ---
-
-<br>
 
 ## VOLUNTEER EXPERIENCE
 
-**[Sync Con](https://synccon.com/)** - Los Angeles, CA _(2019)_
+**[Sync Con](https://synccon.com/)** - Los Angeles, CA _(2019)_<br>
 Volunteered for the annual Sync Con Music Syncronization conference in Hollywood, CA
 Helped with VIP Guest registration and guest artist relations.
 
-**[RiverLink](https://riverlink.org/)** - Asheville, NC _(2018)_
+**[RiverLink](https://riverlink.org/)** - Asheville, NC _(2018)_<br>
 RiverLink is a non-profit that focuses on cleaning up the French Broad River in Asheville, NC
 As a member of Keller Williams' "Red Day," I worked in two and three person teams to paddle the French Broad River to collect trash and debris as part of their revitalization project
 
-**[South Carolina Music Educator's Conference](https://www.scmea.net/)** - Charleston, SC _(2011-2019)_
+**[South Carolina Music Educator's Conference](https://www.scmea.net/)** - Charleston, SC _(2011-2019)_<br>
 As a liaison for the South Carolina National Guard, I was responsible for designing a booth display seen by over 5,000 students and music professionals as well as giving masterclasses on Jazz Guitar to attract potential candidates to the Army Band
 
-**[Spartan](https://www.spartan.com/)** - South Carolina _(2013)_
+**[Spartan](https://www.spartan.com/)** - South Carolina _(2013)_<br>
 Helped to raise money on behalf of Home For Our Troops to help injured veterans.
 Worked in a two-man team to navigate 13 miles of unmarked terrain to design a half-marathon obstacle course that was used by 7,500 people
 
-<br>
 
 ---
 
 ## PUBLIC SPEAKING
 
+
 - **The Soundcheck Radioshow 103.7** _(live-broadcast, 2017)_ <br>
 
 **Want me to speak at your event, podcast, or vlog?**
 <br>[Send Me An Email]() for more information.
-
-<br>
 
 ---
   
@@ -225,8 +212,6 @@ Worked in a two-man team to navigate 13 miles of unmarked terrain to design a ha
 **Army Professional Development Ribbon**
 **Coin of Excellence** US Army Band Evaluation Team, Earned a Coin of Excellence from the Operational Readiness Evaluation team for superior performance on guitar during their evaluation of the 246 Army Band Jazz Combo _(2016)_
 **Commandant’s List** US Army Warrior Leader Course, Nominated by Peers to compete for the title of Honor Graduate _(2016)_
-
-<br>
 
 ---
 
@@ -259,80 +244,153 @@ Worked in a two-man team to navigate 13 miles of unmarked terrain to design a ha
 
 ---
 
-<br>
+## An Exhaustive, Kinda Ridculous Full List Of Skills, Technical Literacies, and Rando Stuff I Have Learned Along the Way<br>
+It's pretty aamazing how much one can learn in a lifetime. I'm only in my early 30s. I don't plan on stopping anytime soon and I plan on keeping up with this list as time goes on.
 
-## Exhaustive Full List of Technical Literacies In Alphabetical Order<br>
-
-Media Design, Adobe Photoshop CC, Illustrator CC, Lightroom Classic CC, Canva, Giphy<br>
-Operating Systems: Apple, Windows<br>
-Audio Production: Logic Pro X, PreSonus Studio One, Finale 2014, Band in a Box<br>
-Video Production: Adobe Premiere Pro CC, Final Cut Pro X<br>
-Video Communication: Zoom, Skype, Google Hangouts, Facetime, WhatsApp<br>
-CRM: Commission’s Inc, e-Edge<br>
-Workplace: Microsoft Office Suite, Google Workplace, NotionAdobe Acrobat CC, Dropbox, Evernote, Trello, DotLoop Matrix, Proxio<br>
-Analytics: Google Search Console, Squarespace Analytics<br>
-Marketing/Advertising: Google Adwords, Facebook Ads, Mailchimp<br>
-Financial Management: Quickbooks, Turbotax<br>
-Social Media: Facebook, Youtube, Pinterest, LinkedIn, Instagram, Twitter<br>
-Distribution: CDBaby, Soundcloud, Bandcamp<br>
-Syndication: Buffer, BandsInTown, Songkick<br>
-Web Design: Squarespace, Wix<br>
-
----
-
-<br>
-
-## Exhaustive, Kinda Ridculous Full List Of Skills, Technical Literacies, and Rando Stuff I Know About<br>
-
-Analytics<br>
+Adobe Acrobat CC<br>
+Adobe Creative Cloud<br>
+Adobe Lightroom CC<br>
+Adobe Photoshop CC<br>
+Adobe Premiere Pro CC<br>
+Audio Production<br>
+Audio Recording<br>
+Band in a Box<br>
 Band Promotion<br>
+Bandcamp<br>
+BandsInTown<br>
 Bass Guitar<br>
+Bitcoin<br>
+Blockchain Development<br>
 Blogging<br>
 Brand Development<br>
+Buffer<br>
 Business Process Improvement<br>
+Canva<br>
+Carpentry<br>
+Cascading Style Sheets (CSS)
+CD Baby<br>
+Commission’s Inc<br>
 Communication<br>
 Content Marketing<br>
+Cooking<br>
 Copywriting<br>
+Creative Problem Solving<br>
+Crepe Making<br>
+Cryptocurrency Development<br>
+Customer Relationship Management (CRM)
 Customer Relationship Management<br>
+Customer Service<br>
 Dance Class Accompaniment<br>
+Decentralized Applications (dApps)<br>
 Digital Music Recording<br>
+Digital Music Recording<br>
+DotLoop Matrix<br>
+Dropbox<br>
+e-Edge<br>
 Electric Guitar Instruction<br>
+Electric Guitar Styles<br>
+Ethereum<br>
+Ethereum Virtual Machine<br>
+Event Based Marketing<br>
 Event-based Marketing<br>
+Evernote<br>
+Facebook<br>
+Facetime<br>
+Final Cut Pro X<br>
+Finale 2014<br>
+Financial Management<br>
+Fingerpicking Guitar Styles<br>
+Fly Fishing<br>
+Giphy<br>
+Git<br>
+Github<br>
+Google Adwords<br>
+Google Analytics<br>
+Google Cloud Platform<br>
+Google Hangouts<br>
+Google Search Console<br>
+Google Workplace<br>
+Guitar<br>
+Guitar instruction<br>
 Hospitality Industry<br>
+HTML5<br>
+Illustrator CC
+Instagram<br>
+iOS<br>
+Javascript<br>
 Jazz Education<br>
+Jazz Guitar<br>
 Jazz Improvisation<br>
+Leading Meetings<br>
+LinkedIn<br>
 Live Performance<br>
 Live Sound<br>
+Logic Pro X<br>
+Mailchimp<br>
 Marketing Material Creation<br>
 Marketing Strategy<br>
-Musical Theatre<br>
+Media Design<br>
+Microsoft Office Suite<br>
+Microsoft Visual Studio Code
+Music Distribution<br>
 Music Education<br>
 Music History<br>
 Music Marketing<br>
 Music Performance<br>
 Music Production<br>
+Music Theory<br>
+Musical Theatre<br>
+Notion<br>
 Office Management<br>
 Operations Management<br>
 Operations Process Improvement<br>
 Original Music<br>
 Photography<br>
+Pinterest<br>
+PreSonus Studio One<br>
 Private Event Planning<br>
 Process Improvement<br>
+Production Support<br>
 Project Management<br>
+Proxio<br>
+Quickbooks<br>
 Real Estate Transactions<br>
 Research Methods<br>
-Sales<br>
-Sales Process Improvement<br>
 Sales Process Implementation<br>
+Sales Process Improvement<br>
+Sales<br>
 Scrum<br>
+Scuba<br>
 Search Engine Optimization (SEO)<br>
 Sight-Reading Musical Notation<br>
+Skype<br>
 Small Business Management<br>
+Smart Contracts<br>
 Social Media Management<br>
 Social Media Marketing<br>
+Solidity<br>
+Songkick<br>
+Soundcloud<br>
+Squarespace<br>
+Squarespace Analytics<br>
+Strategic Planning<br>
+Studio Recording<br>
+Supervisory Skills<br>
 Task Management<br>
 Team Building<br>
 Team Leadership<br>
 Training Management<br>
+Trello<br>
+Turbotax<br>
+Twitter<br>
+Video Communication<br>
+Video Production<br>
 Videography<br>
 Web and Media Design<br>
+Web Design<br>
+WhatsApp<br>
+Windows OS<br>
+Wix<br>
+Wordpress 5<br>
+Youtube<br>
+Zoom<br>
