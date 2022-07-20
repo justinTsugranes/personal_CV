@@ -247,150 +247,158 @@ Worked in a two-man team to navigate 13 miles of unmarked terrain to design a ha
 ## An Exhaustive, Kinda Ridculous Full List Of Skills, Technical Literacies, and Rando Stuff I Have Learned Along the Way<br>
 It's pretty aamazing how much one can learn in a lifetime. I'm only in my early 30s. I don't plan on stopping anytime soon and I plan on keeping up with this list as time goes on.
 
-Adobe Acrobat CC<br>
-Adobe Creative Cloud<br>
-Adobe Lightroom CC<br>
-Adobe Photoshop CC<br>
-Adobe Premiere Pro CC<br>
-Audio Production<br>
-Audio Recording<br>
-Band in a Box<br>
-Band Promotion<br>
-Bandcamp<br>
-BandsInTown<br>
-Bass Guitar<br>
-Bitcoin<br>
-Blockchain Development<br>
-Blogging<br>
-Brand Development<br>
-Buffer<br>
-Business Process Improvement<br>
-Canva<br>
-Carpentry<br>
-Cascading Style Sheets (CSS)
-CD Baby<br>
-Commission’s Inc<br>
-Communication<br>
-Content Marketing<br>
-Cooking<br>
-Copywriting<br>
-Creative Problem Solving<br>
-Crepe Making<br>
-Cryptocurrency Development<br>
-Customer Relationship Management (CRM)
-Customer Relationship Management<br>
-Customer Service<br>
-Dance Class Accompaniment<br>
-Decentralized Applications (dApps)<br>
-Digital Music Recording<br>
-Digital Music Recording<br>
-DotLoop Matrix<br>
-Dropbox<br>
-e-Edge<br>
-Electric Guitar Instruction<br>
-Electric Guitar Styles<br>
-Ethereum<br>
-Ethereum Virtual Machine<br>
-Event Based Marketing<br>
-Event-based Marketing<br>
-Evernote<br>
-Facebook<br>
-Facetime<br>
-Final Cut Pro X<br>
-Finale 2014<br>
-Financial Management<br>
-Fingerpicking Guitar Styles<br>
-Fly Fishing<br>
-Giphy<br>
-Git<br>
-Github<br>
-Google Adwords<br>
-Google Analytics<br>
-Google Cloud Platform<br>
-Google Hangouts<br>
-Google Search Console<br>
-Google Workplace<br>
-Guitar<br>
-Guitar instruction<br>
-Hospitality Industry<br>
-HTML5<br>
-Illustrator CC
-Instagram<br>
-iOS<br>
-Javascript<br>
-Jazz Education<br>
-Jazz Guitar<br>
-Jazz Improvisation<br>
-Leading Meetings<br>
-LinkedIn<br>
-Live Performance<br>
-Live Sound<br>
-Logic Pro X<br>
-Mailchimp<br>
-Marketing Material Creation<br>
-Marketing Strategy<br>
-Media Design<br>
-Microsoft Office Suite<br>
-Microsoft Visual Studio Code
-Music Distribution<br>
-Music Education<br>
-Music History<br>
-Music Marketing<br>
-Music Performance<br>
-Music Production<br>
-Music Theory<br>
-Musical Theatre<br>
-Notion<br>
-Office Management<br>
-Operations Management<br>
-Operations Process Improvement<br>
-Original Music<br>
-Photography<br>
-Pinterest<br>
-PreSonus Studio One<br>
-Private Event Planning<br>
-Process Improvement<br>
-Production Support<br>
-Project Management<br>
-Proxio<br>
-Quickbooks<br>
-Real Estate Transactions<br>
-Research Methods<br>
-Sales Process Implementation<br>
-Sales Process Improvement<br>
-Sales<br>
-Scrum<br>
-Scuba<br>
-Search Engine Optimization (SEO)<br>
-Sight-Reading Musical Notation<br>
-Skype<br>
-Small Business Management<br>
-Smart Contracts<br>
-Social Media Management<br>
-Social Media Marketing<br>
-Solidity<br>
-Songkick<br>
-Soundcloud<br>
-Squarespace<br>
-Squarespace Analytics<br>
-Strategic Planning<br>
-Studio Recording<br>
-Supervisory Skills<br>
-Task Management<br>
-Team Building<br>
-Team Leadership<br>
-Training Management<br>
-Trello<br>
-Turbotax<br>
-Twitter<br>
-Video Communication<br>
-Video Production<br>
-Videography<br>
-Web and Media Design<br>
-Web Design<br>
-WhatsApp<br>
-Windows OS<br>
-Wix<br>
-Wordpress 5<br>
-Youtube<br>
-Zoom<br>
+<details>
+  <summary>Click to expand!</summary>
+
+*Adobe Acrobat CC<br>
+*Adobe Creative Cloud<br>
+*Adobe Lightroom CC<br>
+*Adobe Photoshop CC<br>
+*Adobe Premiere Pro CC<br>
+*Audio Production<br>
+*Audio Recording<br>
+*Band in a Box<br>
+*Band Promotion<br>
+*Bandcamp<br>
+*BandsInTown<br>
+*Bass Guitar<br>
+*Bitcoin<br>
+*Blockchain Development<br>
+*Blogging<br>
+*Brand Development<br>
+*Buffer<br>
+*Business Process Improvement<br>
+*Canva<br>
+*Carpentry<br>
+*Cascading Style Sheets (CSS)
+*CD Baby<br>
+*Commission’s Inc<br>
+*Communication<br>
+*Content Marketing<br>
+*Cooking<br>
+*Copywriting<br>
+*Creative Problem Solving<br>
+*Crepe Making<br>
+*Cryptocurrency Development<br>
+*Customer Relationship Management (CRM)
+*Customer Relationship Management<br>
+*Customer Service<br>
+*Dance Class Accompaniment<br>
+*Decentralized Applications (dApps)<br>
+*Digital Music Recording<br>
+*Digital Music Recording<br>
+*DotLoop Matrix<br>
+*Dropbox<br>
+*e-Edge<br>
+*Electric Guitar Instruction<br>
+*Electric Guitar Styles<br>
+*Ethereum<br>
+*Ethereum Virtual Machine<br>
+*Event Based Marketing<br>
+*Event-based Marketing<br>
+*Evernote<br>
+*Facebook<br>
+*Facetime<br>
+*Final Cut Pro X<br>
+*Finale 2014<br>
+*Financial Management<br>
+*Fingerpicking Guitar Styles<br>
+*Fly Fishing<br>
+*Giphy<br>
+*Git<br>
+*Github<br>
+*Google Adwords<br>
+*Google Analytics<br>
+*Google Cloud Platform<br>
+*Google Hangouts<br>
+*Google Search Console<br>
+*Google Workplace<br>
+*Guitar<br>
+*Guitar instruction<br>
+*Home Farming<br>
+*Hospitality Industry<br>
+*How To Change A Timing Belt<br>
+*How To Change The Oil in a Car<nr>
+*HTML5<br>
+*Illustrator CC
+*Instagram<br>
+*iOS<br>
+*Javascript<br>
+*Jazz Education<br>
+*Jazz Guitar<br>
+*Jazz Improvisation<br>
+*Leading Meetings<br>
+*LinkedIn<br>
+*Live Performance<br>
+*Live Sound<br>
+*Logic Pro X<br>
+*Mailchimp<br>
+*Marketing Material Creation<br>
+*Marketing Strategy<br>
+*Media Design<br>
+*Microsoft Office Suite<br>
+*Microsoft Visual Studio Code
+*Music Distribution<br>
+*Music Education<br>
+*Music History<br>
+*Music Marketing<br>
+*Music Performance<br>
+*Music Production<br>
+*Music Theory<br>
+*Musical Theatre<br>
+*Notion<br>
+*Office Management<br>
+*Operations Management<br>
+*Operations Process Improvement<br>
+*Original Music<br>
+*Photography<br>
+*Pinterest<br>
+*PreSonus Studio One<br>
+*Private Event Planning<br>
+*Process Improvement<br>
+*Production Support<br>
+*Project Management<br>
+*Proxio<br>
+*Quickbooks<br>
+*Real Estate Transactions<br>
+*Research Methods<br>
+*Sales Process Implementation<br>
+*Sales Process Improvement<br>
+*Sales<br>
+*Scrum<br>
+*Scuba<br>
+*Search Engine Optimization (SEO)<br>
+*Sight-Reading Musical Notation<br>
+*Skype<br>
+*Small Business Management<br>
+*Smart Contracts<br>
+*Social Media Management<br>
+*Social Media Marketing<br>
+*Solidity<br>
+*Songkick<br>
+*Soundcloud<br>
+*Squarespace<br>
+*Squarespace Analytics<br>
+*Strategic Planning<br>
+*Studio Recording<br>
+*Supervisory Skills<br>
+*Task Management<br>
+*Team Building<br>
+*Team Leadership<br>
+*Training Management<br>
+*Trello<br>
+*Turbotax<br>
+*Twitter<br>
+*Video Communication<br>
+*Video Production<br>
+*Videography<br>
+*Web and Media Design<br>
+*Web Design<br>
+*WhatsApp<br>
+*Windows OS<br>
+*Wix<br>
+*Wordpress 5<br>
+*Youtube<br>
+*Zoom<br>
+
+</details>
