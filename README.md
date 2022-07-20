@@ -194,32 +194,32 @@ Funk, Rock, Blues
 ## MUSICAL THEATRE PRODUCTIONS
 
 **Legally Blonde** - Workshop Theatre - Columbia, SC — Guitar (2012)<br>
-Guitarist for the musical adaptation of the novel, Legally Blonde by Heather Hach<br>
+    Guitarist for the musical adaptation of the novel, Legally Blonde by Heather Hach<br>
 **Grease** - Town Theatre, Columbia, SC — Guitar (2012)<br>
-Guitarist for Jim Jacobs and Warren Casey’s, “Grease"<br>
+    Guitarist for Jim Jacobs and Warren Casey’s, “Grease"<br>
 **Godspell** - Winthrop University, Rock Hill, SC — Guitar (2010)<br>
-Guitarist for the production of John-Michael Tebelak and Stephen Schwartz’s, “Godspell”<br>
+    Guitarist for the production of John-Michael Tebelak and Stephen Schwartz’s, “Godspell”<br>
 **Anything Goes** - Winthrop University, Rock Hill, SC — Guitar (2009)<br>
-Guitarist for the Musical Production of Cole Porter’s, “Anything Goes”<br>
+    Guitarist for the Musical Production of Cole Porter’s, “Anything Goes”<br>
 
 ---
 
 ## VOLUNTEER EXPERIENCE
 
 **[Sync Con](https://synccon.com/)** - Los Angeles, CA _(2019)_<br>
-Volunteered for the annual Sync Con Music Syncronization conference in Hollywood, CA
-Helped with VIP Guest registration and guest artist relations.
+- Volunteered for the annual Sync Con Music Syncronization conference in Hollywood, CA
+- Helped with VIP Guest registration and guest artist relations.
 
 **[RiverLink](https://riverlink.org/)** - Asheville, NC _(2018)_<br>
-RiverLink is a non-profit that focuses on cleaning up the French Broad River in Asheville, NC
-As a member of Keller Williams' "Red Day," I worked in two and three person teams to paddle the French Broad River to collect trash and debris as part of their revitalization project
+- RiverLink is a non-profit that focuses on cleaning up the French Broad River in Asheville, NC
+- As a member of Keller Williams' "Red Day," I worked in two and three person teams to paddle the French Broad River to collect trash and debris as part of their revitalization project
 
 **[South Carolina Music Educator's Conference](https://www.scmea.net/)** - Charleston, SC _(2011-2019)_<br>
-As a liaison for the South Carolina National Guard, I was responsible for designing a booth display seen by over 5,000 students and music professionals as well as giving masterclasses on Jazz Guitar to attract potential candidates to the Army Band
+- As a liaison for the South Carolina National Guard, I was responsible for designing a booth display seen by over 5,000 students and music professionals as well as giving masterclasses on Jazz Guitar to attract potential candidates to the Army Band
 
 **[Spartan](https://www.spartan.com/)** - South Carolina _(2013)_<br>
-Helped to raise money on behalf of Home For Our Troops to help injured veterans.
-Worked in a two-man team to navigate 13 miles of unmarked terrain to design a half-marathon obstacle course that was used by 7,500 people
+- Helped to raise money on behalf of Home For Our Troops to help injured veterans.
+- Worked in a two-man team to navigate 13 miles of unmarked terrain to design a half-marathon obstacle course that was used by 7,500 people
 
 ---
 
@@ -473,5 +473,4 @@ It's pretty aamazing how much one can learn in a lifetime. I'm only in my early 
 - Wordpress 5<br>
 - Youtube<br>
 - Zoom<br>
-
 </details>
