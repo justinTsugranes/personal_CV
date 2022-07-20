@@ -53,18 +53,18 @@ Currently learning Smart Contract Development
     
 ## Other Professional Experience
 
-**Production Assistant**
+**Production Assistant**<br>
 @ Freelance _(May 2020 - Nov 2021)_ <br>
 Helped produce several television commercials for international brands that were aired during Super Bowl LV on February 7, 2021
 - Production Clients: Dolby Atmos, Chevy, Fedex, Lowes
 - Production Companies Worked With: Moxie Pictures, Backyard Productions, Somesuch Productions, Golden Productions
 - Agencies: DLA, Weber Shandwick, BBDO, XO
 
-<a href="https://www.youtube.com/watch?v=Qd1ZFLsVtgo"> Dolby Atmos: Experience The Weeknd's Take My Breath Like Never Before</a><br>
-<a href="https://www.youtube.com/watch?v=bfuhFvZsgkc"> Chevy: Walter the Cat</a><br>
-<a href="https://www.youtube.com/watch?v=Ugu225pTIm0"> Fedex: Make a World of Difference</a><br>
+[Dolby Atmos: Experience The Weeknd's Take My Breath Like Never Before](https://www.youtube.com/watch?v=Qd1ZFLsVtgo)<br>
+[Chevy: Walter the Cat](https://www.youtube.com/watch?v=bfuhFvZsgkc)br>
+[Fedex: Make a World of Difference](https://www.youtube.com/watch?v=Ugu225pTIm0)<br>
 
-**Guitarist | Senior Supply Operations NCO**
+**Guitarist | Senior Supply Operations NCO**<br>
 @ US Army National Guard _(2009 - 2021)_ <br>
 - Worked with a team of thirty-five Army musicians to load, unload, setup, operate live sound systems and perform on guitar and percussion in major performance halls across South Carolina and California for crowds in excess of 100,000 people
 
@@ -85,7 +85,7 @@ Notable Performances:
  
  <br>
 
-**Founder, CEO**
+**Founder, CEO**<br>
 @ Ridgeline Records _(2006 - 2020)_ <br>
 Cultivated effective working relationships with potential clients in order to coordinate and book performance events in over 500 public, private and corporate events as a privately contracted musician for clients including, but not limited to:
 
@@ -102,7 +102,7 @@ Cultivated effective working relationships with potential clients in order to co
 
 <br>
 
-**Operations Manager**
+**Operations Manager**<br>
 @ Keller Williams Professionals Realty - Columbia, SC _(2017-2019)_ <br>
 - Worked with clients, attorneys, contractors, builders, city/county registrars, and lending institutions to ensure that our team delivered consistent, high-quality client experiences while successfully closing over $9M in sales in 2018
 
@@ -114,7 +114,7 @@ Cultivated effective working relationships with potential clients in order to co
 
 <br>
 
-**Electric Guitar, Bass Guitar, Vocals**
+**Electric Guitar, Bass Guitar, Vocals**<br>
 @ Emma’s Lounge, Asheville, NC _(2016-2017)_ <br>
 Folk Rock, Americana, Jam Band
 - Performed across North Carolina, South Carolina, Georgia and Virginia
@@ -122,27 +122,28 @@ Folk Rock, Americana, Jam Band
 
 <br>
 
-**Electric Guitarist, Composer**
+**Electric Guitarist, Composer**<br>
 @ Calvin Get Down, Asheville, NC _(2014-2015)_ <br>
 Funk, Rock, Blues
 - Performed in local venues, breweries and festivals
 
 <br>
   
-**Microsoft Consultant**
+**Microsoft Consultant**<br>
 @ Best Buy, Inc. Asheville, NC _(2013 - 2014)_ <br>
 - Demonstrated the functinality and usefulness of the Microsoft Surface Pro product line as well as introduced users to the newly developed Chrome OS
 
 <br>
 
-**Principal Guitarist for Weekly Services** @ First Baptist Church, Charlotte, NC _(2009-2011)_ <br>
+**Principal Guitarist for Weekly Services**<br>
+@ First Baptist Church, Charlotte, NC _(2009-2011)_ <br>
 - Quickly prepared and performed a large variety of music as directed for worship services
 - Utilized Aviom monitor systems and in ear monitors to create personalized stage mixes
 - Assisted in training, rehearsing and conducting music for the choir and orchestra
 
 <br>
 
-**Adjunct Faculty Member**
+**Adjunct Faculty Member**<br>
 @ Winthrop University, Rock Hill, SC _(2008 - 2010)_ <br>
 - Selected by Winthrop University Faculty members as an accompanist for major musical theatre productions and dance classes (modern and ballet) on electric and acoustic guitar
 - Responsible for several hours of unscripted improvisations on guitar that were specifically tailored for the needs of various dance instructors in every style, meter and tempo
@@ -150,7 +151,7 @@ Funk, Rock, Blues
 
 <br>
   
-**Senior Sales Associate**
+**Senior Sales Associate**<br>
 @ Radioshack _(2006 - 2008)_ <br>
 - It was the best job I've ever had. I got to play with remote control cars all day, install surround sound in the store, learn about resistors and stuff, and make sure everyone had plenty of batteries.
 
