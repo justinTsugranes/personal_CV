@@ -20,17 +20,31 @@ I'm currently spending my time coding smart contracts. I'm deep into the tokeniz
 ## Blockchain and IT Experience
 
 
-**Blockchain Developer** _(Feb 2022 - Present)_ <br>
-Currently learning Smart Contract Development
+**Junior Blockchain Developer** _(Feb 2022 - Present)_ <br>
+As an entry-level developer, my skills with the following are beginner to immediate. but I am improving daily and looking to work with a team so that I can push myself farther and contribute to some meaningful projects.
+- Experience in Smart Contract Development using the object-oriented scripting language Solidity and Deploying smart contracts and running tests on personal Ethereum Blockchain through Hardhat
+- Experience in developing and implementing decentralized applications (Apps) on the Ethereum Blockchain
+- Working knowledge of Cryptography which includes Hash functions and Digital Signatures
+- Experience with Javascript frameworks such as ReactJS and NodeJS
+- Proficient in developing Ethereum Smart contracts with Experience building dApps using HTML, JavaScript, and Node.js that interact wit the Ethereum Blockchain using ethers.js API and MetaMask
+- Experience working with Remix IDE
+- Skilled in Cloud Computing, virtualization, and Cloud Security
+- Comfortable with remote work and working on virtual teams
   - **_Technologies and Languages used:_** Solidity, Hardhat, ethers.js, React, IPFS, MetaMask, Visual Studio Code.
 <br><br>
 
 **Web 3.0 Investment Analyst** _(Dec 2020 - Present)_
-  - I focused on sourcing early stage investment opportunities in emergent companies and protocols within the blockchain technology space, specializing in the music, art, and entertainment industries in addition to global financial markets.
+  - I focus on sourcing early stage investment opportunities in emergent companies and protocols within the blockchain technology space, specializing in the financial and legacy markets, in addition to the the music, art, and entertainment industries.
+  
+- This require extreme focus while I maintain a sharp analytical mind to identify non-obvious opportunities for the deployment of capital while interacting daily with Web 3.0 protocols built on Layer 1 and Layer 2 Enterprise Smart Contract Platforms such as Bitcoin, Ethereum, Polygon, Lightning, Solana, Cosmos, Fantom, Avalanche, Binance Smart Chain, and the Internet Computer.
 
- - This require extreme focus while I maintain a sharp analytical mind to identify non-obvious opportunities for the deployment of capital while interacting daily with Web 3.0 protocols built on Layer 1 and Layer 2 Enterprise Smart Contract Platforms such as Bitcoin, Ethereum, Polygon, Lightning, Solana, Cosmos, Fantom, Avalanche, Binance Smart Chain, and the Internet Computer.
+- Often times, this includes utilizing multiple on-ramps, off-ramps, and bridges to transfer assets cross-chain in order to synchronize financial strategies between exchanges, hard wallets, and cold wallets to strategically take advantage of the benefits of TradFi, CeFi, and DeFi
 
- - Often times, this includes utilizing multiple on-ramps, off-ramps, and bridges to transfer assets cross-chain in order to synchronize financial strategies between exchanges, hard wallets, and cold wallets to strategically take advantage of the benefits of TradFi, CeFi, and DeFi.
+- Screened projects by reading protocol specifications and white papers, in addition to, communicating with technical teams on Discord
+
+- Participated in multiple yield-farming and staking strategies that helped to build liquidity for cross-chain interoperability
+
+- Utilized Webhooks to connect data feeds between TradingView, Discord, Telegram, and Trading Exchanges to create custom trading signals and automated trading that were scripted using PineScript
 
 ### Tech Relateds Certificates, Courses and Bootcamps
 
