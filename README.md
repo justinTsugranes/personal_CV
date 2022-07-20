@@ -51,9 +51,9 @@ Helped produce several television commercials for international brands that were
 - Production Companies Worked With: Moxie Pictures, Backyard Productions, Somesuch Productions, Golden Productions
 - Agencies: DLA, Weber Shandwick, BBDO, XO
 
-<href="https://www.youtube.com/watch?v=Qd1ZFLsVtgo">Dolby Atmos: Experience The Weeknd's Take My Breath Like Never Before
-<href="https://www.youtube.com/watch?v=bfuhFvZsgkc">Chevy: Walter the Cat
-<href"https://www.youtube.com/watch?v=Ugu225pTIm0">Fedex: Make a World of Difference
+<a href="https://www.youtube.com/watch?v=Qd1ZFLsVtgo"> Dolby Atmos: Experience The Weeknd's Take My Breath Like Never Before</a><br>
+<a href="https://www.youtube.com/watch?v=bfuhFvZsgkc"> Chevy: Walter the Cat</a><br>
+<a href="https://www.youtube.com/watch?v=Ugu225pTIm0"> Fedex: Make a World of Difference</a><br>
 
 **Guitarist | Senior Supply Operations NCO** @ US Army National Guard _(2009 - 2021)_ <br>
 - Worked with a team of thirty-five Army musicians to load, unload, setup, operate live sound systems and perform on guitar and percussion in major performance halls across South Carolina and California for crowds in excess of 100,000 people
@@ -72,6 +72,8 @@ Notable Performances:
  - 2013 Bojangles 500 NASCAR Race
  - 2012 Opened for Lee Brice for the USO at McEntire Air Force Base
  - 2011 The S.C. Gubernatorial Inauguration of Nikki Haley
+ 
+ <br>
 
 **Founder, CEO** @ Ridgeline Records _(2006 - 2020)_ <br>
 Cultivated effective working relationships with potential clients in order to coordinate and book performance events in over 500 public, private and corporate events as a privately contracted musician for clients including, but not limited to:
@@ -87,7 +89,9 @@ Cultivated effective working relationships with potential clients in order to co
 - Ceil
 - Employer Support For the Guard And Reserve
 
-**Operations Manager** @ Keller Williams Professionals Realty - Columbia, SC _(2017-2019)_ <b4>
+<br>
+
+**Operations Manager** @ Keller Williams Professionals Realty - Columbia, SC _(2017-2019)_ <br>
 - Worked with clients, attorneys, contractors, builders, city/county registrars, and lending institutions to ensure that our team delivered consistent, high-quality client experiences while successfully closing over $9M in sales in 2018
 
 - Built, implemented, and managed a new client care system in a cutting edge Real Estate CRM for a database of 7,500+ leads while providing back-office support for a top producing real estate team with the primary goal of increasing yearly gross commission income for the team.
@@ -96,29 +100,44 @@ Cultivated effective working relationships with potential clients in order to co
 
 - Created real estate marketing videos, digital, and print marketing materials for multi-million dollar properties in Final Cut Pro X and the Adobe Creative Cloud
 
+<br>
+
 **Electric Guitar, Bass Guitar, Vocals** @ Emma’s Lounge, Asheville, NC _(2016-2017)_ <br>
 Folk Rock, Americana, Jam Band
 - Performed across North Carolina, South Carolina, Georgia and Virginia
 - French Broad River Festival, 2017
 
+<br>
+
 **Electric Guitarist, Composer** @ Calvin Get Down, Asheville, NC _(2014-2015)_ <br>
 Funk, Rock, Blues
 - Performed in local venues, breweries and festivals
+
+<br>
   
 **Microsoft Consultant** @ Best Buy, Inc. Asheville, NC _(2013 - 2014)_ <br>
+- Demonstrated the functinality and usefulness of the Microsoft Surface Pro product line as well as introduced users to the newly developed Chrome OS
+
+<br>
 
 **Principal Guitarist for Weekly Services** @ First Baptist Church, Charlotte, NC _(2009-2011)_ <br>
 - Quickly prepared and performed a large variety of music as directed for worship services
 - Utilized Aviom monitor systems and in ear monitors to create personalized stage mixes
 - Assisted in training, rehearsing and conducting music for the choir and orchestra
 
+<br>
+
 **Adjunct Faculty Member** @ Winthrop University, Rock Hill, SC _(2008 - 2010)_ <br>
 - Selected by Winthrop University Faculty members as an accompanist for major musical theatre productions and dance classes (modern and ballet) on electric and acoustic guitar
 - Responsible for several hours of unscripted improvisations on guitar that were specifically tailored for the needs of various dance instructors in every style, meter and tempo
 - Served as a substitute instructor for guitar ensembles, Jazz history classes and music appreciation classes
+
+<br>
   
 **Senior Sales Associate** @ Radioshack _(2006 - 2008)_ <br>
 - It was the best job I've ever had. I got to play with remote control cars all day, install surround sound in the store, learn about resistors and stuff, and make sure everyone had plenty of batteries.
+
+<br>
 
 ## MUSICAL THEATRE PRODUCTIONS
 
@@ -127,24 +146,21 @@ Grease, Town Theatre, Columbia, SC — Guitar (2012)
 Godspell, Winthrop University, Rock Hill, SC — Guitar (2010)
 Anything Goes, Winthrop University, Rock Hill, SC — Guitar (2009)
 
+<br>
 
 ## PUBLIC SPEAKING
   
-- **The Soundcheck Radioshow 103.7** _(live-broadcast, 2017)_
-
 - **single-threaded Podcast** _(released on Mar 31, 2021)_
-<br>[Crying at work](https://anchor.fm/single-threaded/episodes/Carolyn-Stransky-on-Crying-at-Work-etu7hj)<br>
-<br>
+[Crying at work](https://anchor.fm/single-threaded/episodes/Carolyn-Stransky-on-Crying-at-Work-etu7hj)<br>
+
+- **The Soundcheck Radioshow 103.7** _(live-broadcast, 2017)_ <br>
 
 **Want me to speak at your event, podcast, or vlog?**
 <br>[Send Me An Email]() for more information.
-<br><br>
-  
-## Accomplishments
 
-**Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
-Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
-<br><br>
+<br>
+  
+## Awards and Accomplishments
 
 **Army Achievement Medal**
 **Army State Active Service Medal**
@@ -153,12 +169,7 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 **Coin of Excellence** US Army Band Evaluation Team, Earned a Coin of Excellence from the Operational Readiness Evaluation team for superior performance on guitar during their evaluation of the 246 Army Band Jazz Combo _(2016)_
 **Commandant’s List** US Army Warrior Leader Course, Nominated by Peers to compete for the title of Honor Graduate _(2016)_
 
-## Languages
-
-**English**: Native <br>
-**Spanish: Intermediate <br>
-**German**: A2.2
-<br><br>
+<br>
 
 ## Formal Education
 
@@ -168,7 +179,7 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 **Bachelor of Arts** in Music Performance<br>
 [Winthrop University]() - Rock Hill, SC _(Aug 2006 - May 2010)_ <br>
 
-## Other Certificates, Courses, Seminars, and Conventions
+## Other Certificates, Courses, Seminars, and Conventions<br>
 
 2022 - Blockchain and Smart Contract Security (LinkedIn Learning)
 2022 - Create and Manage Cloud Resources (Google)
@@ -203,7 +214,9 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 2005-2006 - Fine Arts Center, Greenville, SC - Certificate - Certificate, Jazz Studies and Guitar Performance with Steve Watson
 2005 - Berklee College of Music, Boston, MA - Certificate - Summer Performance Intensive Program, Guitar
 
-## Exhaustive Full List of Technical Literacies In Alphabetical Order
+<br>
+
+## Exhaustive Full List of Technical Literacies In Alphabetical Order<br>
 
 Media Design, Adobe Photoshop CC, Illustrator CC, Lightroom Classic CC, Canva,
 Operating Systems: Apple, Windows
@@ -219,7 +232,9 @@ Distribution: CDBaby, Soundcloud, Bandcamp
 Syndication: Buffer, BandsInTown, Songkick
 Web Design: Squarespace, Wix
 
-## Exhaustive Full List Of Skills
+<br>
+
+## Exhaustive Full List Of Skills<br>
 
 Analytics
 Band Promotion
