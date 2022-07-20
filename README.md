@@ -49,7 +49,7 @@ As an entry-level developer, my skills with the following are beginner to immedi
 ### Tech Relateds Certificates, Courses and Bootcamps
 
 **Chainlink Smart Contract Developer Bootcamp**<br>
-[Chainlink](https://chain.link/bootcamp/bootcamp-2021-on-demand#:~:text=Smart%20Contract%20Developer%20Bootcamp%202021&text=Session%20two%20focuses%20on%20using,Brownie)%20for%20the%20second%20one.) - _(2022)_ <br>
+[Chainlink](https://chain.link/bootcamp/on-demand) - _(2022)_ <br>
 
 **Blockchain and Smart Contract Security**<br>
 [LinkedIn](https://www.linkedin.com/learning/certificates/396199478e892db785773b04cacabcb2c5d66fad6b7e955c5eef166660da3c10?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsRdSfJeCSo2mALo3JAoD4A%3D%3D) _(2022)_ <br>
@@ -58,19 +58,19 @@ As an entry-level developer, my skills with the following are beginner to immedi
 [freeCodeCamp](https://freecodecamp.org/certification/jtsugranes/responsive-web-design) - _(2022)_ <br>
 
 **Creating and Managing Cloud Resources**<br>
-[Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2469699?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - Berlin, Germany _(2022_ <br>
+[Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2469699?)
 
 **Infrastructure and Application Modernization with Google Cloud**<br>
-[Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2463513?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022_ <br>
+[Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2463513?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
 
 **Innovating with Data and Google Cloud**<br>
-[Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2462976?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022_ <br>
+[Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2462976?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
 
 **Understanding Google Cloud Security and Operations**<br>
-[Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2463816?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022_ <br>
+[Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2463816?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
 
 **Introduction to Digital Transformation with Google Cloud**<br>
-[Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2461375?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022_ <br>
+[Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2461375?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
 
 **IT Support Professional Certificate**<br>
 [Google]() - _(2022)_ <br>
