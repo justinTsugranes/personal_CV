@@ -196,7 +196,6 @@ Worked in a two-man team to navigate 13 miles of unmarked terrain to design a ha
 
 ## PUBLIC SPEAKING
 
-
 - **The Soundcheck Radioshow 103.7** _(live-broadcast, 2017)_ <br>
 
 **Want me to speak at your event, podcast, or vlog?**
@@ -206,12 +205,12 @@ Worked in a two-man team to navigate 13 miles of unmarked terrain to design a ha
   
 ## Awards and Accomplishments
 
-**Army Achievement Medal**
-**Army State Active Service Medal**
-**Army Reserve Component Achievement Medal with Two Oak leaf Clusters**
-**Army Professional Development Ribbon**
-**Coin of Excellence** US Army Band Evaluation Team, Earned a Coin of Excellence from the Operational Readiness Evaluation team for superior performance on guitar during their evaluation of the 246 Army Band Jazz Combo _(2016)_
-**Commandant’s List** US Army Warrior Leader Course, Nominated by Peers to compete for the title of Honor Graduate _(2016)_
+**Army Achievement Medal**<br>
+**Army State Active Service Medal**<br>
+**Army Reserve Component Achievement Medal with Two Oak leaf Clusters**<br>
+**Army Professional Development Ribbon**<br>
+**Coin of Excellence** US Army Band Evaluation Team, Earned a Coin of Excellence from the Operational Readiness Evaluation team for superior performance on guitar during their evaluation of the 246 Army Band Jazz Combo _(2016)_<br>
+**Commandant’s List** US Army Warrior Leader Course, Nominated by Peers to compete for the title of Honor Graduate _(2016)_<br>
 
 ---
 
