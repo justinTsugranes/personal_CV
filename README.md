@@ -317,22 +317,24 @@ The Grove Park Inn<br>
 <details>
   <summary>Click to expand!</summary>
   
-<a href="https://www.slideshare.net/JustinTsugranes/joe-pass-transcription-there-will-never-be-another-you-pacific-jazz-by-justin-jon-tsugranespdf">Joe Pass</a>
-<a href="https://www.slideshare.net/JustinTsugranes/kurt-rosenwinkel-transcription-how-deep-is-the-ocean-by-justin-jon-tsugranespdf">Kurt Rosenwinkel</a>
-<a href="https://www.slideshare.net/JustinTsugranes/wes-montgomery-transcription-old-folks-by-justin-jon-tsugranespdf">Wes Montgomery</a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
+- <a href="https://www.slideshare.net/JustinTsugranes/joe-pass-transcription-there-will-never-be-another-you-pacific-jazz-by-justin-jon-tsugranespdf">Joe Pass</a>
+- <a href="https://www.slideshare.net/JustinTsugranes/kurt-rosenwinkel-transcription-how-deep-is-the-ocean-by-justin-jon-tsugranespdf">Kurt Rosenwinkel</a>
+- <a href="https://www.slideshare.net/JustinTsugranes/wes-montgomery-transcription-old-folks-by-justin-jon-tsugranespdf">Wes Montgomery</a>
+- <a href="https://www.slideshare.net/JustinTsugranes/arrangement-i-got-it-bad-and-that-aint-good-by-justin-jon-tsugranespdf">Arrangement_ “I Got It Bad And That Ain’t Good,” by Justin Jon Tsugranes.pdf</a>
+- <a href="https://www.slideshare.net/JustinTsugranes/composition-spacial-by-justin-jon-tsugranespdf">Composition_ “Spacial,” by Justin Jon Tsugranes.pdf</a>
+- <a href="https://www.slideshare.net/JustinTsugranes/composition-miles-of-lydia-by-justin-jon-tsugranespdf">Composition, “Miles of Lydia,” - By Justin Jon Tsugranes.pdf</a>
+- <a href="https://www.slideshare.net/JustinTsugranes/etude-the-days-of-wine-and-roses-by-justin-jon-tsugranespdf">Etude_“The Days of Wine And Roses,” by Justin Jon Tsugranes.pdf</a>
+- <a href="https://www.slideshare.net/JustinTsugranes/etude-what-is-this-thing-called-love-by-justin-jon-tsugranespdf">Etude_ “What Is This Thing Called Love,” by Justin Jon Tsugranes.pdf</a>
+- <a href="https://www.slideshare.net/JustinTsugranes/etude-you-are-so-many-things-based-on-all-the-things-you-are-by-justin-jon-tsugranespdf">Etude_ “You Are So Many Things,” (based on All The Things You Are), by Justin Jon Tsugranes.pdf</a>
+- <a href="https://www.slideshare.net/JustinTsugranes/etude-a-dime-a-dozen-based-on-there-will-never-be-another-you-by-justin-jon-tsugranespdf">Etude_ A Dime A Dozen (Based on “There Will Never Be Another You), by Justin Jon Tsugranes.pdf</a>
+- <a href="https://www.slideshare.net/JustinTsugranes/etude-chord-melody-notes-on-heres-that-rainy-day-by-justin-jon-tsugranespdf">Etude_ Chord Melody Notes on, “Here’s That Rainy Day,” by Justin Jon Tsugranes.pdf</a>
+- <a href="https://www.slideshare.net/JustinTsugranes/etude-notes-on-i-remember-you-by-justin-jon-tsugranespdf">Etude, “Notes On I Remember You,” by Justin Jon Tsugranes.pdf</a>
+- <a href="https://www.slideshare.net/JustinTsugranes/etude-quartal-lines-by-justin-jon-tsugranespdf">Etude, “Quartal Lines,” by Justin Jon Tsugranes.pdf</a>
+- <a href="https://www.slideshare.net/JustinTsugranes/etude-rsvp-triad-pairs-on-invitation-by-justin-jon-tsugranespdf">Etude, “RSVP Triad Pairs on Invitation,” by Justin Jon Tsugranes.pdf</a>
+- <a href="https://www.slideshare.net/JustinTsugranes/etude-rsvp-triad-pairs-on-invitation-by-justin-jon-tsugranespdf"></a>
+- <a href="https://www.slideshare.net/JustinTsugranes/etude-targeting-d-by-justin-jon-tsugranespdf">Etude, “Targeting ‘d’,” by Justin Jon Tsugranes.pdf</a>
+- <a href="https://www.slideshare.net/JustinTsugranes/transcription-bireli-lagrene-cherokee-by-justin-jon-tsugranespdf">Transcription_Bireli Lagrene, “Cherokee,” by Justin Jon Tsugranes.pdf</a>
+- <a href="https://www.slideshare.net/JustinTsugranes/transcription-emily-remler-how-insensitive-justin-jon-tsugranespdf">Transcription_ Emily Remler, “How Insensitive,” Justin Jon Tsugranes.pdf</a>
 </details>
 
 ---
