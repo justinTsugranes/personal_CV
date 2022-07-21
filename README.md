@@ -46,31 +46,31 @@ As an entry-level developer, my skills with the following are beginner to immedi
 [Chainlink](https://chain.link/bootcamp/on-demand) - _(2022)_ <br>
 
 **Blockchain and Smart Contract Security**<br>
-[LinkedIn](https://www.linkedin.com/learning/certificates/396199478e892db785773b04cacabcb2c5d66fad6b7e955c5eef166660da3c10?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsRdSfJeCSo2mALo3JAoD4A%3D%3D) _(2022)_ <br>
+[Certificate from LinkedIn](https://www.linkedin.com/learning/certificates/396199478e892db785773b04cacabcb2c5d66fad6b7e955c5eef166660da3c10?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsRdSfJeCSo2mALo3JAoD4A%3D%3D) _(2022)_ <br>
 
 **Responsive Web Design** focused on full-stack JavaScript<br>
-[freeCodeCamp](https://freecodecamp.org/certification/jtsugranes/responsive-web-design) - _(2022)_ <br>
+[Certificate from freeCodeCamp](https://freecodecamp.org/certification/jtsugranes/responsive-web-design) - _(2022)_ <br>
 
 **Creating and Managing Cloud Resources**<br>
-[Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2469699?)
+[Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2469699?)
 
 **Infrastructure and Application Modernization with Google Cloud**<br>
-[Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2463513?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
+[Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2463513?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
 
 **Innovating with Data and Google Cloud**<br>
-[Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2462976?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
+[Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2462976?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
 
 **Understanding Google Cloud Security and Operations**<br>
-[Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2463816?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
+[Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2463816?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
 
 **Introduction to Digital Transformation with Google Cloud**<br>
-[Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2461375?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
+[Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2461375?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
 
-**IT Support Professional Certificate**<br>
-[Google]() - _(2022)_ <br>
+**IT Support Professional Certificate (IN PROGRESS)**<br>
+[Certificate from Google]() - _(2022)_ <br>
 
 **Technical Support Fundamentals Certificate**<br>
-[Google](https://www.coursera.org/account/accomplishments/certificate/Y3GXSZJNQVTH) - _(2022)_ <br>
+[Certificate from Google](https://www.coursera.org/account/accomplishments/certificate/Y3GXSZJNQVTH) - _(2022)_ <br>
 
 ---
     
@@ -196,13 +196,16 @@ The Grove Park Inn<br>
 
 ## MUSICAL THEATRE PRODUCTIONS
 
-**Legally Blonde** @ Workshop Theatre - Columbia, SC — Guitar (2012)<br>
-- Guitarist for the musical adaptation of the novel, Legally Blonde by Heather Hach
-**Grease** @ Town Theatre, Columbia, SC — Guitar (2012)<br>
-- Guitarist for Jim Jacobs and Warren Casey’s, “Grease"
-**Godspell** @ Winthrop University, Rock Hill, SC — Guitar (2010)<br>
-- Guitarist for the production of John-Michael Tebelak and Stephen Schwartz’s, “Godspell”
-**Anything Goes** @ Winthrop University, Rock Hill, SC — Guitar (2009)<br>
+**Legally Blonde** @ Workshop Theatre - Columbia, SC _(2012)_<br>
+- Guitarist for the musical adaptation of the novel, Legally Blonde by Heather Hach <br>
+
+**Grease** @ Town Theatre, Columbia, SC _(2012)_<br>
+- Guitarist for Jim Jacobs and Warren Casey’s, “Grease" <br>
+
+**Godspell** @ Winthrop University, Rock Hill, SC _(2010)_<br>
+- Guitarist for the production of John-Michael Tebelak and Stephen Schwartz’s, “Godspell” <br>
+
+**Anything Goes** @ Winthrop University, Rock Hill, SC _(2009)_<br>
 - Guitarist for the Musical Production of Cole Porter’s, “Anything Goes”
 
 ---
