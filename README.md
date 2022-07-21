@@ -163,6 +163,14 @@ Folk Rock, Americana, Jam Band
 Funk, Rock, Blues
 - Performed in local venues, breweries and festivals
 
+**Microsoft Consultant** @ Best Buy, Inc. - Asheville, NC _(2014 - 2016)_ <br>
+***The Inn on Biltmore Estate***
+***The Grove Park Inn, Asheville, NC***<br>
+- Recognized for exceeding strict Forbes standards within two different four-star, four-diamond world-class resorts
+- Worked in a fast-paced, high stress position during all times of day and types of weather while maintaining a professional demeanor.
+- Worked as part of a team to coordinator heavy guest traffic patterns during events, weddings and peak holiday seasons while assisting guests with all of their check-in, check-out and transportation needs
+- Proactively engaged guests while identifying opportunities to cross-promote estate products and services as appropriate
+
 <br>
   
 **Microsoft Consultant** @ Best Buy, Inc. - Asheville, NC _(2013 - 2014)_ <br>
