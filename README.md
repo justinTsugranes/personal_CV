@@ -2,10 +2,10 @@
 
 _Blockchain Developer and Content Creator based in Los Angeles, California_ <br>
 
-## Back in my day, we just had the telephone and dial-up internet. Here are all of the ways you can reach me now.
+## Back in my day, we just had the telephone and dial-up internet. Here are all of the ways you can reach me now
 
 [Adobe Stock Portfolio](https://stock.adobe.com/cr/contributor/210844067/justintsugranes) /
-[Audius](https://audius.co/themisfitdodo) / 
+[Audius](https://audius.co/themisfitdodo) /
 [Discord](https://discordapp.com/users/misfitDodo#0538) /
 [Email](mailto:justintsugranes@proton.me) /
 [Flickr](https://flic.kr/ps/3YkmsL)
@@ -13,7 +13,7 @@ _Blockchain Developer and Content Creator based in Los Angeles, California_ <br>
 [Instagram](https://instagram.com/justintsugranes) /
 [LinkedIn](https://www.linkedin.com/in/justintsugranes/) /
 [Medium](https://justintsugranes.medium.com/) /
-[OpenSea](https://opensea.io/themisfitDodo) / 
+[OpenSea](https://opensea.io/themisfitDodo) /
 [StackOverFlow](https://stackoverflow.com/users/18146313/justintsugranes) /
 [Telegram](t.me/justintsugranes) /
 [Theta.Tv](https://www.theta.tv/justintsugranes) /
@@ -23,6 +23,7 @@ _Blockchain Developer and Content Creator based in Los Angeles, California_ <br>
 [YouTube](https://www.youtube.com/channel/UCZdjz3-zqaY1xu3C4KL_viA) /
 
 ## Summary
+
 Having been involved in the music industry for over 22 years, I've witnessed multiple technological paradigm shifts firsthand. The barriers of entry into worldwide music distribution have never been lower for musicians producing world class music in their own home studios and bedrooms, or better yet, from their smartphones and iPads. Yet, the monetization of that effort has continued to be plagued by middlemen and a massive race to the bottom. I believe the integration of blockchain tech with the legacy royalty collection system is going to bring about a massive industry disruption that will soon lead to another paradigm shift. My goal and passion is to be part of the team that brings about this shift.
 
 I'm currently spending my time coding smart contracts. I'm deep into the tokenization of real estate and the possibilities for flash loan arbitrage opportunities within the global rental markets as well as the applicability of interactive reality NFTs, decentralized lending/borrowing, and flash loans as pertain to the future of real estate sales for agents.
@@ -30,15 +31,16 @@ I'm currently spending my time coding smart contracts. I'm deep into the tokeniz
 ## Formal Education
 
 **Master of Music** in Jazz Studies<br>
-[University of South Carolina]() - Columbia, SC _(Aug 2011 - May 2013)_ <br>
+[University of South Carolina](https://sc.edu/study/colleges_schools/music/) - Columbia, SC _(Aug 2011 - May 2013)_ <br>
 
 **Bachelor of Arts** in Music Performance<br>
-[Winthrop University]() - Rock Hill, SC _(Aug 2006 - May 2010)_ <br>
+[Winthrop University](https://www.winthrop.edu/cvpa/music/) - Rock Hill, SC _(Aug 2006 - May 2010)_ <br>
 
 ## Blockchain and Tech Experience
 
 **Junior Blockchain Developer** _(Feb 2022 - Present)_ <br>
 As an entry-level developer, my skills with the following are beginner to immediate. but I am improving daily and looking to work with a team so that I can push myself farther and contribute to some meaningful projects.
+
 - Experience in Smart Contract Development using Solidity, Deploying smart contracts, and running tests on the Ethereum Blockchain through Hardhat
 - Experience in developing and implementing decentralized applications (DApps) on the Ethereum Blockchain
 - Working knowledge of Cryptography which includes Hash functions and Digital Signatures
@@ -48,9 +50,10 @@ As an entry-level developer, my skills with the following are beginner to immedi
 - Skilled in Cloud Computing, virtualization, and Cloud Security
 - Comfortable with remote work and working on virtual teams
 - **_Technologies and Languages used:_** Solidity, Hardhat, ethers.js, React, IPFS, MetaMask, Visual Studio Code.
-<br>
+  <br>
 
 **Web 3.0 Investment Analyst** _(Dec 2020 - Present)_
+
 - I focus on sourcing early stage investment opportunities in emergent companies and protocols within the blockchain technology space, specializing in the financial and legacy markets, in addition to the the music, art, and entertainment industries.
 - This require extreme focus while I maintain a sharp analytical mind to identify non-obvious opportunities for the deployment of capital while interacting daily with Web 3.0 protocols built on Layer 1 and Layer 2 Enterprise Smart Contract Platforms such as Bitcoin, Ethereum, Polygon, Lightning, Solana, Cosmos, Fantom, Avalanche, Binance Smart Chain, and the Internet Computer.
 - Often times, this includes utilizing multiple on-ramps, off-ramps, and bridges to transfer assets cross-chain in order to synchronize financial strategies between exchanges, hard wallets, and cold wallets to strategically take advantage of the benefits of TradFi, CeFi, and DeFi
@@ -85,17 +88,18 @@ As an entry-level developer, my skills with the following are beginner to immedi
 [Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2461375?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
 
 **IT Support Professional Certificate (IN PROGRESS)**<br>
-[Certificate from Google]() - _(2022)_ <br>
+[Certificate from Google](https://www.coursera.org/professional-certificates/google-it-support)- _(2022)_ <br>
 
 **Technical Support Fundamentals Certificate**<br>
 [Certificate from Google](https://www.coursera.org/account/accomplishments/certificate/Y3GXSZJNQVTH) - _(2022)_ <br>
 
 ---
-    
+
 ## Other Professional Experience
 
 **Production Assistant** @ Freelance _(May 2020 - Nov 2021)_ <br>
 Helped produce several television commercials for international brands that were aired during Super Bowl LV on February 7, 2021
+
 - Production Clients: Dolby Atmos, Chevy, Fedex, Lowes
 - Production Companies Worked With: Moxie Pictures, Backyard Productions, Somesuch Productions, Golden Productions
 - Agencies: DLA, Weber Shandwick, BBDO, XO
@@ -108,45 +112,49 @@ Helped produce several television commercials for international brands that were
 
 **Senior Army Bandsman** @ US Army National Guard _(2019 - 2022)_ <br>
 40th Infantry Division Band - Los Angeles, CA
+
 - As a 'Charlie 1' designated Army Bandsman, I coached more senior instrumentalists in preparation of advanced training at the Army School of Music
 - Operated A/V equipment in support of military ceremonies and rehearsals
 - Guitarist in the Jazz Combo
 
 **Guitarist | Senior Supply Operations NCO** @ US Army National Guard _(2009 - 2019)_ <br>
 246 Army Band - Columbia, SC
+
 - Worked with a team of thirty-five Army musicians to load, unload, setup, operate live sound systems and perform on guitar and percussion in major performance halls across South Carolina and California for crowds in excess of 100,000 people
 - Chosen by senior leaders to fill the role of Senior Logistics and Resource Management NCO from 2012-2018, a position above my pay grade, taking on the responsibility of leading a five-person team to maintain a property book worth over $500,000 and coordinate supply operations to ensure that any logistical problems were resolved
 - Guitarist and Auxiliary Percussionist for the 246 Battery Brass Band _(2017-2019)_
 - Leader of the SC National Guard Jazz Combo, Blues in Green _(2012-2019)_
 
-    Notable Performances:
-     * Peace Center for the Performing Arts, Annually _(2012-2019)_
-     * Greenville, SC “Red, White and Blue” Festival, Annually _(2013-2019)_
-     * USS Yorktown Aircraft Carrier, Annually _(2012-2018)_
-     * Greenville, SC “Fall for Greenville” Festival _(2014-2018)_
-     * Koger Center for the Performing Arts _(2015)_
-     * Charleston Veterans Day Parade, Annually _(2014-2016)_
-     * Bojangles 500 NASCAR Race _(2013)_
-     * Opened for Lee Brice for the USO at McEntire Air Force Base _(2012)_
-     * Fort Moultrie, Annually _(2011-2013)_
-     * The S.C. Gubernatorial Inauguration of Nikki Haley _(2011)_
-     * Newberry Opera House, Annually _(2011-2015)_
- 
+  Notable Performances:
+
+  - Peace Center for the Performing Arts, Annually _(2012-2019)_
+  - Greenville, SC “Red, White and Blue” Festival, Annually _(2013-2019)_
+  - USS Yorktown Aircraft Carrier, Annually _(2012-2018)_
+  - Greenville, SC “Fall for Greenville” Festival _(2014-2018)_
+  - Koger Center for the Performing Arts _(2015)_
+  - Charleston Veterans Day Parade, Annually _(2014-2016)_
+  - Bojangles 500 NASCAR Race _(2013)_
+  - Opened for Lee Brice for the USO at McEntire Air Force Base _(2012)_
+  - Fort Moultrie, Annually _(2011-2013)_
+  - The S.C. Gubernatorial Inauguration of Nikki Haley _(2011)_
+  - Newberry Opera House, Annually _(2011-2015)_
+
 <br>
- 
+
 **Founder, CEO** @ Ridgeline Records, LLC. _(2006 - 2020)_ <br>
+
 - Cultivated effective working relationships with potential clients in order to coordinate and book performance events in over 500 public, private and corporate events as a privately contracted musician for clients including, but not limited to:
 
-    * BMW
-    * Boeing
-    * Columbia Museum of Art
-    * Municipal Association of South Carolina
-    * New Belgium Brewing
-    * South Carolina Department of Commerce
-    * State Government of South Carolina
-    * Urban Land Institute of SC
-    * Ceil
-    * Employer Support For the Guard And Reserve
+  - BMW
+  - Boeing
+  - Columbia Museum of Art
+  - Municipal Association of South Carolina
+  - New Belgium Brewing
+  - South Carolina Department of Commerce
+  - State Government of South Carolina
+  - Urban Land Institute of SC
+  - Ceil
+  - Employer Support For the Guard And Reserve
 
 - Managed the administrative responsibilities associated with running a growing music entertainment business including: creating contracts, riders and invoices, booking keeping and communicating the specific needs of musicians to vendors
 - Created websites, logos, fliers, graphics, and other promotional materials using Adobe CC and Squarespace
@@ -156,6 +164,7 @@ Helped produce several television commercials for international brands that were
 
 **Operations Manager** @ Keller Williams Professionals Realty - Columbia, SC _(2017-2019)_ <br>
 **[The Bourke Group](https://www.thebourkegroup.com/)**
+
 - Worked with clients, attorneys, contractors, builders, city/county registrars, and lending institutions to ensure that our team delivered consistent, high-quality client experiences while successfully closing over $9M in sales in 2018
 - Built, implemented, and managed a new client care system in a cutting edge Real Estate CRM for a database of 7,500+ leads while providing back-office support for a top producing real estate team with the primary goal of increasing yearly gross commission income for the team.
 - Spearheaded marketing efforts for properties in excess of $4M and evaluated potential marketing opportunities that ultimately lead to an overhaul of the team marketing plan. This in turn eliminated outdated and redundant tools, reduced team expenses, and increased online engagement by an average of 20% monthly.
@@ -164,6 +173,7 @@ Helped produce several television commercials for international brands that were
 <br>
 
 **Electric Guitarist, Bass Guitar, Vocals** @ Emma’s Lounge - Asheville, NC _(2016-2017)_ <br>
+
 - Folk Rock, Americana, Jam Band
 - Performed across North Carolina, South Carolina, Georgia and Virginia
 - French Broad River Festival, 2017
@@ -172,6 +182,7 @@ Helped produce several television commercials for international brands that were
 
 **Electric Guitarist, Composer** @ Calvin Get Down - Asheville, NC _(2014-2015)_ <br>
 Funk, Rock, Blues
+
 - Performed in local venues, breweries and festivals
 
 <br>
@@ -179,6 +190,7 @@ Funk, Rock, Blues
 **Parking and Transportation Host** - Asheville, NC _(2014 - 2016)_ <br>
 The Inn on Biltmore Estate<br>
 The Grove Park Inn<br>
+
 - Recognized for exceeding strict Forbes standards within two different four-star, four-diamond world-class resorts
 - Worked in a fast-paced, high stress position during all times of day and types of weather while maintaining a professional demeanor.
 - Worked as part of a team to coordinator heavy guest traffic patterns during events, weddings and peak holiday seasons while assisting guests with all of their check-in, check-out and transportation needs
@@ -187,13 +199,15 @@ The Grove Park Inn<br>
 <br>
   
 **Microsoft Consultant** @ Best Buy, Inc. - Asheville, NC _(2013 - 2014)_ <br>
+
 - Demonstrated the functinality and usefulness of the Microsoft Surface Pro product line as well as introduced users to the newly developed Chrome OS
 - Worked closely with other team members to demonstrate, promote and sell Microsoft products in and across the store to ensure customers' end-to-end needs were met while exceeding sales targets in revenue, margin and solutions
 - Built quality relationships with retail consumers, while providing them with relevant and memorable product demonstrations.
 
 <br>
-    
+
 **Principal Guitarist for Weekly Services** @ First Baptist Church - Charlotte, NC _(2009-2011)_ <br>
+
 - Quickly prepared and performed a large variety of music as directed for worship services
 - Utilized Aviom monitor systems and in ear monitors to create personalized stage mixes
 - Assisted in training, rehearsing and conducting music for the choir and orchestra
@@ -201,6 +215,7 @@ The Grove Park Inn<br>
 <br>
 
 **Adjunct Faculty Member** @ Winthrop University - Rock Hill, SC _(2008 - 2010)_ <br>
+
 - Selected by Winthrop University Faculty members as an accompanist for major musical theatre productions and dance classes (modern and ballet) on electric and acoustic guitar
 - Responsible for several hours of unscripted improvisations on guitar that were specifically tailored for the needs of various dance instructors in every style, meter and tempo
 - Served as a substitute instructor for guitar ensembles, Jazz history classes and music appreciation classes
@@ -208,6 +223,7 @@ The Grove Park Inn<br>
 <br>
   
 **Senior Sales Associate** @ Radioshack - Rock Hill, SC _(2006 - 2008)_ <br>
+
 - It was the best job I've ever had. I got to play with remote control cars all day, install surround sound in the store, learn about resistors and stuff, and make sure everyone had plenty of batteries.
 
 ---
@@ -215,15 +231,19 @@ The Grove Park Inn<br>
 ## MUSICAL THEATRE PRODUCTIONS
 
 **Legally Blonde** @ Workshop Theatre - Columbia, SC _(2012)_<br>
+
 - Guitarist for the musical adaptation of the novel, Legally Blonde by Heather Hach <br>
 
 **Grease** @ Town Theatre, Columbia, SC _(2012)_<br>
+
 - Guitarist for Jim Jacobs and Warren Casey’s, “Grease" <br>
 
 **Godspell** @ Winthrop University, Rock Hill, SC _(2010)_<br>
+
 - Guitarist for the production of John-Michael Tebelak and Stephen Schwartz’s, “Godspell” <br>
 
 **Anything Goes** @ Winthrop University, Rock Hill, SC _(2009)_<br>
+
 - Guitarist for the Musical Production of Cole Porter’s, “Anything Goes”
 
 ---
@@ -231,17 +251,21 @@ The Grove Park Inn<br>
 ## VOLUNTEER EXPERIENCE
 
 **[Sync Con](https://synccon.com/)** - Los Angeles, CA _(2019)_<br>
+
 - Volunteered for the annual Sync Con Music Syncronization conference in Hollywood, CA
 - Helped with VIP Guest registration and guest artist relations.
 
 **[RiverLink](https://riverlink.org/)** - Asheville, NC _(2018)_<br>
+
 - RiverLink is a non-profit that focuses on cleaning up the French Broad River in Asheville, NC
 - As a member of Keller Williams' "Red Day," I worked in two and three person teams to paddle the French Broad River to collect trash and debris as part of their revitalization project
 
 **[South Carolina Music Educator's Conference](https://www.scmea.net/)** - Charleston, SC _(2011-2019)_<br>
+
 - As a liaison for the South Carolina National Guard, I was responsible for designing a booth display seen by over 5,000 students and music professionals as well as giving masterclasses on Jazz Guitar to attract potential candidates to the Army Band
 
 **[Spartan](https://www.spartan.com/)** - South Carolina _(2013)_<br>
+
 - Helped to raise money on behalf of Home For Our Troops to help injured veterans.
 - Worked in a two-man team to navigate 13 miles of unmarked terrain to design a half-marathon obstacle course that was used by 7,500 people
 
@@ -257,7 +281,7 @@ The Grove Park Inn<br>
 [Send Me An Email]() for more information.
 
 ---
-  
+
 ## Awards and Accomplishments
 
 - Army Achievement Medal<br>
@@ -356,11 +380,13 @@ The Grove Park Inn<br>
 - <a href="https://www.slideshare.net/JustinTsugranes/etude-targeting-d-by-justin-jon-tsugranespdf">Etude, “Targeting ‘d’,” by Justin Jon Tsugranes.pdf</a>
 - <a href="https://www.slideshare.net/JustinTsugranes/transcription-bireli-lagrene-cherokee-by-justin-jon-tsugranespdf">Transcription_Bireli Lagrene, “Cherokee,” by Justin Jon Tsugranes.pdf</a>
 - <a href="https://www.slideshare.net/JustinTsugranes/transcription-emily-remler-how-insensitive-justin-jon-tsugranespdf">Transcription_ Emily Remler, “How Insensitive,” Justin Jon Tsugranes.pdf</a>
+
 </details>
 
 ---
 
 ## An Exhaustive, Kinda Ridculous Full List Of Skills, Technical Literacies, and Rando Stuff I Have Learned Along the Way<br>
+
 It's pretty amazing how much one can learn in a lifetime. I'm only in my early 30s. I don't plan on stopping anytime soon and I plan on keeping up with this list as time goes on.
 
 <details>
@@ -487,7 +513,7 @@ It's pretty amazing how much one can learn in a lifetime. I'm only in my early 3
 - Scuba<br>
 - Search Engine Optimization (SEO)<br>
 - Sight-Reading Musical Notation<br>
-- Singing: Low Tenor/Bass<br>
+- Singing (Low Tenor/Bass)<br>
 - Skype<br>
 - Small Business Management<br>
 - Smart Contracts<br>
@@ -524,4 +550,5 @@ It's pretty amazing how much one can learn in a lifetime. I'm only in my early 3
 - Wordpress 5<br>
 - Youtube<br>
 - Zoom<br>
+
 </details>
