@@ -312,6 +312,31 @@ The Grove Park Inn<br>
 
 ---
 
+## Transcriptions, Etudes, and Compositions
+
+<details>
+  <summary>Click to expand!</summary>
+  
+<a href="https://www.slideshare.net/JustinTsugranes/joe-pass-transcription-there-will-never-be-another-you-pacific-jazz-by-justin-jon-tsugranespdf">Joe Pass</a>
+<a href="https://www.slideshare.net/JustinTsugranes/kurt-rosenwinkel-transcription-how-deep-is-the-ocean-by-justin-jon-tsugranespdf">Kurt Rosenwinkel</a>
+<a href="https://www.slideshare.net/JustinTsugranes/wes-montgomery-transcription-old-folks-by-justin-jon-tsugranespdf">Wes Montgomery</a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+</details>
+
+---
+
 ## An Exhaustive, Kinda Ridculous Full List Of Skills, Technical Literacies, and Rando Stuff I Have Learned Along the Way<br>
 It's pretty amazing how much one can learn in a lifetime. I'm only in my early 30s. I don't plan on stopping anytime soon and I plan on keeping up with this list as time goes on.
 
