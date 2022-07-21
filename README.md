@@ -2,7 +2,25 @@
 
 _Blockchain Developer and Content Creator based in Los Angeles, California_ <br>
 
-[Email](mailto:justintsugranes@proton.me) / [LinkedIn](https://www.linkedin.com/in/justintsugranes/) / [GitHub](https://github.com/justintsugranes/) / [Twitter](https://twitter.com/justintsugranes/) / [Instagram]() / [Adobe Stock Portfolio]() / [Medium]() / [Discord]() / [Telegram]() / [Audius]() / [Theta.Tv]() / [Twitch]() / [TikTok]() / [YouTube]() / [StackOverFlow](https://stackoverflow.com/users/18146313/justintsugranes) / [OpenSea](https://opensea.io/themisfitDodo) / 
+## Back in my day, we just had the telephone and dial-up internet. Here are all of the ways you can reach me now.
+
+[Adobe Stock Portfolio](https://stock.adobe.com/cr/contributor/210844067/justintsugranes) /
+[Audius](https://audius.co/themisfitdodo) / 
+[Discord](https://discordapp.com/users/misfitDodo#0538) /
+[Email](mailto:justintsugranes@proton.me) /
+[Flickr](https://flic.kr/ps/3YkmsL)
+[GitHub](https://github.com/justintsugranes/) /
+[Instagram](https://instagram.com/justintsugranes) /
+[LinkedIn](https://www.linkedin.com/in/justintsugranes/) /
+[Medium](https://justintsugranes.medium.com/) /
+[OpenSea](https://opensea.io/themisfitDodo) / 
+[StackOverFlow](https://stackoverflow.com/users/18146313/justintsugranes) /
+[Telegram](t.me/justintsugranes) /
+[Theta.Tv](https://www.theta.tv/justintsugranes) /
+[TikTok](https://www.tiktok.com/@misfitdodo?lang=en) /
+[Twitch](https://www.twitch.tv/justintsugranes) /
+[Twitter](https://twitter.com/justintsugranes/) /
+[YouTube](https://www.youtube.com/channel/UCZdjz3-zqaY1xu3C4KL_viA) /
 
 ## Summary
 Having been involved in the music industry for over 22 years, I've witnessed multiple technological paradigm shifts firsthand. The barriers of entry into worldwide music distribution have never been lower for musicians producing world class music in their own home studios and bedrooms, or better yet, from their smartphones and iPads. Yet, the monetization of that effort has continued to be plagued by middlemen and a massive race to the bottom. I believe the integration of blockchain tech with the legacy royalty collection system is going to bring about a massive industry disruption that will soon lead to another paradigm shift. My goal and passion is to be part of the team that brings about this shift.
