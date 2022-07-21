@@ -17,33 +17,27 @@ I'm currently spending my time coding smart contracts. I'm deep into the tokeniz
 **Bachelor of Arts** in Music Performance<br>
 [Winthrop University]() - Rock Hill, SC _(Aug 2006 - May 2010)_ <br>
 
-## Blockchain and IT Experience
-
+## Blockchain and Tech Experience
 
 **Junior Blockchain Developer** _(Feb 2022 - Present)_ <br>
 As an entry-level developer, my skills with the following are beginner to immediate. but I am improving daily and looking to work with a team so that I can push myself farther and contribute to some meaningful projects.
-- Experience in Smart Contract Development using the object-oriented scripting language Solidity and Deploying smart contracts and running tests on personal Ethereum Blockchain through Hardhat
-- Experience in developing and implementing decentralized applications (Apps) on the Ethereum Blockchain
+- Experience in Smart Contract Development using Solidity, Deploying smart contracts, and running tests on the Ethereum Blockchain through Hardhat
+- Experience in developing and implementing decentralized applications (DApps) on the Ethereum Blockchain
 - Working knowledge of Cryptography which includes Hash functions and Digital Signatures
 - Experience with Javascript frameworks such as ReactJS and NodeJS
-- Proficient in developing Ethereum Smart contracts with Experience building dApps using HTML, JavaScript, and Node.js that interact wit the Ethereum Blockchain using ethers.js API and MetaMask
+- Proficient in developing Ethereum Smart contracts with Experience building dApps using HTML, JavaScript, and Node.js that interact with the Ethereum Blockchain using ethers.js API and MetaMask
 - Experience working with Remix IDE
 - Skilled in Cloud Computing, virtualization, and Cloud Security
 - Comfortable with remote work and working on virtual teams
-  - **_Technologies and Languages used:_** Solidity, Hardhat, ethers.js, React, IPFS, MetaMask, Visual Studio Code.
-<br><br>
+- **_Technologies and Languages used:_** Solidity, Hardhat, ethers.js, React, IPFS, MetaMask, Visual Studio Code.
+<br>
 
 **Web 3.0 Investment Analyst** _(Dec 2020 - Present)_
-  - I focus on sourcing early stage investment opportunities in emergent companies and protocols within the blockchain technology space, specializing in the financial and legacy markets, in addition to the the music, art, and entertainment industries.
-  
+- I focus on sourcing early stage investment opportunities in emergent companies and protocols within the blockchain technology space, specializing in the financial and legacy markets, in addition to the the music, art, and entertainment industries.
 - This require extreme focus while I maintain a sharp analytical mind to identify non-obvious opportunities for the deployment of capital while interacting daily with Web 3.0 protocols built on Layer 1 and Layer 2 Enterprise Smart Contract Platforms such as Bitcoin, Ethereum, Polygon, Lightning, Solana, Cosmos, Fantom, Avalanche, Binance Smart Chain, and the Internet Computer.
-
 - Often times, this includes utilizing multiple on-ramps, off-ramps, and bridges to transfer assets cross-chain in order to synchronize financial strategies between exchanges, hard wallets, and cold wallets to strategically take advantage of the benefits of TradFi, CeFi, and DeFi
-
 - Screened projects by reading protocol specifications and white papers, in addition to, communicating with technical teams on Discord
-
 - Participated in multiple yield-farming and staking strategies that helped to build liquidity for cross-chain interoperability
-
 - Utilized Webhooks to connect data feeds between TradingView, Discord, Telegram, and Trading Exchanges to create custom trading signals and automated trading that were scripted using PineScript
 
 ### Tech Relateds Certificates, Courses and Bootcamps
@@ -82,8 +76,7 @@ As an entry-level developer, my skills with the following are beginner to immedi
     
 ## Other Professional Experience
 
-**Production Assistant**<br>
-@ Freelance _(May 2020 - Nov 2021)_ <br>
+**Production Assistant** @ Freelance _(May 2020 - Nov 2021)_ <br>
 Helped produce several television commercials for international brands that were aired during Super Bowl LV on February 7, 2021
 - Production Clients: Dolby Atmos, Chevy, Fedex, Lowes
 - Production Companies Worked With: Moxie Pictures, Backyard Productions, Somesuch Productions, Golden Productions
@@ -97,63 +90,63 @@ Helped produce several television commercials for international brands that were
 
 **Senior Army Bandsman** @ US Army National Guard _(2019 - 2022)_ <br>
 40th Infantry Division Band - Los Angeles, CA
-- As a 'Charlie 1' designated Army Bandsman, I coached more senior instrumentalists in preparation of advanced training at the Army School of Music<br>
-- Operated A/V equipment in support of military ceremonies and rehearsals<br>
-- Guitarist in the Jazz Combo<br>
+- As a 'Charlie 1' designated Army Bandsman, I coached more senior instrumentalists in preparation of advanced training at the Army School of Music
+- Operated A/V equipment in support of military ceremonies and rehearsals
+- Guitarist in the Jazz Combo
 
 **Guitarist | Senior Supply Operations NCO** @ US Army National Guard _(2009 - 2019)_ <br>
 246 Army Band - Columbia, SC
 - Worked with a team of thirty-five Army musicians to load, unload, setup, operate live sound systems and perform on guitar and percussion in major performance halls across South Carolina and California for crowds in excess of 100,000 people
-
 - Chosen by senior leaders to fill the role of Senior Logistics and Resource Management NCO from 2012-2018, a position above my pay grade, taking on the responsibility of leading a five-person team to maintain a property book worth over $500,000 and coordinate supply operations to ensure that any logistical problems were resolved
+- Guitarist and Auxiliary Percussionist for the 246 Battery Brass Band _(2017-2019)_
+- Leader of the SC National Guard Jazz Combo, Blues in Green _(2012-2019)_
 
-2017-2019	Guitarist and Auxiliary Percussionist for the 246 Battery Brass Band
-
-2012-2019	Leader of the SC National Guard Jazz Combo, Blues in Green
-
-Notable Performances:
- - 2014-2016 Charleston Veterans Day Parade, Annually
- - 2011-2013 Fort Moultrie, Annually
- - 2015 Koger Center for the Performing Arts
- - 2011-15 Newberry Opera House, Annually
- - 2012-2019 Peace Center for the Performing Arts, Annually
- - 2012-2018 USS Yorktown Aircraft Carrier, Annually
- - 2013-2019 Greenville, SC “Red, White and Blue” Festival, Annually
- - 2014-2018 Greenville, SC “Fall for Greenville” Festival
- - 2013 Bojangles 500 NASCAR Race
- - 2012 Opened for Lee Brice for the USO at McEntire Air Force Base
- - 2011 The S.C. Gubernatorial Inauguration of Nikki Haley
+    Notable Performances:
+     * Peace Center for the Performing Arts, Annually _(2012-2019)_
+     * Greenville, SC “Red, White and Blue” Festival, Annually _(2013-2019)_
+     * USS Yorktown Aircraft Carrier, Annually _(2012-2018)_
+     * Greenville, SC “Fall for Greenville” Festival _(2014-2018)_
+     * Koger Center for the Performing Arts _(2015)_
+     * Charleston Veterans Day Parade, Annually _(2014-2016)_
+     * Bojangles 500 NASCAR Race _(2013)_
+     * Opened for Lee Brice for the USO at McEntire Air Force Base _(2012)_
+     * Fort Moultrie, Annually _(2011-2013)_
+     * The S.C. Gubernatorial Inauguration of Nikki Haley _(2011)_
+     * Newberry Opera House, Annually _(2011-2015)_
  
- <br>
-
+<br>
+ 
 **Founder, CEO** @ Ridgeline Records, LLC. _(2006 - 2020)_ <br>
-Cultivated effective working relationships with potential clients in order to coordinate and book performance events in over 500 public, private and corporate events as a privately contracted musician for clients including, but not limited to:
+- Cultivated effective working relationships with potential clients in order to coordinate and book performance events in over 500 public, private and corporate events as a privately contracted musician for clients including, but not limited to:
 
-- BMW
-- Boeing
-- Columbia Museum of Art
-- Municipal Association of South Carolina
-- New Belgium Brewing
-- South Carolina Department of Commerce
-- State Government of South Carolina
-- Urban Land Institute of SC
-- Ceil
-- Employer Support For the Guard And Reserve
+    * BMW
+    * Boeing
+    * Columbia Museum of Art
+    * Municipal Association of South Carolina
+    * New Belgium Brewing
+    * South Carolina Department of Commerce
+    * State Government of South Carolina
+    * Urban Land Institute of SC
+    * Ceil
+    * Employer Support For the Guard And Reserve
+
+- Managed the administrative responsibilities associated with running a growing music entertainment business including: creating contracts, riders and invoices, booking keeping and communicating the specific needs of musicians to vendors
+- Created websites, logos, fliers, graphics, and other promotional materials using Adobe CC and Squarespace
+- Utilized Logic Pro X along with digital and analog gear to record, produce and distribute original music
 
 <br>
 
 **Operations Manager** @ Keller Williams Professionals Realty - Columbia, SC _(2017-2019)_ <br>
 **[The Bourke Group](https://www.thebourkegroup.com/)**
-- Worked with clients, attorneys, contractors, builders, city/county registrars, and lending institutions to ensure that our team delivered consistent, high-quality client experiences while successfully closing over $9M in sales in 2018<br>
-- Built, implemented, and managed a new client care system in a cutting edge Real Estate CRM for a database of 7,500+ leads while providing back-office support for a top producing real estate team with the primary goal of increasing yearly gross commission income for the team.<br>
-- Spearheaded marketing efforts for properties in excess of $4M and evaluated potential marketing opportunities that ultimately lead to an overhaul of the team marketing plan. This in turn eliminated outdated and redundant tools, reduced team expenses, and increased online engagement by an average of 20% monthly.<br>
-- Created real estate marketing videos, digital, and print marketing materials for multi-million dollar properties in Final Cut Pro X and the Adobe Creative Cloud<br>
-- Created real estate marketing videos, digital, and print marketing materials for multi-million dollar properties in Final Cut Pro X and the Adobe Creative Cloud<br>
+- Worked with clients, attorneys, contractors, builders, city/county registrars, and lending institutions to ensure that our team delivered consistent, high-quality client experiences while successfully closing over $9M in sales in 2018
+- Built, implemented, and managed a new client care system in a cutting edge Real Estate CRM for a database of 7,500+ leads while providing back-office support for a top producing real estate team with the primary goal of increasing yearly gross commission income for the team.
+- Spearheaded marketing efforts for properties in excess of $4M and evaluated potential marketing opportunities that ultimately lead to an overhaul of the team marketing plan. This in turn eliminated outdated and redundant tools, reduced team expenses, and increased online engagement by an average of 20% monthly.
+- Created real estate marketing videos, digital, and print marketing materials for multi-million dollar properties in Final Cut Pro X and the Adobe Creative Cloud
 
 <br>
 
-**Electric Guitar, Bass Guitar, Vocals** @ Emma’s Lounge - Asheville, NC _(2016-2017)_ <br>
-Folk Rock, Americana, Jam Band
+**Electric Guitarist, Bass Guitar, Vocals** @ Emma’s Lounge - Asheville, NC _(2016-2017)_ <br>
+- Folk Rock, Americana, Jam Band
 - Performed across North Carolina, South Carolina, Georgia and Virginia
 - French Broad River Festival, 2017
 
@@ -163,9 +156,11 @@ Folk Rock, Americana, Jam Band
 Funk, Rock, Blues
 - Performed in local venues, breweries and festivals
 
-**Microsoft Consultant** @ Best Buy, Inc. - Asheville, NC _(2014 - 2016)_ <br>
-***The Inn on Biltmore Estate***
-***The Grove Park Inn, Asheville, NC***<br>
+<br>
+
+**Parking and Transportation Host** - Asheville, NC _(2014 - 2016)_ <br>
+The Inn on Biltmore Estate<br>
+The Grove Park Inn<br>
 - Recognized for exceeding strict Forbes standards within two different four-star, four-diamond world-class resorts
 - Worked in a fast-paced, high stress position during all times of day and types of weather while maintaining a professional demeanor.
 - Worked as part of a team to coordinator heavy guest traffic patterns during events, weddings and peak holiday seasons while assisting guests with all of their check-in, check-out and transportation needs
@@ -174,12 +169,12 @@ Funk, Rock, Blues
 <br>
   
 **Microsoft Consultant** @ Best Buy, Inc. - Asheville, NC _(2013 - 2014)_ <br>
-- Demonstrated the functinality and usefulness of the Microsoft Surface Pro product line as well as introduced users to the newly developed Chrome OS<br>
-- Worked closely with other team members to demonstrate, promote and sell Microsoft products in and across the store to ensure customers' end-to-end needs were met while exceeding sales targets in revenue, margin and solutions<br>
-- Built quality relationships with retail consumers, while providing them with relevant and memorable product demonstrations.<br>
+- Demonstrated the functinality and usefulness of the Microsoft Surface Pro product line as well as introduced users to the newly developed Chrome OS
+- Worked closely with other team members to demonstrate, promote and sell Microsoft products in and across the store to ensure customers' end-to-end needs were met while exceeding sales targets in revenue, margin and solutions
+- Built quality relationships with retail consumers, while providing them with relevant and memorable product demonstrations.
 
 <br>
-
+    
 **Principal Guitarist for Weekly Services** @ First Baptist Church - Charlotte, NC _(2009-2011)_ <br>
 - Quickly prepared and performed a large variety of music as directed for worship services
 - Utilized Aviom monitor systems and in ear monitors to create personalized stage mixes
@@ -197,18 +192,18 @@ Funk, Rock, Blues
 **Senior Sales Associate** @ Radioshack - Rock Hill, SC _(2006 - 2008)_ <br>
 - It was the best job I've ever had. I got to play with remote control cars all day, install surround sound in the store, learn about resistors and stuff, and make sure everyone had plenty of batteries.
 
-<br>
+---
 
 ## MUSICAL THEATRE PRODUCTIONS
 
-**Legally Blonde** - Workshop Theatre - Columbia, SC — Guitar (2012)<br>
-    Guitarist for the musical adaptation of the novel, Legally Blonde by Heather Hach<br>
-**Grease** - Town Theatre, Columbia, SC — Guitar (2012)<br>
-    Guitarist for Jim Jacobs and Warren Casey’s, “Grease"<br>
-**Godspell** - Winthrop University, Rock Hill, SC — Guitar (2010)<br>
-    Guitarist for the production of John-Michael Tebelak and Stephen Schwartz’s, “Godspell”<br>
-**Anything Goes** - Winthrop University, Rock Hill, SC — Guitar (2009)<br>
-    Guitarist for the Musical Production of Cole Porter’s, “Anything Goes”<br>
+**Legally Blonde** @ Workshop Theatre - Columbia, SC — Guitar (2012)<br>
+- Guitarist for the musical adaptation of the novel, Legally Blonde by Heather Hach
+**Grease** @ Town Theatre, Columbia, SC — Guitar (2012)<br>
+- Guitarist for Jim Jacobs and Warren Casey’s, “Grease"
+**Godspell** @ Winthrop University, Rock Hill, SC — Guitar (2010)<br>
+- Guitarist for the production of John-Michael Tebelak and Stephen Schwartz’s, “Godspell”
+**Anything Goes** @ Winthrop University, Rock Hill, SC — Guitar (2009)<br>
+- Guitarist for the Musical Production of Cole Porter’s, “Anything Goes”
 
 ---
 
@@ -235,10 +230,10 @@ Funk, Rock, Blues
 
 **[WTFH Podcast](https://www.callin.com/episode/jakelightning-brekolazh-2-CcXCcfTVTS)** _(2022)_<br>
 
-**The Soundcheck Radioshow 103.7** _(live-broadcast, 2017)_ <br>
+**The Soundcheck Radioshow 103.7** _(live-broadcast, 2017)_ <br><br>
 
-**Want me to speak at your event, podcast, or vlog?**
-<br>[Send Me An Email]() for more information.
+**Want me to speak at your event, podcast, or vlog?**<br>
+[Send Me An Email]() for more information.
 
 ---
   
@@ -292,7 +287,7 @@ Funk, Rock, Blues
 
 - [Oz Noy](http://www.oznoy.com/) - Fusion Guitar Masterclass, PASIC
 - [Dave Weckl](http://www.daveweckl.com/) - Fusion Percussion Masterclass, PASIC
-- Chad Smith: Rock Drumming Masterclass, PASIC
+- [Chad Smith](https://en.wikipedia.org/wiki/Chad_Smith) - Rock Drumming Masterclass, PASIC
 - [Peter Erskine](https://petererskine.com/) - Latin Percussion Masterclass, PASIC
 - [Bert Ligon](https://www.sc.edu/study/colleges_schools/music/faculty-staff/Ligon.php) - Guitar Professor - University of South Carolina
 - [Bryson Borgstedt](https://colajazz.com/bryson-borgstedt/) - Big Band Instructor, University of South Carolina
@@ -308,17 +303,17 @@ Funk, Rock, Blues
 - [Dr. Tomoko Deguchi](https://www.winthrop.edu/cvpa/faculty/default.aspx?id=13115) - Music Theory Professor, Winthrop University
 - [Arturo O'Farrill](http://www.arturoofarrill.com/) - Latin Groove Masterclass, Winthrop University
 - [Steve Smith](http://www.vitalinformation.com/) - Rock Drumming Masterclass, Winthrop University
-- Frank Vignola - Gypsy Jazz Guitar Masterclass, Winthrop University
-- Howard Paul - Luthiering Masterclass, Winthrop University
+- [Frank Vignola](https://www.frankvignola.com/) - Gypsy Jazz Guitar Masterclass, Winthrop University
+- [Howard Paul](https://www.benedettoguitars.com/) - Luthiering Masterclass, Winthrop University
 - [Vernon Reid](https://www.allmusic.com/artist/vernon-reid-mn0000268762/biography) - Rock Guitar Masterclass, Berklee College of Music
 - [Mike Ihde](http://www.mikeihde.com/) - Funk Guitar Masterclass, Berklee College of Music
-- Steve Watson - Guitar Professor - The Fine Arts Center, Greenville, SC
+- [Steve Watson](https://www.stevewatsonguitar.com/) - Guitar Professor - The Fine Arts Center, Greenville, SC
 - [Jean Sandoval](https://www.sandovalband.com/) - Guitar Instructor, East Coast Music Mall
 
 ---
 
 ## An Exhaustive, Kinda Ridculous Full List Of Skills, Technical Literacies, and Rando Stuff I Have Learned Along the Way<br>
-It's pretty aamazing how much one can learn in a lifetime. I'm only in my early 30s. I don't plan on stopping anytime soon and I plan on keeping up with this list as time goes on.
+It's pretty amazing how much one can learn in a lifetime. I'm only in my early 30s. I don't plan on stopping anytime soon and I plan on keeping up with this list as time goes on.
 
 <details>
   <summary>Click to expand!</summary>
