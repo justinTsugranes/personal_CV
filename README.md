@@ -1,8 +1,8 @@
 # Justin Tsugranes
 
-_Blockchain Developer and Content Creator based in Los Angeles, California_ <br>
+_React Developer and Content Creator based in Los Angeles, California_ <br>
 
-## Back in my day, we just had the telephone and dial-up internet. Here are all of the ways you can reach me now
+## Back in my day, we just had the telephone and dial-up internet. Here are all of the ways you can reach me now, but really I almost always everything set to <i>do-not-disturb</i> so I can get some work done
 
 [Adobe Stock Portfolio](https://stock.adobe.com/cr/contributor/210844067/justintsugranes) /
 [Audius](https://audius.co/themisfitdodo) /
