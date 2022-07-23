@@ -2,7 +2,7 @@
 
 _React Developer and Content Creator based in Los Angeles, California_ <br>
 
-## Back in my day, we just had the telephone and dial-up internet. Here are all of the ways you can reach me now, but really I almost always everything set to <i>do-not-disturb</i> so I can get some work done
+## Back in my day, we just had the telephone and dial-up internet. Here are all of the ways you can reach me now, but really I almost always everything set to _do-not-disturb_ so I can get some work done
 
 [Adobe Stock Portfolio](https://stock.adobe.com/cr/contributor/210844067/justintsugranes) /
 [Audius](https://audius.co/themisfitdodo) /
@@ -26,8 +26,6 @@ _React Developer and Content Creator based in Los Angeles, California_ <br>
 
 Having been involved in the music industry for over 22 years, I've witnessed multiple technological paradigm shifts firsthand. The barriers of entry into worldwide music distribution have never been lower for musicians producing world class music in their own home studios and bedrooms, or better yet, from their smartphones and iPads. Yet, the monetization of that effort has continued to be plagued by middlemen and a massive race to the bottom. I believe the integration of blockchain tech with the legacy royalty collection system is going to bring about a massive industry disruption that will soon lead to another paradigm shift. My goal and passion is to be part of the team that brings about this shift.
 
-I'm currently spending my time coding smart contracts. I'm deep into the tokenization of real estate and the possibilities for flash loan arbitrage opportunities within the global rental markets as well as the applicability of interactive reality NFTs, decentralized lending/borrowing, and flash loans as pertain to the future of real estate sales for agents.
-
 ## Formal Education
 
 **Master of Music** in Jazz Studies<br>
@@ -36,7 +34,10 @@ I'm currently spending my time coding smart contracts. I'm deep into the tokeniz
 **Bachelor of Arts** in Music Performance<br>
 [Winthrop University](https://www.winthrop.edu/cvpa/music/) - Rock Hill, SC _(Aug 2006 - May 2010)_ <br>
 
-## Blockchain and Tech Experience
+
+## Tech Experience
+
+**Junior React Front-End Developer** _Jul 2022 - Present)_ <br>
 
 **Junior Blockchain Developer** _(Feb 2022 - Present)_ <br>
 As an entry-level developer, my skills with the following are beginner to immediate. but I am improving daily and looking to work with a team so that I can push myself farther and contribute to some meaningful projects.
@@ -63,8 +64,8 @@ As an entry-level developer, my skills with the following are beginner to immedi
 
 ### Tech Relateds Certificates, Courses and Bootcamps
 
-**Chainlink Smart Contract Developer Bootcamp**<br>
-[Chainlink](https://chain.link/bootcamp/on-demand) - _(2022)_ <br>
+**Front-End Developer Professional Certificate**<br>
+[Certificate from Meta](https://www.coursera.org/professional-certificates/meta-front-end-developer- _(IN PROGRESS)_ <br>
 
 **Blockchain and Smart Contract Security**<br>
 [Certificate from LinkedIn](https://www.linkedin.com/learning/certificates/396199478e892db785773b04cacabcb2c5d66fad6b7e955c5eef166660da3c10?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsRdSfJeCSo2mALo3JAoD4A%3D%3D) _(2022)_ <br>
@@ -86,9 +87,6 @@ As an entry-level developer, my skills with the following are beginner to immedi
 
 **Introduction to Digital Transformation with Google Cloud**<br>
 [Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2461375?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
-
-**IT Support Professional Certificate (IN PROGRESS)**<br>
-[Certificate from Google](https://www.coursera.org/professional-certificates/google-it-support)- _(2022)_ <br>
 
 **Technical Support Fundamentals Certificate**<br>
 [Certificate from Google](https://www.coursera.org/account/accomplishments/certificate/Y3GXSZJNQVTH) - _(2022)_ <br>
