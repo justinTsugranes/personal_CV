@@ -25,7 +25,18 @@ _React Developer and Content Creator based in Los Angeles, California_ <br>
 
 ## Summary
 
-Having been involved in the music industry for over 22 years, I've witnessed multiple technological paradigm shifts firsthand. The barriers of entry into worldwide music distribution have never been lower for musicians producing world class music in their own home studios and bedrooms, or better yet, from their smartphones and iPads. Yet, the monetization of that effort has continued to be plagued by middlemen and a massive race to the bottom. I believe the integration of blockchain tech with the legacy royalty collection system is going to bring about a massive industry disruption that will soon lead to another paradigm shift. My goal and passion is to be part of the team that brings about this shift.
+About Me:
+I'm currently focused on React Front End Development
+I'm fascinated with the major developments being made with cloud computing, machine learning, smart contracts, DeFi, tokenized assets, blockchain use-cases, and augemented reality.
+In my free-time, I'm also learning Solidity, Hardhat, ethers.js, and the Graph in order to itegrate DApps with the Google Cloud through Chainlink.
+Before I began coding, I was helping production companies produce commercials for the Super Bowl.
+
+Completely Aside From Tech...
+writing songs, swing trading, chilling in hot sprngs, backgammon, live shows and events, photography, hiking, camping, backpacking, trail-running, road trips, non-fiction books-audiobooks-podcasts-vlogs-blogs, sailing, snorkeling, and learning Tai Chi.
+
+Fun Fact
+I blew my right hand up with dynamite when I was 9 (for real it took 120 stitches to put it back together). I went on to obtain a Master's Degree in Jazz Guitar and then became a guitarist for the US Army and a recording artist. Check out My Audible Account.
+
 
 ## Formal Education
 
@@ -39,6 +50,7 @@ Having been involved in the music industry for over 22 years, I've witnessed mul
 ## Tech Experience
 
 **Junior React Front-End Developer** _Jul 2022 - Present)_ <br>
+
 
 **Junior Blockchain Developer** _(Feb 2022 - Present)_ <br>
 As an entry-level developer, my skills with the following are beginner to immediate. but I am improving daily and looking to work with a team so that I can push myself farther and contribute to some meaningful projects.
