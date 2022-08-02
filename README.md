@@ -7,7 +7,7 @@ _Web Developer, UX Designer, and Digital Media Creator based in Los Angeles, Cal
 [Adobe Stock Portfolio](https://stock.adobe.com/cr/contributor/210844067/justintsugranes) /
 [Audius](https://audius.co/themisfitdodo) /
 [Email](mailto:justintsugranes@proton.me) /
-[Flickr](https://flic.kr/ps/3YkmsL)
+[Flickr](https://flic.kr/ps/3YkmsL)/
 [GitHub](https://github.com/justintsugranes/) /
 [Instagram](https://instagram.com/justintsugranes) /
 [LinkedIn](https://www.linkedin.com/in/justintsugranes/) /
