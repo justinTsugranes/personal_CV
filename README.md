@@ -1,27 +1,18 @@
 # Justin Tsugranes
 
-_React Developer and Content Creator based in Los Angeles, California_ <br>
+_Web Developer, UX Designer, and Digital Media Creator based in Los Angeles, California_ <br>
 
 ## Back in my day, we just had the telephone and dial-up internet. Here are all of the ways you can reach me now, but really I almost always everything set to _do-not-disturb_ so I can get some work done
 
 [Adobe Stock Portfolio](https://stock.adobe.com/cr/contributor/210844067/justintsugranes) /
 [Audius](https://audius.co/themisfitdodo) /
-[Discord](https://discordapp.com/users/misfitDodo#0538) /
 [Email](mailto:justintsugranes@proton.me) /
-[Dribbble](https://dribbble.com/justintsugranes) /
 [Flickr](https://flic.kr/ps/3YkmsL)
 [GitHub](https://github.com/justintsugranes/) /
 [Instagram](https://instagram.com/justintsugranes) /
 [LinkedIn](https://www.linkedin.com/in/justintsugranes/) /
 [Medium](https://justintsugranes.medium.com/) /
-[OpenSea](https://opensea.io/themisfitDodo) /
-[StackOverFlow](https://stackoverflow.com/users/18146313/justintsugranes) /
-[Telegram](t.me/justintsugranes) /
-[Theta.Tv](https://www.theta.tv/justintsugranes) /
-[TikTok](https://www.tiktok.com/@misfitdodo?lang=en) /
-[Twitch](https://www.twitch.tv/justintsugranes) /
 [Twitter](https://twitter.com/justintsugranes/) /
-[YouTube](https://www.youtube.com/channel/UCZdjz3-zqaY1xu3C4KL_viA) /
 
 ## Summary
 
