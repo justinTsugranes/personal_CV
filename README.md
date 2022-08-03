@@ -41,10 +41,21 @@ I blew my right hand up with dynamite when I was 9 (for real it took 120 stitche
 
 ## Tech Experience
 
-**Junior React Front-End Developer** _Jul 2022 - Present)_ <br>
+**Junior React Front-End Developer** _2022 - Present)_ <br>
+Strong advocate of MVP models and efficient workflows utilizing test-driven development environments with continuous integration, control, and delivery. Design, develop, launch, and improve!
+
+Languages: Javascript, HTML5, CSS3 (Bootstrap)
+Libraries / Frameworks: React.js, Node.js, npm
+Version Control: git, Github
+Testing: jest
+Tools: VSCode, iTerm2
+UX/UI & Graphic Design: Figma, Adobe Creative Cloud
+Focused on iOS
+Solid foundational knowledge of cloud computing utilizing Google Cloud Platform
+Comfortable with remote work environments and working on virtual teams
 
 
-**Junior Blockchain Developer** _(Feb 2022 - Present)_ <br>
+**Junior Blockchain Developer** _(2022 - Present)_ <br>
 As an entry-level developer, my skills with the following are beginner to immediate. but I am improving daily and looking to work with a team so that I can push myself farther and contribute to some meaningful projects.
 
 - Experience in Smart Contract Development using Solidity, Deploying smart contracts, and running tests on the Ethereum Blockchain through Hardhat
@@ -53,8 +64,6 @@ As an entry-level developer, my skills with the following are beginner to immedi
 - Experience with Javascript frameworks such as ReactJS and NodeJS
 - Proficient in developing Ethereum Smart contracts with Experience building dApps using HTML, JavaScript, and Node.js that interact with the Ethereum Blockchain using ethers.js API and MetaMask
 - Experience working with Remix IDE
-- Skilled in Cloud Computing, virtualization, and Cloud Security
-- Comfortable with remote work and working on virtual teams
 - **_Technologies and Languages used:_** Solidity, Hardhat, ethers.js, React, IPFS, MetaMask, Visual Studio Code.
   <br>
 
