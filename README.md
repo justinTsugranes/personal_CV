@@ -44,15 +44,15 @@ I blew my right hand up with dynamite when I was 9 (for real it took 120 stitche
 **Junior React Front-End Developer** _2022 - Present)_ <br>
 Strong advocate of MVP models and efficient workflows utilizing test-driven development environments with continuous integration, control, and delivery. Design, develop, launch, and improve!
 
-Languages: Javascript, HTML5, CSS3 (Bootstrap)
-Libraries / Frameworks: React.js, Node.js, npm
-Version Control: git, Github
-Testing: jest
-Tools: VSCode, iTerm2
-UX/UI & Graphic Design: Figma, Adobe Creative Cloud
-Focused on iOS
-Solid foundational knowledge of cloud computing utilizing Google Cloud Platform
-Comfortable with remote work environments and working on virtual teams
+- Languages: Javascript, HTML5, CSS3 (Bootstrap)
+- Libraries / Frameworks: React.js, Node.js, npm
+- Version Control: git, Github
+- Testing: jest
+- Tools: VSCode, iTerm2
+- UX/UI & Graphic Design: Figma, Adobe Creative Cloud
+- Focused on iOS
+- Solid foundational knowledge of cloud computing utilizing Google Cloud Platform
+- Comfortable with remote work environments and working on virtual teams
 
 
 **Junior Blockchain Developer** _(2022 - Present)_ <br>
