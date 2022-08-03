@@ -72,6 +72,9 @@ As an entry-level developer, my skills with the following are beginner to immedi
 **Front-End Developer Professional Certificate**<br>
 [Certificate from Meta](https://www.coursera.org/professional-certificates/meta-front-end-developer- _(IN PROGRESS)_ <br>
 
+**Blockchain and Smart Contract Security**<br>
+[Certificate from LinkedIn](https://www.linkedin.com/learning/certificates/396199478e892db785773b04cacabcb2c5d66fad6b7e955c5eef166660da3c10?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsRdSfJeCSo2mALo3JAoD4A%3D%3D) _(2022)_ <br>
+
 **Programming With JavaScript**<br>
 [Certificate from Meta](https://coursera.org/verify/2C2SUEHQ8XE3) _(2022)_ <br>
 
@@ -80,9 +83,6 @@ As an entry-level developer, my skills with the following are beginner to immedi
 
 **Intro To Front End Development**<br>
 [Certificate from Meta](https://coursera.org/verify/5D8F2L8R3BGD) _(2022)_ <br>
-
-**Blockchain and Smart Contract Security**<br>
-[Certificate from LinkedIn](https://www.linkedin.com/learning/certificates/396199478e892db785773b04cacabcb2c5d66fad6b7e955c5eef166660da3c10?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsRdSfJeCSo2mALo3JAoD4A%3D%3D) _(2022)_ <br>
 
 **Responsive Web Design** focused on full-stack JavaScript<br>
 [Certificate from freeCodeCamp](https://freecodecamp.org/certification/jtsugranes/responsive-web-design) - _(2022)_ <br>
@@ -104,6 +104,9 @@ As an entry-level developer, my skills with the following are beginner to immedi
 
 **Technical Support Fundamentals Certificate**<br>
 [Certificate from Google](https://www.coursera.org/account/accomplishments/certificate/Y3GXSZJNQVTH) - _(2022)_ <br>
+
+**Foundations of User Experience (UX) Design**<br>
+[Certificate from Google](https://coursera.org/verify/HTH2Z6PD3LGP) _(2022)_ <br>
 
 ---
 
