@@ -15,16 +15,19 @@ _Web Developer, UX Designer, and Digital Media Creator based in Los Angeles, Cal
 [Medium](https://justintsugranes.medium.com/) /
 [Twitter](https://twitter.com/justintsugranes/) /
 
-## Summary
+### About Me:
 
-About Me:
-Coding and web development was a natural path for me to walk. I've always been a tinkerer and a builder of things. For me, it’s about having a deeper understanding of our world while working with world class teams to design, create, and deliver products and services that make a positive contribution on a global scale.
+- I'm currently focused on Next.js and React.js Front End Development and UX/UI Design with Figma.
+- I'm fascinated with the major developments being made with cloud computing, machine learning, smart contracts, DeFi, tokenized assets, blockchain use-cases, and augmented reality, but it's a little bit too much to try to digest all at once...
 
-Completely Aside From Tech...
-writing songs, swing trading, chilling in hot sprngs, backgammon, live shows and events, photography, hiking, camping, backpacking, trail-running, road trips, non-fiction books-audiobooks-podcasts-vlogs-blogs, sailing, snorkeling, and learning Tai Chi.
+### Completely Aside From Tech...
 
-Fun Fact
-I blew my right hand up with dynamite when I was 9 (for real it took 120 stitches to put it back together). I went on to obtain a Master's Degree in Jazz Guitar and then became a guitarist for the US Army and a recording artist. Check out My Audible Account.
+- writing songs, trading, backgammon, live shows and events, photography, hiking, camping, backpacking, trail-running, road trips, non-fiction books-audiobooks-podcasts-vlogs-blogs, sailing, snorkeling, and diving into artistic rabbit holes.
+
+### Fun Facts
+
+- Before I began coding, I was helping production companies with commercials for the 2021 Super Bowl.
+- I blew my right hand up with dynamite when I was 9 (no joke... it took 120 stitches to put it back together). I went on to obtain a Master's Degree in Jazz Guitar and then became a guitarist for the US Army and a recording artist.
 
 
 ## Formal Education
