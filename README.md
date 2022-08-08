@@ -18,10 +18,7 @@ _Web Developer, UX Designer, and Digital Media Creator based in Los Angeles, Cal
 ## Summary
 
 About Me:
-I'm currently focused on React Front End Development
-I'm fascinated with the major developments being made with cloud computing, machine learning, smart contracts, DeFi, tokenized assets, blockchain use-cases, and augemented reality.
-In my free-time, I'm also learning Solidity, Hardhat, ethers.js, and the Graph in order to itegrate DApps with the Google Cloud through Chainlink.
-Before I began coding, I was helping production companies produce commercials for the Super Bowl.
+Coding and web development was a natural path for me to walk. I've always been a tinkerer and a builder of things. For me, it’s about having a deeper understanding of our world while working with world class teams to design, create, and deliver products and services that make a positive contribution on a global scale.
 
 Completely Aside From Tech...
 writing songs, swing trading, chilling in hot sprngs, backgammon, live shows and events, photography, hiking, camping, backpacking, trail-running, road trips, non-fiction books-audiobooks-podcasts-vlogs-blogs, sailing, snorkeling, and learning Tai Chi.
