@@ -1,6 +1,6 @@
 # Justin Tsugranes
 
-_Web Developer, UX Designer, and Digital Media Creator based in Los Angeles, California_ <br>
+_Front-End Web Developer, and Digital Media Creator based in Los Angeles, California_ <br>
 
 ## Back in my day, we just had the telephone and dial-up internet. Here are all of the ways you can reach me now, but e-mail is the quickest.... I check it on Monday mornings and Wednesday Afternoons and I leave everything else set to _do not disturb_
 
@@ -18,7 +18,7 @@ _Web Developer, UX Designer, and Digital Media Creator based in Los Angeles, Cal
 ### About Me:
 
 - I'm currently focused on Next.js and React.js Front End Development and UX/UI Design with Figma.
-- I'm fascinated with the major developments being made with cloud computing, machine learning, smart contracts, DeFi, tokenized assets, blockchain use-cases, and augmented reality, but it's a little bit too much to try to digest all at once...
+- I'm fascinated with the major developments being made with cloud computing, machine learning, smart contracts, DeFi, tokenized assets, blockchain use-cases, and augmented reality, but I'm taking all of that one-step-at-a-time since it's a little bit much to try to digest all at once...
 
 ### Completely Aside From Tech...
 
@@ -39,42 +39,29 @@ _Web Developer, UX Designer, and Digital Media Creator based in Los Angeles, Cal
 [Winthrop University](https://www.winthrop.edu/cvpa/music/) - Rock Hill, SC _(Aug 2006 - May 2010)_ <br>
 
 
-## Tech Experience
+## Current
 
-**Junior React Front-End Developer** _2022 - Present)_ <br>
+**Front-End Web Developer** _2022 - Present)_ <br>
 Strong advocate of MVP models and efficient workflows utilizing test-driven development environments with continuous integration, control, and delivery. Design, develop, launch, and improve!
 
-- Languages: Javascript, HTML5, CSS3 (Bootstrap)
-- Libraries / Frameworks: React.js, Node.js, npm
+- Languages: Javascript, Typescript, HTML5, CSS3
+- Libraries / Frameworks: Next.js, React.js, Node.js, TailwindCSS
+- Database: MongoDB Atlas
+- Hosting: Google Cloud Platform, Netlify, Vercel
 - Version Control: git, Github
 - Testing: jest
 - Tools: VSCode, iTerm2
 - UX/UI & Graphic Design: Figma, Adobe Creative Cloud
-- Focused on iOS
-- Solid foundational knowledge of cloud computing utilizing Google Cloud Platform
+- Solid foundational knowledge of cloud computing utilizing Google Cloud
 - Comfortable with remote work environments and working on virtual teams
-
-
-**Junior Blockchain Developer** _(2022 - Present)_ <br>
-As an entry-level developer, my skills with the following are beginner to immediate. but I am improving daily and looking to work with a team so that I can push myself farther and contribute to some meaningful projects.
-
-- Experience in Smart Contract Development using Solidity, Deploying smart contracts, and running tests on the Ethereum Blockchain through Hardhat
-- Experience in developing and implementing decentralized applications (DApps) on the Ethereum Blockchain
-- Working knowledge of Cryptography which includes Hash functions and Digital Signatures
-- Experience with Javascript frameworks such as ReactJS and NodeJS
-- Proficient in developing Ethereum Smart contracts with Experience building dApps using HTML, JavaScript, and Node.js that interact with the Ethereum Blockchain using ethers.js API and MetaMask
-- Experience working with Remix IDE
-- **_Technologies and Languages used:_** Solidity, Hardhat, ethers.js, React, IPFS, MetaMask, Visual Studio Code.
-  <br>
 
 **Web 3.0 Investment Analyst** _(Dec 2020 - Present)_
 
-- I focus on sourcing early stage investment opportunities in emergent companies and protocols within the blockchain technology space, specializing in the financial and legacy markets, in addition to the the music, art, and entertainment industries.
-- This require extreme focus while I maintain a sharp analytical mind to identify non-obvious opportunities for the deployment of capital while interacting daily with Web 3.0 protocols built on Layer 1 and Layer 2 Enterprise Smart Contract Platforms such as Bitcoin, Ethereum, Polygon, Lightning, Solana, Cosmos, Fantom, Avalanche, Binance Smart Chain, and the Internet Computer.
-- Often times, this includes utilizing multiple on-ramps, off-ramps, and bridges to transfer assets cross-chain in order to synchronize financial strategies between exchanges, hard wallets, and cold wallets to strategically take advantage of the benefits of TradFi, CeFi, and DeFi
-- Screened projects by reading protocol specifications and white papers, in addition to, communicating with technical teams on Discord
+- Focused on sourcing early stage investment opportunities in emergent companies and protocols within the blockchain technology space by screening projects, reading protocol specifications and white papers, while also communicating with technical teams on Discord. This lead to a 1,500% ROI for 2021.
+Analyzed and identified non-obvious opportunities for the deployment of capital while interacting daily with Web 3.0 protocols built on Layer 1 and Layer 2 Enterprise Smart Contract Platforms such as Bitcoin, Ethereum, Polygon, Lightning, Solana, Cosmos, Fantom, Avalanche, Binance Smart Chain, and the Internet Computer.
 - Participated in multiple yield-farming and staking strategies that helped to build liquidity for cross-chain interoperability
-- Utilized Webhooks to connect data feeds between TradingView, Discord, Telegram, and Trading Exchanges to create custom trading signals and automated trading that were scripted using PineScript
+- Safely managed private keys using private key best practices
+- Utilized Webhooks to connect data feeds between TradingView, Discord, Telegram, and Trading Exchanges to create custom trading signals
 
 ### Tech Relateds Certificates, Courses and Bootcamps
 
@@ -124,8 +111,10 @@ As an entry-level developer, my skills with the following are beginner to immedi
 
 ## Other Professional Experience
 
-**Production Assistant** @ Freelance _(May 2020 - Nov 2021)_ <br>
-Helped produce several television commercials for international brands that were aired during Super Bowl LV on February 7, 2021
+**Production Assistant** @ misfitDodo Media _(May 2020 - Nov 2021)_ <br>
+As a cross-functional team member, I helped on the production of television commercials for international brands that were aired during Super Bowl LVI. This required me to anticipate the needs of directors, producers, union crew members, talent, and vendors.
+
+Assisted the Production Supervisor on payroll and administrative tasks while handling sensitive data for projects with budgets over $5MIL
 
 - Production Clients: Dolby Atmos, Chevy, Fedex, Lowes
 - Production Companies Worked With: Moxie Pictures, Backyard Productions, Somesuch Productions, Golden Productions
@@ -147,8 +136,10 @@ Helped produce several television commercials for international brands that were
 **Guitarist | Senior Supply Operations NCO** @ US Army National Guard _(2009 - 2019)_ <br>
 246 Army Band - Columbia, SC
 
-- Worked with a team of thirty-five Army musicians to load, unload, setup, operate live sound systems and perform on guitar and percussion in major performance halls across South Carolina and California for crowds in excess of 100,000 people
-- Chosen by senior leaders to fill the role of Senior Logistics and Resource Management NCO from 2012-2018, a position above my pay grade, taking on the responsibility of leading a five-person team to maintain a property book worth over $500,000 and coordinate supply operations to ensure that any logistical problems were resolved
+- Successfully executed community outreach missions alongside a team of thirty-five Army musicians to perform in major performance halls across South Carolina and California for crowds in excess of 100,000 people as part of a higher-level goal of promoting patriotism
+- Chosen by senior leaders to fill the role of Senior Logistics and Resource Management NCO from 2012-2018, taking on the responsibility of leading a five-person team to maintain a property book worth over $500,000 and holding an active secret security clearance
+- Received an Active State Service Medal for volunteering to serve on a team that delivered mission critical support during hurricanes while assisting higher-level leadership, including four-star generals and government leaders
+- Chosen by senior leaders to lead the Jazz Combo, a small, versatile group of musicians that performed classic Jazz Standards for ceremonies, receptions, cocktail hours, and other high-profile government functions
 - Guitarist and Auxiliary Percussionist for the 246 Battery Brass Band _(2017-2019)_
 - Leader of the SC National Guard Jazz Combo, Blues in Green _(2012-2019)_
 
@@ -168,9 +159,11 @@ Helped produce several television commercials for international brands that were
 
 <br>
 
-**Founder, CEO** @ Ridgeline Records, LLC. _(2006 - 2020)_ <br>
+**Professional Musician** @ Ridgeline Records, LLC. _(2006 - 2020)_ <br>
 
-- Cultivated effective working relationships with potential clients in order to coordinate and book performance events in over 500 public, private and corporate events as a privately contracted musician for clients including, but not limited to:
+- Managed the administrative responsibilities associated with running a freelance entertainment business including: creating contracts, riders and invoices, financial management and communicating the specific needs of musicians to vendors
+
+- Cultivated effective working relationships with potential clients in order to coordinate and book over 500 public, private and corporate events as a privately contracted musician for major brands and organizations including, but not limited to:
 
   - BMW
   - Boeing
@@ -192,9 +185,9 @@ Helped produce several television commercials for international brands that were
 **Operations Manager** @ Keller Williams Professionals Realty - Columbia, SC _(2017-2019)_ <br>
 **[The Bourke Group](https://www.thebourkegroup.com/)**
 
-- Worked with clients, attorneys, contractors, builders, city/county registrars, and lending institutions to ensure that our team delivered consistent, high-quality client experiences while successfully closing over $9M in sales in 2018
+- Communicated consistently with clients, attorneys, contractors, builders, city/county registrars, and lending institutions to ensure that our team delivered consistent, high-quality client experiences while successfully closing over $9M in sales in 2018
 - Built, implemented, and managed a new client care system in a cutting edge Real Estate CRM for a database of 7,500+ leads while providing back-office support for a top producing real estate team with the primary goal of increasing yearly gross commission income for the team.
-- Spearheaded marketing efforts for properties in excess of $4M and evaluated potential marketing opportunities that ultimately lead to an overhaul of the team marketing plan. This in turn eliminated outdated and redundant tools, reduced team expenses, and increased online engagement by an average of 20% monthly.
+- Spearheaded marketing efforts for properties in excess of $4M and evaluated potential marketing opportunities that ultimately led to an overhaul of the team marketing plan. This in turn eliminated outdated and redundant tools, reduced team expenses, and increased online engagement by an average of 20% monthly.
 - Created real estate marketing videos, digital, and print marketing materials for multi-million dollar properties in Final Cut Pro X and the Adobe Creative Cloud
 
 <br>
@@ -227,7 +220,7 @@ The Grove Park Inn<br>
   
 **Microsoft Consultant** @ Best Buy, Inc. - Asheville, NC _(2013 - 2014)_ <br>
 
-- Demonstrated the functinality and usefulness of the Microsoft Surface Pro product line as well as introduced users to the newly developed Chrome OS
+- Demonstrated the functionality and usefulness of the Microsoft Surface Pro product line as well as introduced users to the newly developed Chrome OS
 - Worked closely with other team members to demonstrate, promote and sell Microsoft products in and across the store to ensure customers' end-to-end needs were met while exceeding sales targets in revenue, margin and solutions
 - Built quality relationships with retail consumers, while providing them with relevant and memorable product demonstrations.
 
@@ -320,7 +313,49 @@ The Grove Park Inn<br>
 
 ---
 
-## Awards, Certificates, Courses, Seminars, and Conventions Not Listed Above<br>
+## All Awards, Certificates, Courses, Seminars, and Conventions<br>
+
+**Front-End Developer Professional Certificate**<br>
+[Certificate from Meta](https://www.coursera.org/professional-certificates/meta-front-end-developer- _(IN PROGRESS)_ <br>
+
+**Blockchain and Smart Contract Security**<br>
+[Certificate from LinkedIn](https://www.linkedin.com/learning/certificates/396199478e892db785773b04cacabcb2c5d66fad6b7e955c5eef166660da3c10?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsRdSfJeCSo2mALo3JAoD4A%3D%3D) _(2022)_ <br>
+
+**Programming With JavaScript**<br>
+[Certificate from Meta](https://coursera.org/verify/2C2SUEHQ8XE3) _(2022)_ <br>
+
+**Version Control Systems**<br>
+[Certificate from Meta](https://coursera.org/verify/7JXZBDX2Q7SZ) _(2022)_ <br>
+
+**Intro Mobile Development**<br>
+[Certificate from Meta](https://coursera.org/verify/ATXN75RWFRSS) _(2022)_ <br>
+
+**Intro To Front End Development**<br>
+[Certificate from Meta](https://coursera.org/verify/5D8F2L8R3BGD) _(2022)_ <br>
+
+**Responsive Web Design** focused on full-stack JavaScript<br>
+[Certificate from freeCodeCamp](https://freecodecamp.org/certification/jtsugranes/responsive-web-design) - _(2022)_ <br>
+
+**Creating and Managing Cloud Resources**<br>
+[Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2469699?)
+
+**Infrastructure and Application Modernization with Google Cloud**<br>
+[Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2463513?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
+
+**Innovating with Data and Google Cloud**<br>
+[Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2462976?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
+
+**Understanding Google Cloud Security and Operations**<br>
+[Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2463816?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
+
+**Introduction to Digital Transformation with Google Cloud**<br>
+[Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2461375?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
+
+**Technical Support Fundamentals Certificate**<br>
+[Certificate from Google](https://www.coursera.org/account/accomplishments/certificate/Y3GXSZJNQVTH) - _(2022)_ <br>
+
+**Foundations of User Experience (UX) Design**<br>
+[Certificate from Google](https://coursera.org/verify/HTH2Z6PD3LGP) _(2022)_ <br>
 
 - 2022 - John Bura: Basic JavaScript, BitDegree<br>
 - 2022 - John Bura: HTML For Beginners, BitDegree
