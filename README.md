@@ -1,26 +1,26 @@
 # Justin Tsugranes
 
-_Front-End Web Developer, and Digital Media Creator based in Los Angeles, California_ <br>
+## _Front-End Web Developer, and Digital Media Creator based in Los Angeles, California_
 
-## Back in my day, we just had the telephone and dial-up internet. Here are all of the ways you can reach me now, but e-mail is the quickest.... I check it on Monday mornings and Wednesday Afternoons and I leave everything else set to _do not disturb_
+Back in my day, we just had the telephone and dial-up internet. Here are all of the ways you can reach me now, but e-mail is the quickest.... I check it on Monday mornings and Wednesday Afternoons and I leave everything else set to _do not disturb_
 
-[Adobe Stock Portfolio](https://stock.adobe.com/cr/contributor/210844067/justintsugranes) /
-[Audius](https://audius.co/themisfitdodo) /
-[Email](mailto:justintsugranes@proton.me) /
-[Flickr](https://flic.kr/ps/3YkmsL)/
-[GitHub](https://github.com/justintsugranes/) /
-[Instagram](https://instagram.com/justintsugranes) /
-[LinkedIn](https://www.linkedin.com/in/justintsugranes/) /
-[Official Website](https://www.justintsugranes.com/) /
-[Medium](https://justintsugranes.medium.com/) /
-[Twitter](https://twitter.com/justintsugranes/) /
+[Adobe Stock Portfolio](https://stock.adobe.com/cr/contributor/210844067/justintsugranes)
+[Audius](https://audius.co/themisfitdodo)
+[Email](mailto:justintsugranes@proton.me)
+[Flickr](https://flic.kr/ps/3YkmsL)
+[GitHub](https://github.com/justintsugranes/)
+[Instagram](https://instagram.com/justintsugranes)
+[LinkedIn](https://www.linkedin.com/in/justintsugranes/)
+[Official Website](https://www.justintsugranes.com/)
+[Medium](https://justintsugranes.medium.com/)
+[Twitter](https://twitter.com/justintsugranes/)
 
-### About Me:
+### About Me
 
 - I'm currently focused on Next.js and React.js Front End Development and UX/UI Design with Figma.
 - I'm fascinated with the major developments being made with cloud computing, machine learning, smart contracts, DeFi, tokenized assets, blockchain use-cases, and augmented reality, but I'm taking all of that one-step-at-a-time since it's a little bit much to try to digest all at once...
 
-### Completely Aside From Tech...
+### Completely Aside From Tech
 
 - writing songs, trading, backgammon, live shows and events, photography, hiking, camping, backpacking, trail-running, road trips, non-fiction books-audiobooks-podcasts-vlogs-blogs, sailing, snorkeling, and diving into artistic rabbit holes.
 
@@ -29,19 +29,17 @@ _Front-End Web Developer, and Digital Media Creator based in Los Angeles, Califo
 - Before I began coding, I was helping production companies with commercials for the 2021 Super Bowl.
 - I blew my right hand up with dynamite when I was 9 (no joke... it took 120 stitches to put it back together). I went on to obtain a Master's Degree in Jazz Guitar and then became a guitarist for the US Army and a recording artist.
 
-
 ## Formal Education
 
-**Master of Music** in Jazz Studies<br>
-[University of South Carolina](https://sc.edu/study/colleges_schools/music/) - Columbia, SC _(Aug 2011 - May 2013)_ <br>
+**Master of Music** in Jazz Studies
+[University of South Carolina](https://sc.edu/study/colleges_schools/music/) - Columbia, SC _(Aug 2011 - May 2013)_
 
-**Bachelor of Arts** in Music Performance<br>
-[Winthrop University](https://www.winthrop.edu/cvpa/music/) - Rock Hill, SC _(Aug 2006 - May 2010)_ <br>
-
+**Bachelor of Arts** in Music Performance
+[Winthrop University](https://www.winthrop.edu/cvpa/music/) - Rock Hill, SC _(Aug 2006 - May 2010)_
 
 ## Current
 
-**Front-End Web Developer** _2022 - Present)_ <br>
+**Front-End Web Developer** _2022 - Present)_
 Strong advocate of MVP models and efficient workflows utilizing test-driven development environments with continuous integration, control, and delivery. Design, develop, launch, and improve!
 
 - Languages: Javascript, Typescript, HTML5, CSS3
@@ -51,67 +49,67 @@ Strong advocate of MVP models and efficient workflows utilizing test-driven deve
 - Version Control: git, Github
 - Testing: jest
 - Tools: VSCode, iTerm2
-- UX/UI & Graphic Design: Figma, Adobe Creative Cloud
+- UX/UI & Graphic Design: Figma, - Adobe Creative Cloud
 - Solid foundational knowledge of cloud computing utilizing Google Cloud
 - Comfortable with remote work environments and working on virtual teams
 
 **Web 3.0 Investment Analyst** _(Dec 2020 - Present)_
 
 - Focused on sourcing early stage investment opportunities in emergent companies and protocols within the blockchain technology space by screening projects, reading protocol specifications and white papers, while also communicating with technical teams on Discord. This lead to a 1,500% ROI for 2021.
-Analyzed and identified non-obvious opportunities for the deployment of capital while interacting daily with Web 3.0 protocols built on Layer 1 and Layer 2 Enterprise Smart Contract Platforms such as Bitcoin, Ethereum, Polygon, Lightning, Solana, Cosmos, Fantom, Avalanche, Binance Smart Chain, and the Internet Computer.
+  Analyzed and identified non-obvious opportunities for the deployment of capital while interacting daily with Web 3.0 protocols built on Layer 1 and Layer 2 Enterprise Smart Contract Platforms such as Bitcoin, Ethereum, Polygon, Lightning, Solana, Cosmos, Fantom, Avalanche, Binance Smart Chain, and the Internet Computer.
 - Participated in multiple yield-farming and staking strategies that helped to build liquidity for cross-chain interoperability
 - Safely managed private keys using private key best practices
 - Utilized Webhooks to connect data feeds between TradingView, Discord, Telegram, and Trading Exchanges to create custom trading signals
 
 ### Tech Relateds Certificates, Courses and Bootcamps
 
-**Front-End Developer Professional Certificate**<br>
-[Certificate from Meta](https://www.coursera.org/professional-certificates/meta-front-end-developer- _(IN PROGRESS)_ <br>
+**Front-End Developer Professional Certificate**
+[Certificate from Meta](<https://www.coursera.org/professional-certificates/meta-front-end-developer>- _(IN PROGRESS)_
 
-**Blockchain and Smart Contract Security**<br>
-[Certificate from LinkedIn](https://www.linkedin.com/learning/certificates/396199478e892db785773b04cacabcb2c5d66fad6b7e955c5eef166660da3c10?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsRdSfJeCSo2mALo3JAoD4A%3D%3D) _(2022)_ <br>
+**Blockchain and Smart Contract Security**
+[Certificate from LinkedIn](https://www.linkedin.com/learning/certificates/396199478e892db785773b04cacabcb2c5d66fad6b7e955c5eef166660da3c10?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsRdSfJeCSo2mALo3JAoD4A%3D%3D) _(2022)_
 
-**Programming With JavaScript**<br>
-[Certificate from Meta](https://coursera.org/verify/2C2SUEHQ8XE3) _(2022)_ <br>
+**Programming With JavaScript**
+[Certificate from Meta](https://coursera.org/verify/2C2SUEHQ8XE3) _(2022)_
 
-**Version Control Systems**<br>
-[Certificate from Meta](https://coursera.org/verify/7JXZBDX2Q7SZ) _(2022)_ <br>
+**Version Control Systems**
+[Certificate from Meta](https://coursera.org/verify/7JXZBDX2Q7SZ) _(2022)_
 
-**Intro Mobile Development**<br>
-[Certificate from Meta](https://coursera.org/verify/ATXN75RWFRSS) _(2022)_ <br>
+**Intro Mobile Development**
+[Certificate from Meta](https://coursera.org/verify/ATXN75RWFRSS) _(2022)_
 
-**Intro To Front End Development**<br>
-[Certificate from Meta](https://coursera.org/verify/5D8F2L8R3BGD) _(2022)_ <br>
+**Intro To Front End Development**
+[Certificate from Meta](https://coursera.org/verify/5D8F2L8R3BGD) _(2022)_
 
-**Responsive Web Design** focused on full-stack JavaScript<br>
-[Certificate from freeCodeCamp](https://freecodecamp.org/certification/jtsugranes/responsive-web-design) - _(2022)_ <br>
+**Responsive Web Design** focused on full-stack JavaScript
+[Certificate from freeCodeCamp](https://freecodecamp.org/certification/jtsugranes/responsive-web-design) - _(2022)_
 
-**Creating and Managing Cloud Resources**<br>
+**Creating and Managing Cloud Resources**
 [Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2469699?)
 
-**Infrastructure and Application Modernization with Google Cloud**<br>
-[Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2463513?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
+**Infrastructure and Application Modernization with Google Cloud**
+[Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2463513?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_
 
-**Innovating with Data and Google Cloud**<br>
-[Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2462976?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
+**Innovating with Data and Google Cloud**
+[Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2462976?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_
 
-**Understanding Google Cloud Security and Operations**<br>
-[Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2463816?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
+**Understanding Google Cloud Security and Operations**
+[Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2463816?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_
 
-**Introduction to Digital Transformation with Google Cloud**<br>
-[Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2461375?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
+**Introduction to Digital Transformation with Google Cloud**
+[Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2461375?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_
 
-**Technical Support Fundamentals Certificate**<br>
-[Certificate from Google](https://www.coursera.org/account/accomplishments/certificate/Y3GXSZJNQVTH) - _(2022)_ <br>
+**Technical Support Fundamentals Certificate**
+[Certificate from Google](https://www.coursera.org/account/accomplishments/certificate/Y3GXSZJNQVTH) - _(2022)_
 
-**Foundations of User Experience (UX) Design**<br>
-[Certificate from Google](https://coursera.org/verify/HTH2Z6PD3LGP) _(2022)_ <br>
+**Foundations of User Experience (UX) Design**
+[Certificate from Google](https://coursera.org/verify/HTH2Z6PD3LGP) _(2022)_
 
 ---
 
 ## Other Professional Experience
 
-**Production Assistant** @ misfitDodo Media _(May 2020 - Nov 2021)_ <br>
+**Production Assistant** @ misfitDodo Media _(May 2020 - Nov 2021)_
 As a cross-functional team member, I helped on the production of television commercials for international brands that were aired during Super Bowl LVI. This required me to anticipate the needs of directors, producers, union crew members, talent, and vendors.
 
 Assisted the Production Supervisor on payroll and administrative tasks while handling sensitive data for projects with budgets over $5MIL
@@ -120,20 +118,18 @@ Assisted the Production Supervisor on payroll and administrative tasks while han
 - Production Companies Worked With: Moxie Pictures, Backyard Productions, Somesuch Productions, Golden Productions
 - Agencies: DLA, Weber Shandwick, BBDO, XO
 
-[Dolby Atmos: Experience The Weeknd's Take My Breath Like Never Before](https://www.youtube.com/watch?v=Qd1ZFLsVtgo)<br>
-[Chevy: Walter the Cat](https://www.youtube.com/watch?v=bfuhFvZsgkc)<br>
+[Dolby Atmos: Experience The Weeknd's Take My Breath Like Never Before](https://www.youtube.com/watch?v=Qd1ZFLsVtgo)
+[Chevy: Walter the Cat](https://www.youtube.com/watch?v=bfuhFvZsgkc)
 [Fedex: Make a World of Difference](https://www.youtube.com/watch?v=Ugu225pTIm0)
 
-<br>
-
-**Senior Army Bandsman** @ US Army National Guard _(2019 - 2022)_ <br>
+**Senior Army Bandsman** @ US Army National Guard _(2019 - 2022)_
 40th Infantry Division Band - Los Angeles, CA
 
 - As a 'Charlie 1' designated Army Bandsman, I coached more senior instrumentalists in preparation of advanced training at the Army School of Music
 - Operated A/V equipment in support of military ceremonies and rehearsals
 - Guitarist in the Jazz Combo
 
-**Guitarist | Senior Supply Operations NCO** @ US Army National Guard _(2009 - 2019)_ <br>
+**Guitarist | Senior Supply Operations NCO** @ US Army National Guard _(2009 - 2019)_
 246 Army Band - Columbia, SC
 
 - Successfully executed community outreach missions alongside a team of thirty-five Army musicians to perform in major performance halls across South Carolina and California for crowds in excess of 100,000 people as part of a higher-level goal of promoting patriotism
@@ -157,9 +153,7 @@ Assisted the Production Supervisor on payroll and administrative tasks while han
   - The S.C. Gubernatorial Inauguration of Nikki Haley _(2011)_
   - Newberry Opera House, Annually _(2011-2015)_
 
-<br>
-
-**Professional Musician** @ Ridgeline Records, LLC. _(2006 - 2020)_ <br>
+**Professional Musician** @ Ridgeline Records, LLC. _(2006 - 2020)_
 
 - Managed the administrative responsibilities associated with running a freelance entertainment business including: creating contracts, riders and invoices, financial management and communicating the specific needs of musicians to vendors
 
@@ -177,72 +171,56 @@ Assisted the Production Supervisor on payroll and administrative tasks while han
   - Employer Support For the Guard And Reserve
 
 - Managed the administrative responsibilities associated with running a growing music entertainment business including: creating contracts, riders and invoices, booking keeping and communicating the specific needs of musicians to vendors
-- Created websites, logos, fliers, graphics, and other promotional materials using Adobe CC and Squarespace
+- Created websites, logos, fliers, graphics, and other promotional materials using - Adobe CC and Squarespace
 - Utilized Logic Pro X along with digital and analog gear to record, produce and distribute original music
 
-<br>
-
-**Operations Manager** @ Keller Williams Professionals Realty - Columbia, SC _(2017-2019)_ <br>
+**Operations Manager** @ Keller Williams Professionals Realty - Columbia, SC _(2017-2019)_
 **[The Bourke Group](https://www.thebourkegroup.com/)**
 
 - Communicated consistently with clients, attorneys, contractors, builders, city/county registrars, and lending institutions to ensure that our team delivered consistent, high-quality client experiences while successfully closing over $9M in sales in 2018
 - Built, implemented, and managed a new client care system in a cutting edge Real Estate CRM for a database of 7,500+ leads while providing back-office support for a top producing real estate team with the primary goal of increasing yearly gross commission income for the team.
 - Spearheaded marketing efforts for properties in excess of $4M and evaluated potential marketing opportunities that ultimately led to an overhaul of the team marketing plan. This in turn eliminated outdated and redundant tools, reduced team expenses, and increased online engagement by an average of 20% monthly.
-- Created real estate marketing videos, digital, and print marketing materials for multi-million dollar properties in Final Cut Pro X and the Adobe Creative Cloud
+- Created real estate marketing videos, digital, and print marketing materials for multi-million dollar properties in Final Cut Pro X and the - Adobe Creative Cloud
 
-<br>
-
-**Electric Guitarist, Bass Guitar, Vocals** @ Emma’s Lounge - Asheville, NC _(2016-2017)_ <br>
+**Electric Guitarist, Bass Guitar, Vocals** @ Emma’s Lounge - Asheville, NC _(2016-2017)_
 
 - Folk Rock, Americana, Jam Band
 - Performed across North Carolina, South Carolina, Georgia and Virginia
 - French Broad River Festival, 2017
 
-<br>
-
-**Electric Guitarist, Composer** @ Calvin Get Down - Asheville, NC _(2014-2015)_ <br>
+**Electric Guitarist, Composer** @ Calvin Get Down - Asheville, NC _(2014-2015)_
 Funk, Rock, Blues
 
 - Performed in local venues, breweries and festivals
 
-<br>
-
-**Parking and Transportation Host** - Asheville, NC _(2014 - 2016)_ <br>
-The Inn on Biltmore Estate<br>
-The Grove Park Inn<br>
+**Parking and Transportation Host** - Asheville, NC _(2014 - 2016)_
+The Inn on Biltmore Estate
+The Grove Park Inn
 
 - Recognized for exceeding strict Forbes standards within two different four-star, four-diamond world-class resorts
 - Worked in a fast-paced, high stress position during all times of day and types of weather while maintaining a professional demeanor.
 - Worked as part of a team to coordinator heavy guest traffic patterns during events, weddings and peak holiday seasons while assisting guests with all of their check-in, check-out and transportation needs
 - Proactively engaged guests while identifying opportunities to cross-promote estate products and services as appropriate
 
-<br>
-  
-**Microsoft Consultant** @ Best Buy, Inc. - Asheville, NC _(2013 - 2014)_ <br>
+**Microsoft Consultant** @ Best Buy, Inc. - Asheville, NC _(2013 - 2014)_
 
 - Demonstrated the functionality and usefulness of the Microsoft Surface Pro product line as well as introduced users to the newly developed Chrome OS
 - Worked closely with other team members to demonstrate, promote and sell Microsoft products in and across the store to ensure customers' end-to-end needs were met while exceeding sales targets in revenue, margin and solutions
 - Built quality relationships with retail consumers, while providing them with relevant and memorable product demonstrations.
 
-<br>
-
-**Principal Guitarist for Weekly Services** @ First Baptist Church - Charlotte, NC _(2009-2011)_ <br>
+**Principal Guitarist for Weekly Services** @ First Baptist Church - Charlotte, NC _(2009-2011)_
 
 - Quickly prepared and performed a large variety of music as directed for worship services
 - Utilized Aviom monitor systems and in ear monitors to create personalized stage mixes
 - Assisted in training, rehearsing and conducting music for the choir and orchestra
 
-<br>
-
-**Adjunct Faculty Member** @ Winthrop University - Rock Hill, SC _(2008 - 2010)_ <br>
+**Adjunct Faculty Member** @ Winthrop University - Rock Hill, SC _(2008 - 2010)_
 
 - Selected by Winthrop University Faculty members as an accompanist for major musical theatre productions and dance classes (modern and ballet) on electric and acoustic guitar
 - Responsible for several hours of unscripted improvisations on guitar that were specifically tailored for the needs of various dance instructors in every style, meter and tempo
 - Served as a substitute instructor for guitar ensembles, Jazz history classes and music appreciation classes
 
-<br>
-  
-**Senior Sales Associate** @ Radioshack - Rock Hill, SC _(2006 - 2008)_ <br>
+**Senior Sales Associate** @ Radioshack - Rock Hill, SC _(2006 - 2008)_
 
 - It was the best job I've ever had. I got to play with remote control cars all day, install surround sound in the store, learn about resistors and stuff, and make sure everyone had plenty of batteries.
 
@@ -250,19 +228,19 @@ The Grove Park Inn<br>
 
 ## MUSICAL THEATRE PRODUCTIONS
 
-**Legally Blonde** @ Workshop Theatre - Columbia, SC _(2012)_<br>
+**Legally Blonde** @ Workshop Theatre - Columbia, SC _(2012)_
 
-- Guitarist for the musical adaptation of the novel, Legally Blonde by Heather Hach <br>
+- Guitarist for the musical adaptation of the novel, Legally Blonde by Heather Hach
 
-**Grease** @ Town Theatre, Columbia, SC _(2012)_<br>
+**Grease** @ Town Theatre, Columbia, SC _(2012)_
 
-- Guitarist for Jim Jacobs and Warren Casey’s, “Grease" <br>
+- Guitarist for Jim Jacobs and Warren Casey’s, “Grease"
 
-**Godspell** @ Winthrop University, Rock Hill, SC _(2010)_<br>
+**Godspell** @ Winthrop University, Rock Hill, SC _(2010)_
 
-- Guitarist for the production of John-Michael Tebelak and Stephen Schwartz’s, “Godspell” <br>
+- Guitarist for the production of John-Michael Tebelak and Stephen Schwartz’s, “Godspell”
 
-**Anything Goes** @ Winthrop University, Rock Hill, SC _(2009)_<br>
+**Anything Goes** @ Winthrop University, Rock Hill, SC _(2009)_
 
 - Guitarist for the Musical Production of Cole Porter’s, “Anything Goes”
 
@@ -270,21 +248,21 @@ The Grove Park Inn<br>
 
 ## VOLUNTEER EXPERIENCE
 
-**[Sync Con](https://synccon.com/)** - Los Angeles, CA _(2019)_<br>
+**[Sync Con](https://synccon.com/)** - Los Angeles, CA _(2019)_
 
 - Volunteered for the annual Sync Con Music Syncronization conference in Hollywood, CA
 - Helped with VIP Guest registration and guest artist relations.
 
-**[RiverLink](https://riverlink.org/)** - Asheville, NC _(2018)_<br>
+**[RiverLink](https://riverlink.org/)** - Asheville, NC _(2018)_
 
 - RiverLink is a non-profit that focuses on cleaning up the French Broad River in Asheville, NC
 - As a member of Keller Williams' "Red Day," I worked in two and three person teams to paddle the French Broad River to collect trash and debris as part of their revitalization project
 
-**[South Carolina Music Educator's Conference](https://www.scmea.net/)** - Charleston, SC _(2011-2019)_<br>
+**[South Carolina Music Educator's Conference](https://www.scmea.net/)** - Charleston, SC _(2011-2019)_
 
 - As a liaison for the South Carolina National Guard, I was responsible for designing a booth display seen by over 5,000 students and music professionals as well as giving masterclasses on Jazz Guitar to attract potential candidates to the Army Band
 
-**[Spartan](https://www.spartan.com/)** - South Carolina _(2013)_<br>
+**[Spartan](https://www.spartan.com/)** - South Carolina _(2013)_
 
 - Helped to raise money on behalf of Home For Our Troops to help injured veterans.
 - Worked in a two-man team to navigate 13 miles of unmarked terrain to design a half-marathon obstacle course that was used by 7,500 people
@@ -293,100 +271,71 @@ The Grove Park Inn<br>
 
 ## PUBLIC SPEAKING
 
-**[WTFH Podcast](https://www.callin.com/episode/jakelightning-brekolazh-2-CcXCcfTVTS)** _(2022)_<br>
+**[WTFH Podcast](https://www.callin.com/episode/jakelightning-brekolazh-2-CcXCcfTVTS)** _(2022)_
 
-**The Soundcheck Radioshow 103.7** _(live-broadcast, 2017)_ <br><br>
+**The Soundcheck Radioshow 103.7** _(live-broadcast, 2017)_ \\
 
-**Want me to speak at your event, podcast, or vlog?**<br>
-[Send Me An Email]() for more information.
+**Want me to speak at your event, podcast, or vlog?**\
 
 ---
 
 ## Awards and Accomplishments
 
-- Army Achievement Medal<br>
-- Army State Active Service Medal<br>
-- Army Reserve Component Achievement Medal with Two Oak leaf Clusters<br>
-- Army Professional Development Ribbon<br>
-- Coin of Excellence - US Army Band Evaluation Team, Earned a Coin of Excellence from the Operational Readiness Evaluation team for superior performance on guitar during their evaluation of the 246 Army Band Jazz Combo _(2016)_<br>
-- Commandant’s List - US Army Warrior Leader Course, Nominated by Peers to compete for the title of Honor Graduate _(2016)_<br>
+- Army Achievement Medal
+- Army State Active Service Medal
+- Army Reserve Component Achievement Medal with Two Oak leaf Clusters
+- Army Professional Development Ribbon
+- Coin of Excellence - US Army Band Evaluation Team, Earned a Coin of Excellence from the Operational Readiness Evaluation team for superior performance on guitar during their evaluation of the 246 Army Band Jazz Combo _(2016)_
+- Commandant’s List - US Army Warrior Leader Course, Nominated by Peers to compete for the title of Honor Graduate _(2016)_
 
 ---
 
-## All Awards, Certificates, Courses, Seminars, and Conventions<br>
+## All Awards, Certificates, Courses, Seminars, and Conventions
 
-**Front-End Developer Professional Certificate**<br>
-[Certificate from Meta](https://www.coursera.org/professional-certificates/meta-front-end-developer- _(IN PROGRESS)_ <br>
-
-**Blockchain and Smart Contract Security**<br>
-[Certificate from LinkedIn](https://www.linkedin.com/learning/certificates/396199478e892db785773b04cacabcb2c5d66fad6b7e955c5eef166660da3c10?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsRdSfJeCSo2mALo3JAoD4A%3D%3D) _(2022)_ <br>
-
-**Programming With JavaScript**<br>
-[Certificate from Meta](https://coursera.org/verify/2C2SUEHQ8XE3) _(2022)_ <br>
-
-**Version Control Systems**<br>
-[Certificate from Meta](https://coursera.org/verify/7JXZBDX2Q7SZ) _(2022)_ <br>
-
-**Intro Mobile Development**<br>
-[Certificate from Meta](https://coursera.org/verify/ATXN75RWFRSS) _(2022)_ <br>
-
-**Intro To Front End Development**<br>
-[Certificate from Meta](https://coursera.org/verify/5D8F2L8R3BGD) _(2022)_ <br>
-
-**Responsive Web Design** focused on full-stack JavaScript<br>
-[Certificate from freeCodeCamp](https://freecodecamp.org/certification/jtsugranes/responsive-web-design) - _(2022)_ <br>
-
-**Creating and Managing Cloud Resources**<br>
-[Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2469699?)
-
-**Infrastructure and Application Modernization with Google Cloud**<br>
-[Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2463513?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
-
-**Innovating with Data and Google Cloud**<br>
-[Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2462976?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
-
-**Understanding Google Cloud Security and Operations**<br>
-[Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2463816?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
-
-**Introduction to Digital Transformation with Google Cloud**<br>
-[Certificate from Google](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2461375?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) - _(2022)_ <br>
-
-**Technical Support Fundamentals Certificate**<br>
-[Certificate from Google](https://www.coursera.org/account/accomplishments/certificate/Y3GXSZJNQVTH) - _(2022)_ <br>
-
-**Foundations of User Experience (UX) Design**<br>
-[Certificate from Google](https://coursera.org/verify/HTH2Z6PD3LGP) _(2022)_ <br>
-
-- 2022 - John Bura: Basic JavaScript, BitDegree<br>
+- 2022 - [Front-End Developer Professional Certificate - IN PROGRESS](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+- 2022 - [Programming With JavaScript](https://coursera.org/verify/2C2SUEHQ8XE3)
+- 2022 - [Version Control Systems](https://coursera.org/verify/7JXZBDX2Q7SZ)
+- 2022 - [Intro Mobile Development](https://coursera.org/verify/ATXN75RWFRSS)
+- 2022 - [Intro To Front End Development](https://coursera.org/verify/5D8F2L8R3BGD)
+- 2022 - [Responsive Web Design](https://freecodecamp.org/certification/jtsugranes/responsive-web-design)
+- 2022 - [Creating and Managing Cloud Resources](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2469699?)
+- 2022 - [Infrastructure and Application Modernization with Google Cloud](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2463513?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+- 2022 - [Innovating with Data and Google Cloud](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2462976?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+- 2022 - [Understanding Google Cloud Security and Operations](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2463816?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+- 2022 - [Introduction to Digital Transformation with Google Cloud](https://www.cloudskillsboost.google/public_profiles/2b5f9737-c791-4af8-adf2-0a54a380817b/badges/2461375?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+- 2022 - [Technical Support Fundamentals Certificate](https://www.coursera.org/account/accomplishments/certificate/Y3GXSZJNQVTH)
+- 2022 - [Foundations of User Experience (UX) Design](https://coursera.org/verify/HTH2Z6PD3LGP)
+- 2022 - [Blockchain and Smart Contract Security](https://www.linkedin.com/learning/certificates/396199478e892db785773b04cacabcb2c5d66fad6b7e955c5eef166660da3c10?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsRdSfJeCSo2mALo3JAoD4A%3D%3D)
+- 2022 - John Bura: Basic JavaScript, BitDegree
 - 2022 - John Bura: HTML For Beginners, BitDegree
-- 2022 - Strategic Planning Foundations (LinkedIn Learning)<br>
-- 2022 - WordPress 5 Essential Training<br>
-- 2010-2022 - Secret Security Clearance Holder<br>
-- 2021 - Chainlink Smart Contract Summit<br>
-- 2021 - Jayson Casper Trading Course<br>
-- 2021 - Wysetrade Trading Masterclass<br>
-- 2019 - Sync Con Hollywood - Annual Sync Con Music Synchronization conference in Hollywood, CA. Helped with VIP Guest registration and guest artist relations.<br>
-- 2011-2019 - South Carolina Music Educators Association Conference, Columbia, SC - As a liaison for the South Carolina National Guard, I was responsible for designing a booth display seen by over 5,000 students and music professionals as well as giving masterclasses on Jazz Guitar to attract potential candidates to the Army Band<br>
-- 2019 - Leading with Intelligent Disobedience<br>
-- 2019 - Guy Kawasaki on Entrepreneurship<br>
-- 2019 - Managing Your Personal Investments (LinkedIn Learning)<br>
-- 2019 - The Science of Logo Design (LinkedIn Learning)<br>
-- 2018 - Commissions Inc Live Sales and Lead Generation Summit, Atlanta, GA<br>
-- 2018 - [Online Presence vs. Presence Online](https://www.giordano.global/), Full Day Training Seminar led by the Best Selling Author of The Social Agent, Tony Giordano, that focused on the modern-day language of sales and social media marketing tactics<br>
-- 2018 - [Personal Branding Mastery](http://personalbrandingmastery.com/), Full Day Marketing and Sales Training Seminar led by Tim Davis<br>
-- 2017 - Army Structured Self-Development Course Level 2 - Military Training Course designed around developing advanced team leadership skills<br>
-- 2016, CPR Certification<br>
-- 2015 - Army Warrior Leader Course, Columbia, SC - Two week intensive leadership course that prepares military soldiers to advance to the rank of Sergeant. Made the Commandant’s List and nominated by my peers and cadre to compete for Honor Graduate for finishing in the top 10% of my class<br>
-- 2014 - Structured Self-Development Course Level 1 - Military Training Course focused on developing effective leadership skills.<br>
-- 2010, Combat Lifesaver Certification<br>
-- 2013 - [Percussive Arts Society International Convention](https://pasic.org/), Indianapolis, IN - Attended percussion masterclasses and seminars during the 4-day PASIC conference<br>
-- 2010 - [Army School of Music](https://www.music.army.mil/careers/schoolofmusic/),  Little Creek Naval Base, Norfolk, VA - 5-week music performance course at the Army School of Music on Little Creek Naval Base. Received a “Charlie 1” Designation for scoring 32 out of 40 on the Army Music Proficiency Assessment, earning me a commendation from the Commandant of the School of Music<br>
-- 2010 - [Army Basic Combat Training](https://www.goarmy.com/soldier-life/becoming-a-soldier/basic-combat-training.html),  Fort Jackson, Columbia, SC - 10-Week military training course that teaches basic tactical survival skills, military customs and instills the 7 Core Army Values: Loyalty, Duty, Respect, Selfless Service, Honor, Integrity, Personal Courage<br>
-- 2009, Roy T Will Music Theory Scholarship<br>
-- 2008, SCUBA Certified<br>
-- 2005-2006 - Fine Arts Center, Greenville, SC - Certificate - Certificate, Jazz Studies and Guitar Performance with Steve Watson<br>
-- 2005 - Berklee College of Music, Boston, MA - Certificate - Summer Performance Intensive Program, Guitar<br>
-- 2001-2004 - East Coast Music Mall, Danbury, CT - Private Instruction, Guitar<br>
+- 2022 - Strategic Planning Foundations (LinkedIn Learning)
+- 2022 - WordPress 5 Essential Training
+- 2010-2022 - Secret Security Clearance Holder
+- 2021 - Chainlink Smart Contract Summit
+- 2021 - Jayson Casper Trading Course
+- 2021 - Wysetrade Trading Masterclass
+- 2019 - Sync Con Hollywood - Annual Sync Con Music Synchronization conference in Hollywood, CA. Helped with VIP Guest registration and guest artist relations.
+- 2011-2019 - South Carolina Music Educators Association Conference, Columbia, SC - As a liaison for the South Carolina National Guard, I was responsible for designing a booth display seen by over 5,000 students and music professionals as well as giving masterclasses on Jazz Guitar to attract potential candidates to the Army Band
+- 2019 - Leading with Intelligent Disobedience
+- 2019 - Guy Kawasaki on Entrepreneurship
+- 2019 - Managing Your Personal Investments (LinkedIn Learning)
+- 2019 - The Science of Logo Design (LinkedIn Learning)
+- 2018 - Commissions Inc Live Sales and Lead Generation Summit, Atlanta, GA
+- 2018 - [Online Presence vs. Presence Online](https://www.giordano.global/), Full Day Training Seminar led by the Best Selling Author of The Social Agent, Tony Giordano, that focused on the modern-day language of sales and social media marketing tactics
+- 2018 - [Personal Branding Mastery](http://personalbrandingmastery.com/), Full Day Marketing and Sales Training Seminar led by Tim Davis
+- 2017 - Army Structured Self-Development Course Level 2 - Military Training Course designed around developing advanced team leadership skills
+- 2016, CPR Certification
+- 2015 - Army Warrior Leader Course, Columbia, SC - Two week intensive leadership course that prepares military soldiers to advance to the rank of Sergeant. Made the Commandant’s List and nominated by my peers and cadre to compete for Honor Graduate for finishing in the top 10% of my class
+- 2014 - Structured Self-Development Course Level 1 - Military Training Course focused on developing effective leadership skills.
+- 2010, Combat Lifesaver Certification
+- 2013 - [Percussive Arts Society International Convention](https://pasic.org/), Indianapolis, IN - Attended percussion masterclasses and seminars during the 4-day PASIC conference
+- 2010 - [Army School of Music](https://www.music.army.mil/careers/schoolofmusic/),  Little Creek Naval Base, Norfolk, VA - 5-week music performance course at the Army School of Music on Little Creek Naval Base. Received a “Charlie 1” Designation for scoring 32 out of 40 on the Army Music Proficiency Assessment, earning me a commendation from the Commandant of the School of Music
+- 2010 - [Army Basic Combat Training](https://www.goarmy.com/soldier-life/becoming-a-soldier/basic-combat-training.html),  Fort Jackson, Columbia, SC - 10-Week military training course that teaches basic tactical survival skills, military customs and instills the 7 Core Army Values: Loyalty, Duty, Respect, Selfless Service, Honor, Integrity, Personal Courage
+- 2009, Roy T Will Music Theory Scholarship
+- 2008, SCUBA Certified
+- 2005-2006 - Fine Arts Center, Greenville, SC - Certificate - Certificate, Jazz Studies and Guitar Performance with Steve Watson
+- 2005 - Berklee College of Music, Boston, MA - Certificate - Summer Performance Intensive Program, Guitar
+- 2001-2004 - East Coast Music Mall, Danbury, CT - Private Instruction, Guitar
 
 ---
 
@@ -446,170 +395,354 @@ The Grove Park Inn<br>
 
 ---
 
-## An Exhaustive, Kinda Ridculous Full List Of Skills, Technical Literacies, and Rando Stuff I Have Learned Along the Way<br>
+## An Exhaustive, Kinda Ridculous Full List Of Skills, Technical Literacies, and Rando Stuff I Have Learned Along the Way
 
 It's pretty amazing how much one can learn in a lifetime. I'm only in my early 30s. I don't plan on stopping anytime soon and I plan on keeping up with this list as time goes on.
 
 <details>
   <summary>Click to expand!</summary>
 
-- Adobe Acrobat CC<br>
-- Adobe Creative Cloud<br>
-- Adobe Illustrator CC<br>
-- Adobe Lightroom CC<br>
-- Adobe Photoshop CC<br>
-- Adobe Premiere Pro CC<br>
-- Agile Methodologies<br>
-- Audio Production<br>
-- Audio Recording<br>
-- Backgammon<br>
-- Band in a Box<br>
-- Band Promotion<br>
-- Bandcamp<br>
-- BandsInTown<br>
-- Bass Guitar<br>
-- Blockchain Development<br>
-- Blogging<br>
-- Brand Development<br>
-- Buffer<br>
-- Business Process Improvement<br>
-- Canva<br>
-- Carpentry<br>
-- Cascading Style Sheets (CSS)
-- CD Baby<br>
-- Client Relations<br>
-- Commission’s Inc<br>
-- Communication<br>
-- Content Marketing<br>
-- Cooking<br>
-- Copywriting<br>
-- Creative Problem Solving<br>
-- Crepe Making<br>
-- Cryptocurrency Development<br>
-- Customer Relationship Management (CRM)
-- Customer Relationship Management<br>
-- Customer Service<br>
-- Dance Class Accompaniment<br>
-- Decentralized Applications (dApps)<br>
-- Digital Music Recording<br>
-- Digital Marketing<br>
-- DotLoop Matrix<br>
-- Dropbox<br>
-- e-Edge<br>
-- Electric Guitar Instruction<br>
-- Electric Guitar Styles<br>
-- Ethereum<br>
-- Ethereum Virtual Machine<br>
-- Event Based Marketing<br>
-- Event-based Marketing<br>
-- Evernote<br>
-- Facebook<br>
-- Facetime<br>
-- Final Cut Pro X<br>
-- Finale 2014<br>
-- Financial Management<br>
-- Fingerpicking Guitar Styles<br>
-- Fly Fishing<br>
-- Giphy<br>
-- Git<br>
-- Github<br>
-- Google Adwords<br>
-- Google Analytics<br>
-- Google Cloud Platform<br>
-- Google Hangouts<br>
-- Google Search Console<br>
-- Google Workplace<br>
-- Guitar<br>
-- Guitar instruction<br>
-- Home Farming<br>
-- Hospitality Industry<br>
-- How To Change A Timing Belt<br>
-- How To Change The Oil in a Car<br>
-- HTML5<br>
-- Instagram<br>
-- iOS<br>
-- Javascript<br>
-- Jazz Education<br>
-- Jazz Guitar<br>
-- Jazz Improvisation<br>
-- Leading Meetings<br>
-- LinkedIn<br>
-- Live Performance<br>
-- Live Sound<br>
-- Logic Pro X<br>
-- Mailchimp<br>
-- Marketing Material Creation<br>
-- Marketing Strategy<br>
-- Media Design<br>
-- Microsoft Office Suite<br>
-- Microsoft Visual Studio Code
-- Music Distribution<br>
-- Music Education<br>
-- Music History<br>
-- Music Marketing<br>
-- Music Performance<br>
-- Music Production<br>
-- Music Theory<br>
-- Musical Theatre<br>
-- Notion<br>
-- Office Management<br>
-- Operations Management<br>
-- Operations Process Improvement<br>
-- Original Music Composition<br>
-- Photography<br>
-- Pinterest<br>
-- PreSonus Studio One<br>
-- Private Event Planning<br>
-- Process Improvement<br>
-- Production Support<br>
-- Project Management<br>
-- Proxio<br>
-- Quickbooks<br>
-- Real Estate Transactions<br>
-- Research Methods<br>
-- Sales Process Implementation<br>
-- Sales Process Improvement<br>
-- Sales<br>
-- Scrum<br>
-- Scuba<br>
-- Search Engine Optimization (SEO)<br>
-- Sight-Reading Musical Notation<br>
-- Singing (Low Tenor/Bass)<br>
-- Skype<br>
-- Small Business Management<br>
-- Smart Contracts<br>
-- Snorkeling<br>
-- Social Media Management<br>
-- Social Media Marketing<br>
-- Solidity<br>
-- Songkick<br>
-- Soundcloud<br>
-- Squarespace<br>
-- Squarespace Analytics<br>
-- Strategic Planning<br>
-- Studio Recording<br>
-- Supervisory Skills<br>
-- Task Management<br>
-- Team Building<br>
-- Team Leadership<br>
-- Technical Analysis<br>
-- Tradingview<br>
-- Trail Running<br>
-- Training Management<br>
-- Trello<br>
-- Turbotax<br>
-- Twitter<br>
-- Video Communication<br>
-- Video Editing<br>
-- Video Production<br>
-- Videography<br>
-- Web and Media Design<br>
-- Web Design<br>
-- WhatsApp<br>
-- Windows OS<br>
-- Wix<br>
-- Wordpress 5<br>
-- Youtube<br>
-- Zoom<br>
+- 1 Inch Wallet
+- Adobe Acrobat CC
+- Adobe Aero
+- Adobe Bridge
+- Adobe Capture
+- Adobe Creative Cloud
+- Adobe Illustrator CC
+- Adobe inDesign
+- Adobe Lightroom CC
+- Adobe Photoshop CC
+- Adobe Premiere Pro CC
+- Adobe Stock
+  Adobe XD
+  Agile Methodologies
+  Alchemy
+  AllMusic
+  Amazon Music
+  Apple Music
+  Apple Podcasts
+  AppleID
+  Application development
+  army band
+  Arweave
+  Audio Production
+  Audio Recording
+  Audius
+  babel
+  Back-end Development
+  Backgammon
+  Band in a Box
+  band leader
+  Band Promotion
+  Bandcamp
+  BandsinTown
+  Bass Guitar
+  Behance
+  big band
+  Bitcoin
+  Bitcoin Core
+  BitTorrent
+  Blockchain
+  Blockchain Development
+  Blogging
+  Brand Development
+  Brand strategy
+  Buffer
+  Business Development
+  Business management
+  Business Process Improvement
+  ByBit
+  Callin
+  Canva
+  Carpentry
+  Cascading Stylesheets (CSS)
+  CDBaby
+  Chainlink
+  CleanMyMacX
+  Client Relations
+  Cloud Computing
+  cloud hosting
+  Coinbase
+  Coinbase Wallet
+  Collaborating
+  Collaborative Leadership
+  Commission’s Inc
+  Communication
+  Content Marketing
+  Cooking
+  Copywriting
+  Cosmos
+  Creative Problem Solving
+  Crepe Making
+  Crm
+  Cross-Functional Collaborations
+  Cryptocurrency
+  Cryptocurrency Development
+  Cryptography
+  Customer Relationship Management (CRM)
+  Customer service
+  Cyber Security
+  Dance Class Accompaniment
+  Data Analysis
+  Data Structures
+  Database
+  Day trading
+  Deal closing
+  Decentralized Applications (DApps)
+  Design Sprints
+  Digital Marketing
+  Digital Music Recording
+  Digital Recording
+  Digital strategy
+  Discord
+  Distributed Ledger Systems
+  Distrokid
+  Docker
+  DotLoop Matrix
+  Dropbox
+  e-Edge
+  Effective Communication
+  Electric Guitar Instruction
+  Electric Guitar Styles
+  Emerging Technologies
+  Entrepreneurship
+  ESLint
+  Ethereum
+  Ethereum Name Service
+  Ethereum Virtual Machine
+  Ethers.js
+  Event Based Marketing
+  Event marketing
+  EVM Compatible Chains
+  Express.js
+  Facebook
+  Facetime
+  Figma
+  Final Cut Pro X
+  Finale 2014
+  Fingerpicking Guitar Styles
+  Fleek
+  Flickr
+  Fly Fishing
+  Development Frameworks
+  Front-End Development
+  Full-Stack Development
+  Gemini2
+  Giphy
+  Git
+  Github
+  Github Pages
+  Gmail
+  Google Adwords
+  Google Analytics
+  Google Calendar
+  Google Cloud Functions
+  Google Cloud Platfomr
+  Google Domains
+  Google Drive
+  Google Forms
+  Google Hangouts
+  Google Keywords
+  Google Search Console
+  Google Sheets
+  Google Workplace
+  Graphic design
+  Gravatar
+  Growth strategies
+  growth-minded
+  Guitar
+  Guitar Instruction
+  Guitar musician
+  Guitarist
+  Hardhat
+  Helping people
+  Home Farming
+  Homebrew
+  Hospitality Industry
+  How To Change A Timing Belt
+  How To Change The Oil in a Car
+  HTML5
+  Industry 4.0
+  Infura
+  Innovation
+  innovative problem-solving
+  Instagram
+  iOS
+  IPFS
+  iterm2
+  JavaScript
+  Jazz Education
+  Jazz Guitar
+  Jazz Improvisation
+  Jekyll
+  Jest
+  JSON
+  Kaspersky
+  Keplr Wallet
+  Kucoin
+  Lead generation
+  Leadership
+  Leading Meetings
+  Ledger Hardware Wallet
+  Ledger Live
+  Leveraged Perpetual Futures Trading
+  Development Libraries
+  LinkedIn
+  Live Performance
+  Live Sound
+  Logic Pro X
+  Mailchimp
+  Marketing
+  Marketing Material Creation
+  Marketing Plan Creation
+  Marketing Strategy
+  Media Design
+  Media Design
+  Medium
+  Meeting Planning
+  MetaData
+  Metamask
+  Microsoft Office Suite
+  Microsoft Visual Studio Code
+  Military
+  Military experience
+  Military Operations
+  MongoDB Atlas
+  Moralis
+  Motivated
+  Music Composition
+  Music Education
+  Music History
+  Music Marketing
+  Music Performance
+  Music Production
+  Music Theory
+  Musical Theatre
+  MusicBrainz
+  Musician
+  Network Nervous System (ICP)
+  Next.js
+  Node.js
+  Non-Fungible Tokens
+  NordVPN
+  Notion
+  NPM
+  Object Oriented Programming (OOP)
+  Office Management
+  OpenSea
+  OpenZeppelin
+  Operations Management
+  Operations Process Improvement
+  Organizational & Writing Skills
+  Original Music Composition
+  Patreon
+  Phantom Wallet
+  Phemex
+  Photography
+  Pinata
+  Pinescript
+  Pinterest
+  Plug Wallet
+  polygon
+  PreSonus Studio One
+  Private Event Planning
+  Proactive
+  Process Improvement
+  Production Support
+  Professionalism
+  Project Management
+  Protonmail
+  Proxio
+  Public Speaking
+  Python
+  Quickbooks
+  Quickswap
+  Rarible
+  Raydium
+  React Native
+  React.js
+  Real Estate Transactions
+  Reality Composer
+  Remix IDE
+  Remote Working
+  Research
+  responsive web design
+  REST APIs
+  Rust
+  Sales
+  Sales and marketing
+  Sales Process Implementation
+  Sales Process Improvement
+  Sales strategies
+  Scripting
+  Scrum
+  Scuba
+  Search Engine Optimization
+  Sight-Reading Musical Notation
+  Singing (Low Tenor/Bass)
+  Sketch
+  Skype
+  Slack
+  Small Business Management
+  Smart Contract Security
+  Smart Contracts
+  Snapchat
+  Snorkeling
+  Social Media Management
+  Social Media Marketing
+  Solana
+  Solidity
+  Songkick
+  Soundcloud
+  Spanish
+  Speed Reading
+  Spotify
+  noSQL Databases
+  Squarespace
+  Squarespace Analytics
+  StackOverflow
+  Start-Ups
+  Store/Merch
+  Strategic Planning
+  Studio Recording
+  Supervising experience
+  Supervisory Skills
+  Swift
+  Swing trading
+  TailwindCSS
+  Task Management
+  Team Building
+  Team Leadership
+  Team management
+  Teamwork
+  Technical Analysis
+  Telegram
+  Tradingview
+  Trail Running
+  Trello
+  Turbotax
+  Twitter
+  User Experience (UX)
+  User Experience Design
+  User Interface (UI)
+  Verbal Communication
+  Version Control Systems
+  Veteran
+  Video Conferencing
+  Video Editing
+  Video Production
+  Videography
+  Wallet Connect
+  Web Applications
+  Web Design
+  Web Development
+  WhatsApp
+  Windows OS
+  Wix
+  Wordpress 5
+  Yield Farming
+  Written Communication
+  Youtube
+  Zoom
 
 </details>
