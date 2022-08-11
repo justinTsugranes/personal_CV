@@ -64,7 +64,7 @@ Strong advocate of MVP models and efficient workflows utilizing test-driven deve
 ### Tech Relateds Certificates, Courses and Bootcamps
 
 **Front-End Developer Professional Certificate**
-[Certificate from Meta](<https://www.coursera.org/professional-certificates/meta-front-end-developer>- _(IN PROGRESS)_
+[Certificate from Meta](https://www.coursera.org/professional-certificates/meta-front-end-developer) - _(IN PROGRESS)_
 
 **Blockchain and Smart Contract Security**
 [Certificate from LinkedIn](https://www.linkedin.com/learning/certificates/396199478e892db785773b04cacabcb2c5d66fad6b7e955c5eef166660da3c10?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsRdSfJeCSo2mALo3JAoD4A%3D%3D) _(2022)_
@@ -81,7 +81,7 @@ Strong advocate of MVP models and efficient workflows utilizing test-driven deve
 **Intro To Front End Development**
 [Certificate from Meta](https://coursera.org/verify/5D8F2L8R3BGD) _(2022)_
 
-**Responsive Web Design** focused on full-stack JavaScript
+**Responsive Web Design**
 [Certificate from freeCodeCamp](https://freecodecamp.org/certification/jtsugranes/responsive-web-design) - _(2022)_
 
 **Creating and Managing Cloud Resources**
@@ -118,8 +118,8 @@ Assisted the Production Supervisor on payroll and administrative tasks while han
 - Production Companies Worked With: Moxie Pictures, Backyard Productions, Somesuch Productions, Golden Productions
 - Agencies: DLA, Weber Shandwick, BBDO, XO
 
-[Dolby Atmos: Experience The Weeknd's Take My Breath Like Never Before](https://www.youtube.com/watch?v=Qd1ZFLsVtgo)
-[Chevy: Walter the Cat](https://www.youtube.com/watch?v=bfuhFvZsgkc)
+[Dolby Atmos: Experience The Weeknd's Take My Breath Like Never Before](https://www.youtube.com/watch?v=Qd1ZFLsVtgo)\
+[Chevy: Walter the Cat](https://www.youtube.com/watch?v=bfuhFvZsgkc)\
 [Fedex: Make a World of Difference](https://www.youtube.com/watch?v=Ugu225pTIm0)
 
 **Senior Army Bandsman** @ US Army National Guard _(2019 - 2022)_
@@ -414,335 +414,335 @@ It's pretty amazing how much one can learn in a lifetime. I'm only in my early 3
 - Adobe Photoshop CC
 - Adobe Premiere Pro CC
 - Adobe Stock
-  Adobe XD
-  Agile Methodologies
-  Alchemy
-  AllMusic
-  Amazon Music
-  Apple Music
-  Apple Podcasts
-  AppleID
-  Application development
-  army band
-  Arweave
-  Audio Production
-  Audio Recording
-  Audius
-  babel
-  Back-end Development
-  Backgammon
-  Band in a Box
-  band leader
-  Band Promotion
-  Bandcamp
-  BandsinTown
-  Bass Guitar
-  Behance
-  big band
-  Bitcoin
-  Bitcoin Core
-  BitTorrent
-  Blockchain
-  Blockchain Development
-  Blogging
-  Brand Development
-  Brand strategy
-  Buffer
-  Business Development
-  Business management
-  Business Process Improvement
-  ByBit
-  Callin
-  Canva
-  Carpentry
-  Cascading Stylesheets (CSS)
-  CDBaby
-  Chainlink
-  CleanMyMacX
-  Client Relations
-  Cloud Computing
-  cloud hosting
-  Coinbase
-  Coinbase Wallet
-  Collaborating
-  Collaborative Leadership
-  Commission’s Inc
-  Communication
-  Content Marketing
-  Cooking
-  Copywriting
-  Cosmos
-  Creative Problem Solving
-  Crepe Making
-  Crm
-  Cross-Functional Collaborations
-  Cryptocurrency
-  Cryptocurrency Development
-  Cryptography
-  Customer Relationship Management (CRM)
-  Customer service
-  Cyber Security
-  Dance Class Accompaniment
-  Data Analysis
-  Data Structures
-  Database
-  Day trading
-  Deal closing
-  Decentralized Applications (DApps)
-  Design Sprints
-  Digital Marketing
-  Digital Music Recording
-  Digital Recording
-  Digital strategy
-  Discord
-  Distributed Ledger Systems
-  Distrokid
-  Docker
-  DotLoop Matrix
-  Dropbox
-  e-Edge
-  Effective Communication
-  Electric Guitar Instruction
-  Electric Guitar Styles
-  Emerging Technologies
-  Entrepreneurship
-  ESLint
-  Ethereum
-  Ethereum Name Service
-  Ethereum Virtual Machine
-  Ethers.js
-  Event Based Marketing
-  Event marketing
-  EVM Compatible Chains
-  Express.js
-  Facebook
-  Facetime
-  Figma
-  Final Cut Pro X
-  Finale 2014
-  Fingerpicking Guitar Styles
-  Fleek
-  Flickr
-  Fly Fishing
-  Development Frameworks
-  Front-End Development
-  Full-Stack Development
-  Gemini2
-  Giphy
-  Git
-  Github
-  Github Pages
-  Gmail
-  Google Adwords
-  Google Analytics
-  Google Calendar
-  Google Cloud Functions
-  Google Cloud Platfomr
-  Google Domains
-  Google Drive
-  Google Forms
-  Google Hangouts
-  Google Keywords
-  Google Search Console
-  Google Sheets
-  Google Workplace
-  Graphic design
-  Gravatar
-  Growth strategies
-  growth-minded
-  Guitar
-  Guitar Instruction
-  Guitar musician
-  Guitarist
-  Hardhat
-  Helping people
-  Home Farming
-  Homebrew
-  Hospitality Industry
-  How To Change A Timing Belt
-  How To Change The Oil in a Car
-  HTML5
-  Industry 4.0
-  Infura
-  Innovation
-  innovative problem-solving
-  Instagram
-  iOS
-  IPFS
-  iterm2
-  JavaScript
-  Jazz Education
-  Jazz Guitar
-  Jazz Improvisation
-  Jekyll
-  Jest
-  JSON
-  Kaspersky
-  Keplr Wallet
-  Kucoin
-  Lead generation
-  Leadership
-  Leading Meetings
-  Ledger Hardware Wallet
-  Ledger Live
-  Leveraged Perpetual Futures Trading
-  Development Libraries
-  LinkedIn
-  Live Performance
-  Live Sound
-  Logic Pro X
-  Mailchimp
-  Marketing
-  Marketing Material Creation
-  Marketing Plan Creation
-  Marketing Strategy
-  Media Design
-  Media Design
-  Medium
-  Meeting Planning
-  MetaData
-  Metamask
-  Microsoft Office Suite
-  Microsoft Visual Studio Code
-  Military
-  Military experience
-  Military Operations
-  MongoDB Atlas
-  Moralis
-  Motivated
-  Music Composition
-  Music Education
-  Music History
-  Music Marketing
-  Music Performance
-  Music Production
-  Music Theory
-  Musical Theatre
-  MusicBrainz
-  Musician
-  Network Nervous System (ICP)
-  Next.js
-  Node.js
-  Non-Fungible Tokens
-  NordVPN
-  Notion
-  NPM
-  Object Oriented Programming (OOP)
-  Office Management
-  OpenSea
-  OpenZeppelin
-  Operations Management
-  Operations Process Improvement
-  Organizational & Writing Skills
-  Original Music Composition
-  Patreon
-  Phantom Wallet
-  Phemex
-  Photography
-  Pinata
-  Pinescript
-  Pinterest
-  Plug Wallet
-  polygon
-  PreSonus Studio One
-  Private Event Planning
-  Proactive
-  Process Improvement
-  Production Support
-  Professionalism
-  Project Management
-  Protonmail
-  Proxio
-  Public Speaking
-  Python
-  Quickbooks
-  Quickswap
-  Rarible
-  Raydium
-  React Native
-  React.js
-  Real Estate Transactions
-  Reality Composer
-  Remix IDE
-  Remote Working
-  Research
-  responsive web design
-  REST APIs
-  Rust
-  Sales
-  Sales and marketing
-  Sales Process Implementation
-  Sales Process Improvement
-  Sales strategies
-  Scripting
-  Scrum
-  Scuba
-  Search Engine Optimization
-  Sight-Reading Musical Notation
-  Singing (Low Tenor/Bass)
-  Sketch
-  Skype
-  Slack
-  Small Business Management
-  Smart Contract Security
-  Smart Contracts
-  Snapchat
-  Snorkeling
-  Social Media Management
-  Social Media Marketing
-  Solana
-  Solidity
-  Songkick
-  Soundcloud
-  Spanish
-  Speed Reading
-  Spotify
-  noSQL Databases
-  Squarespace
-  Squarespace Analytics
-  StackOverflow
-  Start-Ups
-  Store/Merch
-  Strategic Planning
-  Studio Recording
-  Supervising experience
-  Supervisory Skills
-  Swift
-  Swing trading
-  TailwindCSS
-  Task Management
-  Team Building
-  Team Leadership
-  Team management
-  Teamwork
-  Technical Analysis
-  Telegram
-  Tradingview
-  Trail Running
-  Trello
-  Turbotax
-  Twitter
-  User Experience (UX)
-  User Experience Design
-  User Interface (UI)
-  Verbal Communication
-  Version Control Systems
-  Veteran
-  Video Conferencing
-  Video Editing
-  Video Production
-  Videography
-  Wallet Connect
-  Web Applications
-  Web Design
-  Web Development
-  WhatsApp
-  Windows OS
-  Wix
-  Wordpress 5
-  Yield Farming
-  Written Communication
-  Youtube
-  Zoom
+- Adobe XD
+- Agile Methodologies
+- Alchemy
+- AllMusic
+- Amazon Music
+- Apple Music
+- Apple Podcasts
+- AppleID
+- Application development
+- army band
+- Arweave
+- Audio Production
+- Audio Recording
+- Audius
+- babel
+- Back-end Development
+- Backgammon
+- Band in a Box
+- band leader
+- Band Promotion
+- Bandcamp
+- BandsinTown
+- Bass Guitar
+- Behance
+- big band
+- Bitcoin
+- Bitcoin Core
+- BitTorrent
+- Blockchain
+- Blockchain Development
+- Blogging
+- Brand Development
+- Brand strategy
+- Buffer
+- Business Development
+- Business management
+- Business Process Improvement
+- ByBit
+- Callin
+- Canva
+- Carpentry
+- Cascading Stylesheets (CSS)
+- CDBaby
+- Chainlink
+- CleanMyMacX
+- Client Relations
+- Cloud Computing
+- cloud hosting
+- Coinbase
+- Coinbase Wallet
+- Collaborating
+- Collaborative Leadership
+- Commission’s Inc
+- Communication
+- Content Marketing
+- Cooking
+- Copywriting
+- Cosmos
+- Creative Problem Solving
+- Crepe Making
+- Crm
+- Cross-Functional Collaborations
+- Cryptocurrency
+- Cryptocurrency Development
+- Cryptography
+- Customer Relationship Management (CRM)
+- Customer service
+- Cyber Security
+- Dance Class Accompaniment
+- Data Analysis
+- Data Structures
+- Database
+- Day trading
+- Deal closing
+- Decentralized Applications (DApps)
+- Design Sprints
+- Digital Marketing
+- Digital Music Recording
+- Digital Recording
+- Digital strategy
+- Discord
+- Distributed Ledger Systems
+- Distrokid
+- Docker
+- DotLoop Matrix
+- Dropbox
+- e-Edge
+- Effective Communication
+- Electric Guitar Instruction
+- Electric Guitar Styles
+- Emerging Technologies
+- Entrepreneurship
+- ESLint
+- Ethereum
+- Ethereum Name Service
+- Ethereum Virtual Machine
+- Ethers.js
+- Event Based Marketing
+- Event marketing
+- EVM Compatible Chains
+- Express.js
+- Facebook
+- Facetime
+- Figma
+- Final Cut Pro X
+- Finale 2014
+- Fingerpicking Guitar Styles
+- Fleek
+- Flickr
+- Fly Fishing
+- Development Frameworks
+- Front-End Development
+- Full-Stack Development
+- Gemini2
+- Giphy
+- Git
+- Github
+- Github Pages
+- Gmail
+- Google Adwords
+- Google Analytics
+- Google Calendar
+- Google Cloud Functions
+- Google Cloud Platfomr
+- Google Domains
+- Google Drive
+- Google Forms
+- Google Hangouts
+- Google Keywords
+- Google Search Console
+- Google Sheets
+- Google Workplace
+- Graphic design
+- Gravatar
+- Growth strategies
+- growth-minded
+- Guitar
+- Guitar Instruction
+- Guitar musician
+- Guitarist
+- Hardhat
+- Helping people
+- Home Farming
+- Homebrew
+- Hospitality Industry
+- How To Change A Timing Belt
+- How To Change The Oil in a Car
+- HTML5
+- Industry 4.0
+- Infura
+- Innovation
+- innovative problem-solving
+- Instagram
+- iOS
+- IPFS
+- iterm2
+- JavaScript
+- Jazz Education
+- Jazz Guitar
+- Jazz Improvisation
+- Jekyll
+- Jest
+- JSON
+- Kaspersky
+- Keplr Wallet
+- Kucoin
+- Lead generation
+- Leadership
+- Leading Meetings
+- Ledger Hardware Wallet
+- Ledger Live
+- Leveraged Perpetual Futures Trading
+- Development Libraries
+- LinkedIn
+- Live Performance
+- Live Sound
+- Logic Pro X
+- Mailchimp
+- Marketing
+- Marketing Material Creation
+- Marketing Plan Creation
+- Marketing Strategy
+- Media Design
+- Media Design
+- Medium
+- Meeting Planning
+- MetaData
+- Metamask
+- Microsoft Office Suite
+- Microsoft Visual Studio Code
+- Military
+- Military experience
+- Military Operations
+- MongoDB Atlas
+- Moralis
+- Motivated
+- Music Composition
+- Music Education
+- Music History
+- Music Marketing
+- Music Performance
+- Music Production
+- Music Theory
+- Musical Theatre
+- MusicBrainz
+- Musician
+- Network Nervous System (ICP)
+- Next.js
+- Node.js
+- Non-Fungible Tokens
+- NordVPN
+- Notion
+- NPM
+- Object Oriented Programming (OOP)
+- Office Management
+- OpenSea
+- OpenZeppelin
+- Operations Management
+- Operations Process Improvement
+- Organizational & Writing Skills
+- Original Music Composition
+- Patreon
+- Phantom Wallet
+- Phemex
+- Photography
+- Pinata
+- Pinescript
+- Pinterest
+- Plug Wallet
+- polygon
+- PreSonus Studio One
+- Private Event Planning
+- Proactive
+- Process Improvement
+- Production Support
+- Professionalism
+- Project Management
+- Protonmail
+- Proxio
+- Public Speaking
+- Python
+- Quickbooks
+- Quickswap
+- Rarible
+- Raydium
+- React Native
+- React.js
+- Real Estate Transactions
+- Reality Composer
+- Remix IDE
+- Remote Working
+- Research
+- responsive web design
+- REST APIs
+- Rust
+- Sales
+- Sales and marketing
+- Sales Process Implementation
+- Sales Process Improvement
+- Sales strategies
+- Scripting
+- Scrum
+- Scuba
+- Search Engine Optimization
+- Sight-Reading Musical Notation
+- Singing (Low Tenor/Bass)
+- Sketch
+- Skype
+- Slack
+- Small Business Management
+- Smart Contract Security
+- Smart Contracts
+- Snapchat
+- Snorkeling
+- Social Media Management
+- Social Media Marketing
+- Solana
+- Solidity
+- Songkick
+- Soundcloud
+- Spanish
+- Speed Reading
+- Spotify
+- noSQL Databases
+- Squarespace
+- Squarespace Analytics
+- StackOverflow
+- Start-Ups
+- Store/Merch
+- Strategic Planning
+- Studio Recording
+- Supervising experience
+- Supervisory Skills
+- Swift
+- Swing trading
+- TailwindCSS
+- Task Management
+- Team Building
+- Team Leadership
+- Team management
+- Teamwork
+- Technical Analysis
+- Telegram
+- Tradingview
+- Trail Running
+- Trello
+- Turbotax
+- Twitter
+- User Experience (UX)
+- User Experience Design
+- User Interface (UI)
+- Verbal Communication
+- Version Control Systems
+- Veteran
+- Video Conferencing
+- Video Editing
+- Video Production
+- Videography
+- Wallet Connect
+- Web Applications
+- Web Design
+- Web Development
+- WhatsApp
+- Windows OS
+- Wix
+- Wordpress 5
+- Yield Farming
+- Written Communication
+- Youtube
+- Zoom
 
 </details>
