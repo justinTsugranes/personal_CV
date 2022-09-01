@@ -2,7 +2,7 @@
 
 ## _Front-End Web Developer, and Digital Media Creator based in Los Angeles, California_
 
-Back in my day, we just had the telephone and dial-up internet. Here are all of the ways you can reach me now, but e-mail is the quickest.... I check it on Monday mornings and Wednesday Afternoons and I leave everything else set to _do not disturb_
+Back in my day, we just had the telephone and dial-up internet. Here are all of the ways you can reach me now, but e-mail is the quickest....
 
 [Adobe Stock Portfolio](https://stock.adobe.com/cr/contributor/210844067/justintsugranes)
 [Audius](https://audius.co/themisfitdodo)
